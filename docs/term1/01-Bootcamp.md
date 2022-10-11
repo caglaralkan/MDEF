@@ -5,7 +5,9 @@ hide:
 
 # Bootcamp
 
-![](../ımages/caglaralkan_firstsubmission/first_assignmentcopy.jpg)
+![](../images/first_assignment_copy.jpg)
+
+/Users/caglaralkan/Documents/MDEF2/mdef-template/docs/images/first_assignment copy.jpg
 
 What is my fight?
 
