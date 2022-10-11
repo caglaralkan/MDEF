@@ -5,7 +5,7 @@ hide:
 
 # Bootcamp
 
-![](caglaralkan_firstsubmission/first_assignmentcopy.jpg)
+![](../ımages/caglaralkan_firstsubmission/first_assignmentcopy.jpg)
 
 What is my fight?
 
