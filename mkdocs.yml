@@ -18,7 +18,8 @@ nav:
           - Bootcamp: term1/01-Bootcamp.md
           - Vision/Goals: term1/02-Vision and Goals.md
           - MoPE: term1/03-Methods of Prototyping and Experimentation in RtD.md
-          - AoWS: term1/04-Atlas of Weak Signals.md
+          - DSAO: term1/04-Design Space and Areas of Opportunity
+          - AoWS: term1/05-Atlas of Weak Signals.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
