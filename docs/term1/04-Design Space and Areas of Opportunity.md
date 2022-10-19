@@ -18,3 +18,4 @@ On the other hand, it's really important to provide new job opportunities in the
 To sum up (not easy), urban farming has so many areas of opportunity to work on it. It's possible to combine that with architecture in terms of designing infrastructural elements like **Co-Mida** project or working on an educational and experimental kits as **Instagreen** or with complete focus on product design as **Domestic Composting**. System or service design approaches are also some other fields to work on.
 
 ![](../images/designspace1.jpg)
+![](../images/signals.jpg)
