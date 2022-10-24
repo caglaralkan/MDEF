@@ -20,3 +20,4 @@ This method would lead some ideas and projects to creative solutions, the exampl
 I prefer to use “The process of prototyping as a vehicle for inquiry” and “The prototype as an experimental component” in order to generate a new concept and to develop it carefully. And during the design process as a way of drifting, serial method looks more interesting to me because I am still not so determined about my final project and I am open for new encounters and discoveries on the path that I want to walk.
 
 ![](../images/myworkspace.jpg)
+![](../images/driftingmethod.jpg)
