@@ -29,4 +29,4 @@ To sum up this challenge I can ask some questions;
 
 Why I am doing that? Watering my plants, saving money, to tell my friends how environmentally responsible I am…
 What is my **motivation**?
-But what can **motivate** the other citizens to collect their gray water? 
+But what can **motivate** the other citizens to collect their gray water?
