@@ -5,7 +5,9 @@ hide:
 
 # Living with Your Own Ideas
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEGDI6BVei0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 In the middle of the cities we don’t grow vegetables or we don’t need to collect rain water. We are buying the food and water, two most important thing for living. And generally, we are not careful about the consumption. We waste so much water that we can use secondary purposes. It’s called **gray water**.
 
