@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://caglaralkan.github.io/MDEF/</loc>
-         <lastmod>2022-10-30</lastmod>
+         <lastmod>2022-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://caglaralkan.github.io/MDEF/about/me/</loc>
-         <lastmod>2022-10-30</lastmod>
+         <lastmod>2022-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://caglaralkan.github.io/MDEF/project/project/</loc>
-         <lastmod>2022-10-30</lastmod>
+         <lastmod>2022-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://caglaralkan.github.io/MDEF/term1/01-Bootcamp/</loc>
-         <lastmod>2022-10-30</lastmod>
+         <lastmod>2022-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://caglaralkan.github.io/MDEF/term1/02-Vision%20and%20Goals/</loc>
-         <lastmod>2022-10-30</lastmod>
+         <lastmod>2022-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://caglaralkan.github.io/MDEF/term1/03-Methods%20of%20Prototyping%20and%20Experimentation%20in%20RtD/</loc>
-         <lastmod>2022-10-30</lastmod>
+         <lastmod>2022-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://caglaralkan.github.io/MDEF/term1/04-Design%20Space%20and%20Areas%20of%20Opportunity/</loc>
-         <lastmod>2022-10-30</lastmod>
+         <lastmod>2022-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://caglaralkan.github.io/MDEF/term1/05-Bio%20and%20Agri/</loc>
-         <lastmod>2022-10-30</lastmod>
+         <lastmod>2022-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://caglaralkan.github.io/MDEF/term1/06-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2022-10-30</lastmod>
+         <lastmod>2022-11-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://caglaralkan.github.io/MDEF/term1/07-Atlas%20of%20Weak%20Signals/</loc>
+         <lastmod>2022-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
