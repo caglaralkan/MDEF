@@ -3,7 +3,9 @@ hide:
     - toc
 ---
 
-# **Design Space and Areas of Opportunity**
+# Atlas of Weak Signals
+
+## **Design Space and Areas of Opportunity**
 
 In their small balconies, on their medium size terraces, in community gardens, on the small garden of a school, sometimes by using small pots, by an old bathtub, by building vertical structures most of the people are so enthusiastic to grow some plants, vegetables and trees.
 
