@@ -13,6 +13,8 @@ Disassembling;
 
 As a group we tried to disassemble a personal fitness blender. It was hard and we completely destroyed the blender because it wasn’t design in order to be get repaired in any disfunction. Probably this results from the consumption culture and related consumer behaviours. But, it was a nice example to discover the producers tricks to make you buy a new one while it doesn’t function anymore.  
 
+![](../images/disassembling.jpg)
+
 On the other hand, as an industrial designer I am quite familiar with disassembling electronics but three of my teammates were new on this field and it was fun for me to watch them to try to disassemble a product that wasn’t designed for that. As a result of that experience we had nothing in our hand to reuse or rebuild accept of the electric cables.
 
 **Checking what we have our hands to rebuilt something;**
@@ -23,11 +25,20 @@ Thinking on reusing and rebuilding;
 
 Firstly, we checked the DC motor’s cables and connected that to the power supply to be sure if it works. Then, we discovered how to make it work in both directions with the help of the Relay by alternative cable connections and we caused almost a short circuit by a mistake and ended up with overheated power supply.
 
+![](../images/thingstorebuilt.jpg)
+![](../images/rebuildingprocess.jpg)
+
 The next step was learning how to connect the Arduino and Ultrasonic sensor to the design and making some research in order to learn a bit the coding language.
+
+![](../images/testingthesensor.jpg)
+
 
 **Improvisation;**
 
 Adding the jumping reaction of the DC motor to our design after we discovered that by changing the turning direction of the DC motor quickly.
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o3Lg-85AYJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Beside the process of a quick building a project, this two weeks of course helped me to discover and develop some skills about these topics;
 
