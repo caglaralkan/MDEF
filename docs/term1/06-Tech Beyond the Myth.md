@@ -11,7 +11,7 @@ Two weeks of experience with FabLab staff
 
 Disassembling;
 
-As a group we tried to disassemble a personal fitness blender. It was hard and we completely destroyed the blender because it wasn’t design in order to be get repaired in any disfunction. Probably this results from the consumption culture and related consumer behaviours. But, it was a nice example to discover the producers tricks to make you buy a new one while it doesn’t function anymore.  
+As a group, we tried to disassemble a personal fitness blender. It was hard and we completely destroyed the blender because it wasn’t design in order to be get repaired in any disfunction. Probably this results from the consumption culture and related consumer behaviours. But, it was a nice example to discover the producers tricks to make you buy a new one while it doesn’t function anymore.  
 
 ![](../images/disassemble.jpg)
 
@@ -35,7 +35,7 @@ Firstly, we checked the DC motor’s cables and connected that to the power supp
 
 The next step was learning how to connect the Arduino and Ultrasonic sensor to the design and making some research in order to learn a bit the coding language.
 
-![](../images/testingthesensor.jpg)
+![](../images/sensor.jpg)
 
 **Improvisation;**
 
