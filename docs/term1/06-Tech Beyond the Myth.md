@@ -5,7 +5,7 @@ hide:
 
 # Tech Beyond the Myth
 
-Two weeks of experience;
+Two weeks of experience with FabLab staff
 
 **Tinkering and fight with the fear of black box;**
 
