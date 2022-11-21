@@ -37,7 +37,6 @@ The next step was learning how to connect the Arduino and Ultrasonic sensor to t
 
 ![](../images/testingthesensor.jpg)
 
-
 **Improvisation;**
 
 Adding the jumping reaction of the DC motor to our design after we discovered that by changing the turning direction of the DC motor quickly.
