@@ -5,6 +5,7 @@ hide:
 
 # Community Engagement
 
+
 ##Envisioning My Intervention##
 Personally I am interested in democratization of producing, growing, cultivating in urban areas.  In collaboration with two colleagues from MDEF Ahmet and Korbi, we are planning to organize some workshops related with different topics, materials and mediums in order to generate some sharing chains.
 
