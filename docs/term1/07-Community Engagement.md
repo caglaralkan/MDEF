@@ -10,10 +10,10 @@ hide:
 Personally I am interested in democratization of producing, growing, cultivating in urban areas.  In collaboration with two colleagues from MDEF Ahmet and Korbi, we are planning to organize some workshops related with different topics, materials and mediums in order to generate some sharing chains.
 
 ##Potential participants##
-1. MDEF Colleagues
-2. Connecthort Community
-3. Hort del Clot Community
-4. Public
+1. MDEF Colleagues.
+2. Connecthort Community.
+3. Hort del Clot Community.
+4. Public.
 
 ##Context##
 Urban practices as crafts and makers spaces, small carpenter and metal work workshops, urban farms, horticulture trials, community gardens are the weak signals of the emergent future and they need to be more accessible for the public.
