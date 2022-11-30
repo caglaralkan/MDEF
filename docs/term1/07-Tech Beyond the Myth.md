@@ -13,6 +13,7 @@ Disassembling;
 
 As a group, we tried to disassemble a personal fitness blender. It was hard and we completely destroyed the blender because it wasn’t design in order to be get repaired in any disfunction. Probably this results from the consumption culture and related consumer behaviours. But, it was a nice example to discover the producers tricks to make you buy a new one while it doesn’t function anymore.  
 
+
 ![](../images/disassemble.jpg)
 
 On the other hand, as an industrial designer I am quite familiar with disassembling electronics but three of my teammates were new on this field and it was fun for me to watch them to try to disassemble a product that wasn’t designed for that. As a result of that experience we had nothing in our hand to reuse or rebuild accept of the electric cables.
