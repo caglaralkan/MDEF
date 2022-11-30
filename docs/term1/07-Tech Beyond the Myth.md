@@ -3,55 +3,28 @@ hide:
     - toc
 ---
 
-# Tech Beyond the Myth
+# Community Engagement
 
-Two weeks of experience with FabLab staff
+Envisioning My Intervention
+Personally I am interested in democratization of producing, growing, cultivating in urban areas.  In collaboration with two colleagues from MDEF Ahmet and Korbi, we are planning to organize some workshops related with different topics, materials and mediums in order to generate some sharing chains.
 
-**Tinkering and fight with the fear of black box;**
+Potential participants:
+1. MDEF Colleagues
+2. Connecthort Community
+3. Hort del Clot Community
+4. Public
 
-Disassembling;
+Context
+Urban practices as crafts and makers spaces, small carpenter and metal work workshops, urban farms, horticulture trials, community gardens are the weak signals of the emergent future and they need to be more accessible for the public.
 
-As a group, we tried to disassemble a personal fitness blender. It was hard and we completely destroyed the blender because it wasn’t design in order to be get repaired in any disfunction. Probably this results from the consumption culture and related consumer behaviours. But, it was a nice example to discover the producers tricks to make you buy a new one while it doesn’t function anymore.  
+Current Situation
+There are thousands of videos, gifs, pictures, posts, manuals, patterns and methods on social networks and web. Beside the digital platforms it’s not so common to share the experiences and knowledge in order to encourage the urban productivity and generate the sharing chain concepts. Even maker spaces and community gardens seems quite isolated.
 
+Engagement and Limits
+Connection between the communities that I am in touch with look quite strong. They are sharing the experiences and knowledge, supporting each other and collaborate if necessary. But in terms of the spaces and places they have some limitations and they don’t look so well known in the public. It could be a decision made because of the conditions; community gardens would have some troubles with renewing the contracts with the municipalities that they have the right to use the place that they own. So, this kind of limitations would make them a bit isolated from the public and keep them just in the neighborhood.
 
-![](../images/disassemble.jpg)
+Theory of Change
+From my perspective urban practices and productive places should be independent from the spaces and they need to be reach public to make an impact among the societies. Additionally, for sustainability and evolving, sharing the methodology and experiences is better than teaching approach .
 
-On the other hand, as an industrial designer I am quite familiar with disassembling electronics but three of my teammates were new on this field and it was fun for me to watch them to try to disassemble a product that wasn’t designed for that. As a result of that experience we had nothing in our hand to reuse or rebuild accept of the electric cables.
-
-**Forensic Report;**
-https://hackmd.io/s/HJBEvhPBo
-
-**Checking what we have our hands to rebuilt something;**
-
-A DC Motor, an Arduino, a Relay, an Ultrasonic sensor, a Button
-
-Thinking on reusing and rebuilding;
-
-**Building "The Distracted Timer"**
-
-Firstly, we checked the DC motor’s cables and connected that to the power supply to be sure if it works. Then, we discovered how to make it work in both directions with the help of the Relay by alternative cable connections and we caused almost a short circuit by a mistake and ended up with overheated power supply.
-
-![](../images/thingstorebuilt.jpg)
-![](../images/rebuildingprocess.jpg)
-
-The next step was learning how to connect the Arduino and Ultrasonic sensor to the design and making some research in order to learn a bit the coding language.
-
-![](../images/sensor.jpg)
-
-**Improvisation;**
-
-Adding the jumping reaction of the DC motor to our design after we discovered that by changing the turning direction of the DC motor quickly.
-
-**Presantation of the team project;**
-https://www.canva.com/design/DAFSGssYzEA/FqJPNQMS33QH5i-fKP5DVg/view?utm_content=DAFSGssYzEA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-
-Beside the process of a quick building a project, this two weeks of course helped me to discover and develop some skills about these topics;
-
-**Teamwork**, learning the skills of teammates and assigning some roles. Providing some space for each teammate but also the necessity of putting some limits in order to reduce the stress and anxiety.
-
-**Coding language**, it is completely new language for me but at least I had the opportunity to discover a bit.
-
-**Quick research** for learning how to connect some electronic devices like Relay or Sensor. It was interesting to see how much info provided on web to learn about Arduino and related electronics.
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o3Lg-85AYJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Design Challenges and Opportunities
+Extending the limits of maker spaces and moving them to public by pop-up workshops would be a challenge. This would provide so much opportunities for both public and communities. Pop-up workshops can generate synergy and provide the urban practices more reputation. Sharing the knowledge and experiences during workshops would raise awareness on so many subjects that cities are struggling.
