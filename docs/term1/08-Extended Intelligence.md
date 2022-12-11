@@ -32,6 +32,8 @@ During the classes it was helpful to discover how machines learn by classes;
 
 We started to design our Agent who is an expert on fart in the ecological base but during the process we decided to make it more simple and funny, as it would have been so complicated to deal with all the methane effects on the environment and all the other datasets that we need to design a stable and productive Agent.
 
+After discussing about the general concept of the fart Agent we decided to use CCTV video recordings as the main dataset. Infra-red sensors, microphone, Google(Geo-location),weather apps, Gut Micro-chip(checking the microbiome) will be the other alternative and supportive datasets.
+
 ![](../images/d1.jpg)
 ![](../images/d2.jpg)
 ![](../images/d3.jpg)
