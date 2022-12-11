@@ -5,10 +5,10 @@ hide:
 
 # Extended Intelligence
 
-##What happens if an autonomous car hits someone?##
-##Who will be the responsible for that accident?##
-##The owner of the car or the company!##
-##Can we send the AI into the jail?##
+What happens if an autonomous car hits someone?
+Who will be the responsible for that accident?
+The owner of the car or the company!
+Can we send the AI into the jail?
 
 Even if it’s still a big debate “the ethics of AI”, these questions were my first real contact with the artificial intelligence after DEEPBLUE beat Garry Kasparow in chess.
 
@@ -44,3 +44,12 @@ We started to design our Agent who is an expert on fart in the ecological base b
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUQsaPo_0&#x2F;view?utm_content=DAFUQsaPo_0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Can I fart? Report</a> by Carolina Almeida
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUEu4fxrk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUEu4fxrk&#x2F;view?utm_content=DAFUEu4fxrk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Can I fart?</a> by Marielle Wall
