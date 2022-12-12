@@ -28,3 +28,17 @@ From my perspective urban practices and productive places should be independent 
 
 ##Design Challenges and Opportunities##
 Extending the limits of maker spaces and moving them to public by pop-up workshops would be a challenge. This would provide so much opportunities for both public and communities. Pop-up workshops can generate synergy and provide the urban practices more reputation. Sharing the knowledge and experiences during workshops would raise awareness on so many subjects that cities are struggling.
+
+##General Reflection##
+
+It was a hard week for me, I was quiet sick but I tried to attend the classes as much as I could.
+
+The community engagement lectures surprisingly focusing on the role of the designers in the design processes with less complicated way. Rather the lectures tried to emphasis the collective minds.
+
+On the other hand, the mapping of the process and potential collaborators should be considered in advance by designer. It reminds me the story-board of any scenarios before its going to written.
+
+The lectures end up with a nice yoga and related sculpture practices of some hierarchies of today and desired emergent future models comparisons;
+
+![](../images/community3.jpg)
+![](../images/community2.jpg)
+![](../images/community1.jpg)
