@@ -38,7 +38,6 @@ The community engagement lectures surprisingly focusing on the role of the desig
 On the other hand, the mapping of the process and potential collaborators should be considered in advance by designer. It reminds me the story-board of any scenarios before its going to written.
 
 The lectures end up with a nice yoga and related sculpture practices of some hierarchies of today and desired emergent future models comparisons;
-
 ![](../images/community3.jpg)
 ![](../images/community2.jpg)
 ![](../images/community1.jpg)
