@@ -43,4 +43,4 @@ The lectures end up with a nice yoga and related sculpture practices of some hie
 
 ![](../images/community2.jpg)
 
-![](../images/community1.jpg)
+![](../images/community4.jpg)
