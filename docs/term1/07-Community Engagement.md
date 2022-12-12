@@ -40,5 +40,7 @@ On the other hand, the mapping of the process and potential collaborators should
 The lectures end up with a nice yoga and related sculpture practices of some hierarchies of today and desired emergent future models comparisons;
 
 ![](../images/community3.jpg)
+
 ![](../images/community2.jpg)
+
 ![](../images/community1.jpg)
