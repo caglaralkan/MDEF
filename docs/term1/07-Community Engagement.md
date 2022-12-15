@@ -37,6 +37,10 @@ The community engagement lectures surprisingly focusing on the role of the desig
 
 On the other hand, the mapping of the process and potential collaborators should be considered in advance by designer. It reminds me the story-board of any scenarios before its going to written.
 
+The Roleplay exercise that we practiced in the class was nice to see the view points of different stakeholders involved in a gentrification process of a space which is a real case in Poblenou. It would have been even more efficient if at least two members would be from our MDEF community in addition to the already assigned personalities-personas. It would be nicer to see and hear the thoughts of real person perspectives.
+
+![](../images/community5.jpg)
+
 The lectures end up with a nice yoga and related sculpture practices of some hierarchies of today and desired emergent future models comparisons;
 
 ![](../images/community3.jpg)
