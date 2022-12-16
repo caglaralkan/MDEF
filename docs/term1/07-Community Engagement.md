@@ -12,7 +12,8 @@ Personally I am interested in democratization of producing, growing, cultivating
 1. MDEF Colleagues
 2. Connecthort Community
 3. Hort del Clot Community
-4. Public
+4. Caixa d'Eines Feines
+5. Public
 
 ##Context##
 Urban practices as crafts and makers spaces, small carpenter and metal work workshops, urban farms, horticulture trials, community gardens are the weak signals of the emergent future and they need to be more accessible for the public.
@@ -30,16 +31,13 @@ From my perspective urban practices and productive places should be independent 
 Extending the limits of maker spaces and moving them to public by pop-up workshops would be a challenge. This would provide so much opportunities for both public and communities. Pop-up workshops can generate synergy and provide the urban practices more reputation. Sharing the knowledge and experiences during workshops would raise awareness on so many subjects that cities are struggling.
 
 ##General Reflection##
-
 It was a hard week for me, I was quiet sick but I tried to attend the classes as much as I could.
 
 The community engagement lectures surprisingly focusing on the role of the designers in the design processes with less complicated way. Rather the lectures tried to emphasis the collective minds.
 
 On the other hand, the mapping of the process and potential collaborators should be considered in advance by designer. It reminds me the story-board of any scenarios before its going to written.
-
 ##Mapping of relations of fight##
 ![](../images/community6.jpg)
-
 ##Mapping of relations of potential intervantions##
 ![](../images/community7.jpg)
 
