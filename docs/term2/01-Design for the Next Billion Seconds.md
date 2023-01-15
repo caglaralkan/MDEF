@@ -8,7 +8,7 @@ hide:
 
 
 
-10 to the powew of 12 seconds. Another way to count 31,4 years. Time is relative! So design is?
+10 to the power of 12 seconds. Another way to count 31,4 years. Time is relative! So design is?
 
 During the first day of lecture, Andres shared his background and his design approach with us. The possible futures rather than singular one was really inspirational.
 
@@ -28,7 +28,7 @@ Two main concepts from the lecture that we focused on;
 
 The concept of "Degrowth" in terms of lifestyle and consumption which is influenced by all kind of media is possible and personally I am trying to live by consuming less. Additionally, it is essential and inevitable for the sustainability and resources that our planet has. On the other hand, I am skeptical about the impact of economic degrowth to the unemployment rates all around the world. As todays general approach, belief, measure and criteria of development is economic growth which has been influenced by capitalism and colonialism, it will take time to change that perspective. I believe remote working that one of the good results of pandemic decrease the consumption of goods among the white collar staff would be a milestone-start point for degrowth. Degrowth should be considered and supported with alternative solutions to avoid the negative effects on unemployment especially among the underdeveloped countries.
 
-Moreover, I am still not sure about the term of "Critical Hope". Hope is something so special, necessary and human-made but fragile concept. The tiny edge line between being realistic and romantic. So, I am not sure critical thinking and critical hope are the same things. I prefer to name it differently. As capitalists and colonialists are so imaginative in wording, we should be more carefull on that as well to prevent the lose of hope in our communities.
+Moreover, I am still not sure about the term of "Critical Hope". Hope is something so special, necessary and human-made but fragile concept. The tiny edge line between being realistic and romantic. So, I am not sure critical thinking and critical hope are the same things. I prefer to name it differently. As capitalists and colonialists are so imaginative in wording, we should be more careful on that as well to prevent the lose of hope in our communities.
 
 The most important thing which our stories that me and my classmates worked on and presented on friday class don't have was certainly "JOY". Stories need at least one grasshopper which provides melody, joy and hope. Most probably it was because of the time limitation that I was not able to insist on that to my friends in the group especially after a two hours of walk and discussion on the topic.
 
