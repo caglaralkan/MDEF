@@ -53,3 +53,5 @@ One last thing that I want to add as a possible answer to one of the questions (
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX8g6a21Y&#x2F;view?utm_content=DAFX8g6a21Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">age; location; weather</a> by caglaralkan
+
+![](../images/letterfuture.jpg)
