@@ -44,3 +44,12 @@ The most important thing which our stories that me and my classmates worked on a
 Beyond the content of the lecture, I appreciated the methodology and ideology of Andres during the classes. I liked the using of music, different ways of presentations and interactions and various spots that he choose to support his way of sharing his experiences and knowledge. The only advice that I would like to give him to use less animated images on his digital presentations.
 
 One last thing that I want to add as a possible answer to one of the questions (he was wondering that why almost all of the people -especially in our community think about capitalism and colonialism in the same way but why it is still hard to overcome them) that my collegues asked during the rep up session took place on the beach of Bogatel; human behaviours in terms of thinking-speaking and acting-practicing would sometimes be different because of the conditions. It's always easy to speak against the usage of plastic in packages, but not so easy to stop using them.
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX8g6a21Y&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX8g6a21Y&#x2F;view?utm_content=DAFX8g6a21Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">age; location; weather</a> by caglaralkan
