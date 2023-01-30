@@ -75,9 +75,9 @@ Secondly, we decided to design an intervention by including our MDEF community. 
 
 The process of “the production party intervention” showed us how important is that to have appropriate, good and enough instructions to built something by your own especially when you don’t have enough knowledge and experience on the subject. Additionally, I am quite familiar with this subject from the years that I worked in IKEA. As a retailer of self assembled furnitures, manual designs are very important topic for the company. Manuals, instructions or recipe book, however we called them would be a potential project that we can work on in order to support the concept of some DIY projects.
 
-![](../images/IMG_1467.jpg)
+![](../images/imagechair.jpg)
 
-Lastly, our last intervention happened within a workshop which was organized by CdEF -Caixa d’Eines i Feines- a “sharing chain”. It was more than a sawing workshop; they are sharing knowledge, machines, tools, materials, space, energy and care with participants-guests. We were able to share a lot in a single evening. As  I have some experience and knowledge in sawing, ı tried to encourage my teammates -Ahmed and Korbi- in order to use the sawing machine. It was the first time that Ahmed experienced to saw with machine. We patched some items and we were able to built a fabric shopping bag that we had tried to saw by hand before. We were able to see the difference between the processes when we gain some experience and have better instructions.
+Lastly, our last intervention happened within a workshop which was organized by CdEF -Caixa d’Eines i Feines- a “sharing chain”. It was more than a sewing workshop; they are sharing knowledge, machines, tools, materials, space, energy and care with participants-guests. We were able to share a lot in a single evening. As  I have some experience and knowledge in sewing, ı tried to encourage my teammates -Ahmed and Korbi- in order to use the sewing machine. It was the first time that Ahmed experienced to saw with machine. We patched some items and we were able to built a fabric shopping bag that we had tried to sew by hand before. We were able to see the difference between the processes when we gain some experience and have better instructions.
 
 ![](../images/sawing_workshop.jpg)
 ![](../images/stamping_thefabricbag.jpg)
