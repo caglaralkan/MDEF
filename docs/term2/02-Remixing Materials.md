@@ -35,3 +35,16 @@ Secondly, we had platanus occidentalis pollens for station 3 recipe and we added
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFYPMkqDg0&#x2F;view?utm_content=DAFYPMkqDg0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Add a little bit of body text</a> by caglaralkan
+
+##S-Biotica visit##
+
+Even if it was freezing, the visit to S-Biotica was helpful to discover more about bio-materials.
+Especially, we had the chance to have some hands-on experience on ##mysillyum##. We tried to recipes/methods;
+
+1- Preparing a mixture(we used egg boxes cardboard, coffee ground, orange and lemon peels) to feed mysillyum, then sterilising that in the plastic bag by putting it in pressure cooker for 30 minutes, adding the mysillyum after cooling down a bit and by setting the sterile conditions in Bio-Lab in IAAC.
+
+![](../images/mysillyum1.jpg)
+
+2- Making mysillyum bricks by adding a molding powder and water and putting and pressing it in a mold.
+
+![](../images/mysillyum2.jpg)
