@@ -39,7 +39,7 @@ We started to work with Ahmed on circuit of LDR-photocell and we found the code 
 
 Then, we continued with the LED circuit. But, we couldn't achieved with ESP32 and as Wen joined us, we tried to build the circuit with Arduino-UNO. We tried several circuits and codes but we failed. After Victor helped us we checked the items of the circuit with Multimeter and we discovered that one of the cables misbehaved! Additionally, we have learned another important thing about coding; the code is not active on an additional page and it has to be in color to work which we missed.
 
-Finally, we put the LDR and LED circuits in a box and tried to build an isolated environment to read the signals from LED when we push the bouton shortly and longer. But, the code that we found to encode and decode the readings and convert those into mors code and letters had so much lines of problems. So, we were not able to go further in order to build a telegraph with LDR and LED
+Finally, we put the LDR and LED circuits in a box and tried to build an isolated environment to read the signals from LED when we push the bouton shortly and longer. But, the code that we found to encode and decode the readings and convert those into mors code and letters had so much lines of problems. So, we were not able to go further in order to build a telegraph with LDR and LED.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
