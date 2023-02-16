@@ -32,6 +32,20 @@ As a second task, after the presentation about the 2D-3D modeling softwares, I d
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFZ7gYBm2Q&#x2F;view?utm_content=DAFZ7gYBm2Q&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">discovering grasshopper</a> by caglaralkan
 
+##Class Task No:3##
+By using Rhineceros I designed a laptop-stand which stands by the idea of interlocking. As a first step, I checked the materials and their thicknesses. The material thickness is the most important factor for interlocking designs because hacks-notches are keys for the quality of the design.
+After discussing with Adai about the design and tolerances of the outlines, I modified my design according to fit the pieces on a single cardboard (60X100cm). I cut 2 pieces as a demo in order to test the hacks-notches to get the best results and stability of the stand.
+During the process I figured out how to use the laser cutter. Beyond the procedures that we have to follow, technical details as; the order of the pieces that we want to cut classified by color coding, and the datas about different materials for various thicknesses and colors hanging on the wall is quite helpful to learn about the details. On the other hand, interface of the software to use the laser cutter is quite easy and clear. Thanks to Adai and Josep again for their support.
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaxSCJDpY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaxSCJDpY&#x2F;view?utm_content=DAFaxSCJDpY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Interlocking - Cardboard Laptop Stand</a> by caglaralkan
+
 ##Class Task No:4##
 Building a telegraph like device with LDR and LED with arduino was the fourth task. Even it looked like simple to work with photocell and LED an first glance, it was not possible to go further and built a code for decoding the light signals into Morse code.
 
