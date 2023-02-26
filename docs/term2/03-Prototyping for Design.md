@@ -91,3 +91,22 @@ As a development plan; we can continue with 3D options but, we are not sure abou
 
 Repository link;
 https://github.com/paresmarc/tiledeco
+
+##Class Task No:5##
+
+Contrary to the previous tasks, rather than modeling some basic thing on Rhinoceros I decided to download a 3D shark model which has has connected pieces in order to test the 3D printers capacity. I downloaded the file from "thingiverse.com" and I discovered that the file has some specifications to help-support the printing process; as if it needs support for being built...
+
+After exported the file in .stl format, I opened that in Ultimaker-Cura and slice it. Surprisingly, 3D printing process with filaments is easier than 3D printing process of clay. When we tried to print some water brick samples made of clay by 3D printing, we had to make 4-5 tests for nozzle distance and speed in order to get the best results. But, I guess as filaments are more stable material, it was fast and easy to get the results.
+
+Furthermore, I wanted to print the model by the white filament to use it efficiently during the digital 3D scanning process, but as the white filament spool was heavy, I ended up using the black filament.
+
+As I was expecting the black filament effected the process of the digital scanning in a negative way. I was not able to scan the shark with scanner. I tried to scan a asthma-spray pump. Unfortunately, there are some missing surfaces on it. I also tried to scan the bust as it is completely white and less surfaces towards the ground. The result was neither a success, nor a disaster. As long as it hasn't a complicated organic shape, I prefer to 3D model the object rather than 3D scanning.
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbtvXtqlI&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbtvXtqlI&#x2F;view?utm_content=DAFbtvXtqlI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">3D Shark with joints</a> by caglaralkan
