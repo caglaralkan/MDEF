@@ -119,7 +119,7 @@ I don’t know if its Oscars talent but somehow he was able to explain so many t
 
 Oscar tried to move us forward in terms of networking through Arduino from the point that Victor started last week. Surprisingly, this was the best organized hands on learning session of the semester. We went through several steps; just by building a basic LED circuit we started with a “blink” command, and we tried to connected to a network and comment on a LED through an online dashboard.
 
-Then, we discovered breathe and burn commands and some important shortcuts instead of repeating the lines in coding; (int I=0;i>5;i++) Also “defining functions” and “if, else if command lines in the loop” are the other meaningful discoveries for me. Even I am not able to figure it out completely this line.(int num_reps=3 int delay_time=500) I feel more comfortable and ready to work on coding more.
+Then, we discovered breathe and burn commands and some important shortcuts instead of repeating the lines in coding; (int I=0;i>5;i++) Also “defining functions” and “if, else if command lines in the loop” are the other meaningful discoveries for me. Even I am not able to figure it out completely this line.(int num_reps=3 int delay_time=500)I feel more comfortable and ready to work on coding more.
 
 Another small but unexpected problem was even the code was correct because of so many people try to connect to the server at the same time, I was not able to connect the server. It took sometime for me to figure that out. I needed to reset the Arduino in order to connect to server and synchronize my Arduino and LED circuit with the others.
 
