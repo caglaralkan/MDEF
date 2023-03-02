@@ -110,3 +110,25 @@ As I was expecting the black filament effected the process of the digital scanni
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbtvXtqlI&#x2F;view?utm_content=DAFbtvXtqlI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">3D Shark with joints</a> by caglaralkan
+
+##Class Task No:7##
+
+Beyond blink-breathe-burn, todays class should be named as Coding Language-101. We started the session with “How hard can it be to turn on a LED?”and I can say that it would be so hard sometimes because of a misbehaved cable or disfunction LED or a wrong type of resistor.
+
+I don’t know if its Oscars talent but somehow he was able to explain so many thing about the coding language. At least I was able to catch the steps during the class even some difficulties happened.
+
+Oscar tried to move us forward in terms of networking through Arduino from the point that Victor started last week. Surprisingly, this was the best organized hands on learning session of the semester. We went through several steps; just by building a basic LED circuit we started with a “blink” command, and we tried to connected to a network and comment on a LED through an online dashboard. 
+
+Then, we discovered breathe and burn commands and some important shortcuts instead of repeating the lines in coding; (int I=0;i>5;i++) Also “defining functions” and “if, else if command lines in the loop” are the other meaningful discoveries for me. Even I am not able to figure it out completely this line (int num_reps=3 int delay_time=500) I feel more comfortable and ready to work on coding more.
+
+Another small but unexpected problem was even the code was correct because of so many people try to connect to the server at the same time, I was not able to connect the server. It took sometime for me to figure that out. I needed to reset the Arduino in order to connect to server and synchronize my Arduino and LED circuit with the others.
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcE27a3hY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcE27a3hY&#x2F;view?utm_content=DAFcE27a3hY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Coding Language-101</a> by caglaralkan
