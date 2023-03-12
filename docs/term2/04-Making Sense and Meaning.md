@@ -69,6 +69,9 @@ Personal Note;
 Cash is king, and capital is power, but what was the source of power before that? Physical power? Success? Heritage? There are various sources of power, including physical power for protection and defense, communal power for protection of family, tribe and land, religious power, financial power, resource power, and information-technology power. In all cases, demand and supply also play a key role. What about the power of colonialism? While we criticize the colonial attempts of Europe, many people around the world are trying to obtain a passport from the European Union today. What is the motivation behind that? I believe that, more than the American dream of becoming rich easily, the main motivation and need of human beings is safety. People feel safer within the borders of the European Union than anywhere else. Maybe, first of all it is better to analyze the source of that feeling of safety within the European Union.
 
 References:
-* Moore, J. W., & Patel, R. (2017). A history of the world in seven cheap things: A guide to capitalism, nature, and the future of the planet. University of California Press.
-* Slavin, K. (2018). Design as participation. MIT Press.
-* Bateson, G. (1972). Steps to an ecology of mind. University of Chicago Press.
+
+* Moore, J. W., & Patel, R. (2017). A history of the world in seven cheap things
+
+* Slavin, K. (2018). Design as participation.
+
+* Bateson, G. (1972). Steps to an ecology of mind.
