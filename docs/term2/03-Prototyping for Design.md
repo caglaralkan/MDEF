@@ -149,7 +149,7 @@ Another small but unexpected problem was even the code was correct because of so
 
 ##Class Task No:8##
 
-started my CNC task by modeling a bed-side table on Rhinoceros. As I already knew the thickness of the plywood(15mm), I decided to build an interlocking bed-side table. After modeling the piece, I thought on the modifications on drawing which is necessary for the CNC cutting.
+I started my CNC task by modeling a bed-side table on Rhinoceros. As I already knew the thickness of the plywood(15mm), I decided to build an interlocking bed-side table. After modeling the piece, I thought on the modifications on drawing which is necessary for the CNC cutting.
 
 As I had decided to use 6mm end-mill, I modified the inner and outer corners of the pieces accordingly. It took more time than I expected. I booked the CNC machine for 11 a.m and arrived at 10 a.m in order to prepare the file for RhinoCam, but it took two and a half hours to start.
 
