@@ -160,3 +160,12 @@ Finishing up the work at Rhino-Cam, we located the 2440X1220mm plywood on the CN
 I made a mistake in the design and had to cut an extra piece. And during that process we made another mistake on the surface and location of the workpiece on Z coordinate. Fortunately, the work piece was over the surface and we did not had a big accident.
 
 The following steps was sanding and assembling the pieces. Unexpectedly, sanding the edges and surfaces took so much time. But, at the end I felt satisfy with the result.
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFc__TayXc&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFc__TayXc&#x2F;view?utm_content=DAFc__TayXc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Building a Bedside Table by CNC cutting</a> by caglaralkan
