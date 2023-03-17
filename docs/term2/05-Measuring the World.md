@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Measuring the World - Sense Making Journal
+# Measuring the World
 
 
 **Measuring the World**
