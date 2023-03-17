@@ -8,10 +8,10 @@ hide:
 
 **Measuring the World**
 
-**Data vs Information**
+
+Data vs Information
 
 We started our project with a bunch of questions:
-
 - Do I spend enough time in nature?
 - Is my work fulfilling?
 - Is my identity / life shaped mostly by my work?
@@ -34,7 +34,3 @@ On the other hand, as our time was limited, we tried to gather more info through
 The third step to get information through web was using twitter data and analysis of some tweets through specific keywords. The process could be done by text-mining add-on. We went through several analysing and data visualising tools as SENTIMENT ANALYSIS, BOX PLOT-emotion analyze, Corpus Viewer, Word Cloud, Preprocess Text…
 
 The work we did mostly about the methodology. We did not have the chance to gather correct and appropriate data within two days to propose a solution to our hypothesis. But, the discovery of this methodology was really useful for future-works. According to me, it is essential to design a balanced scenario to capture the data through sensors by first hands and support that by using the data that already captured by several applications through web and networks.
-
-Link for the Repo:
-
-https://hackmd.io/wLNUaeyyR32BA8rWh7lFUg?view
