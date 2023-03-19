@@ -169,3 +169,35 @@ The following steps was sanding and assembling the pieces. Unexpectedly, sanding
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFc__TayXc&#x2F;view?utm_content=DAFc__TayXc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Building a Bedside Table by CNC cutting</a> by caglaralkan
+
+##Challenge No:2##
+
+We decided to develop the tile decorating kit that we designed during the challenge-1. We mostly wanted to focus on digitalization process in order to make it as easy and meaningful as possible. Additionally, we wanted to convert it from 2D to 3D as one of the goal that we set before. In other words, it become a playground to discover 3d fabrication which is a bridge between a physical object and digital representative, more than a tile decorating kit.
+
+We had some reference projects to help us: MIT's interactive shape-shifting table, and Reactivision Improvisation with MIDI (Reactable). At the end we had to simplify or goals because of the time limitation.
+
+As it is a project connects the physical and digital, it has a lot of details that needs to be solved. This time, we took the base-grid as a playground and decided to let people to play, change, combine the cubes that attached to it and positioned by magnets in order to build their unique design on the grid rather than 2D geometric shapes.
+
+We started with the digitalization process. We thought a lot on the process how to convert the physical items to digital representatives. We discovered a system called “fiducial id” works like QR codes(with more organic shapes drawings) through cameras. Fiducial IDs can be captured by any cameras and work with a plug-in program called “firefly” in Grasshopper-Rhinoceros. Each cube that we play-locate on the grid has a unique “Fiducial ID”on it, and this gives it a parameter on the Z axis to help to form a unique 3D design.
+
+On the other hand, as camera detects the cubes on the grid and let the user to move them freely on it, we also needed to program the Grasshopper to detect the grid made of slots(6x6) in order to frame design area and make the post-digitalization process easier. Through that process we had lots of problems: we couldn’t solve the problem of the camera detecting the fiducials repeatedly. This process creates a lot of trash on the system and at the end we decided to reset the system as a solution to that problem.
+
+Beside the digitalization, we also worked a lot on the physical object. Firstly, we 3D printed the cubes which made of two parts and use 6 magnets in it. But, this method was not appropriate because it took 3 hours for each cube. So we ended up with the idea to build the cubes made of wood and we had to insert the magnets on surfaces.
+
+As we had sphere shape magnets, it was a real concern to be able to insert the magnets in the right magnetic directions. We designed a magnet insert (nest) for each magnet to eliminate that problem and we 3D printed them from raisin. Sphere shape magnets can move in the nest and find their magnetic direction easily. Furthermore, we tried to raster the fudicials on cubes with laser cutter but the camera didn’t detect it. Thus, we engraved the outlines and drew by hand at the end. We couldn’t use vinyl because vinyl does not stick on the wood properly.
+
+Moreover, we had more trouble to cut the cubes out of the oak block. The block was 33 mm thick and we had to carve the surface 3mm to get 30mm thickness. We did that with the help of Adai and Edu. Through that process we discovered the facing function of the RhinoCam-CNC which provides the carving function with the end-mill has 30mm diameter. The other problem was to use the material efficiently: in order to eliminate material loss in CNC Adai made me to cut the cubes ( as we needed a lot of cubes) with the manual saw which needs a lot of attention and physical job.
+
+After engraving the fiducials in laser cutter we cut the cubes with manual saw and we drilled each surfaces (again) manually in order to insert the magnets with their 3D printed nests.
+
+Additionally, we used the CNC machine to build the grid out of plywood. We designed and laser cut acrylic in order to build a structure to hold camera above the grid. That structure was designed in order to be located in different positions on the grid to get the right frame and capture the cubes clearly.
+
+Mostly we used the grasshopper for digitalization process. But, we also added the arduino in order to use the firefly plug-in and we also added a button to arduino in order to capture the desired design and to build that with the 3D printer.
+
+**Personal note:**
+
+As the challenges has to be done by groups, at a certain point projects become complicated and at that point most of the tasks has to be done by different colleagues. So normally, because of the need of using the time efficiently, each one ends up with working on the field that he/she has more experience. This ends with the lack of opportunity to improve some other skills. In short, I want to say that I prefer to have more classes on coding like the one that Oscar gave. During each challenge I was not able to improve my coding skills  because as I am a maker I had to work on the machines and 3d modeling. And also we didn’t have time to stay and worked-discover-learn from my classmates. To sum up, I have doubts about the efficiency of challenges. I cannot say that I didn’t discover or learn anything, but I really prefer to have more time and opportunity to have more confidence in coding. But, challenge weeks are so intense and do not let me to discover-learn the coding neither from instructors nor colleagues.
+
+Link for the repo of challange#2:
+
+https://github.com/paresmarc/pixelcubes
