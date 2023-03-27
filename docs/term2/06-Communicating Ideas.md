@@ -24,6 +24,6 @@ In this class, we learnt about the significance of communicating ideas effective
 
 In the second session, the focus is on considering our work as a whole. This includes reflecting on who we are and what we have done. Through an activity in second class, we made sense of our previous work and see how it fits into the bigger picture. The goal is to prepare a communication strategy for our projects.
 
-![](../images/communicatingideas1.jpg)
+![](../images/communicateideas1.jpg)
 
 ![](../images/communicatingideas2.jpg)
