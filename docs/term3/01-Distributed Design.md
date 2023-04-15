@@ -39,3 +39,8 @@ The presentation:
 Feedbacks:
 
 ![](../images/distdesign_3.jpg)
+
+**3rd Day**
+Learning Skills; Participation, collaboration, integration, teamwork.
+Dynamics; Horizontal, active, participatory, creative.
+Interactions; Teamwork is always makes me excited and we shared our perceptions. We all prepared the presentation within a limited time and made the presentation and had the feedbacks from all our classmates. 
