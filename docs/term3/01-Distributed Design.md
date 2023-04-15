@@ -37,4 +37,5 @@ During the last day of the lecture we mostly worked on values. With some other c
 The presentation:
 
 Feedbacks:
+
 ![](../images/distdesign_3.jpg)
