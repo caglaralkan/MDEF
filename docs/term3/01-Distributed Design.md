@@ -36,6 +36,8 @@ During the last day of the lecture we mostly worked on values. With some other c
 
 The presentation:
 
+https://docs.google.com/presentation/d/1z4zM2-HHeqgdfuJikGwPWnWHF0NhPFfhNPQf5sUW0nk/edit?usp=sharing
+
 Feedbacks:
 
 ![](../images/distdesign_3.jpg)
@@ -43,4 +45,4 @@ Feedbacks:
 **3rd Day**
 Learning Skills; Participation, collaboration, integration, teamwork.
 Dynamics; Horizontal, active, participatory, creative.
-Interactions; Teamwork is always makes me excited and we shared our perceptions. We all prepared the presentation within a limited time and made the presentation and had the feedbacks from all our classmates. 
+Interactions; Teamwork is always makes me excited and we shared our perceptions. We all prepared the presentation within a limited time and made the presentation and had the feedbacks from all our classmates.
