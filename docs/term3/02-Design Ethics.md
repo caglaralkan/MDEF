@@ -19,6 +19,9 @@ I attended the first day of the class and I enjoyed it a lot and I tried to part
 
 During the discussion at class in the first day on the marketing approaches of two different brands which sell a new-born product to support the parents were completely different yet still both took the baby as a source of problems and focus on bringing a solution to that problem. This approach is totally against the idea of having a child but somehow technologies (in terms of marketing) are taken as services to problems.
 
+On the other hand, ChatGPT is the focus of every daily conversation nowadays. Mostly, the main critic is its popularity among the students and especially using it for their homework. Some of my friends are teaching in schools and I discuss this with them a lot. They are complaining about plagiarism. I have doubts about if this is plagiarism or not. According to me it is like using google. There are lots of information on google. But, you need to know what you are looking for and using ChatGPT is like that, you need to know what is the right question to ask him/her. To be honest, I am the last generation in my country to learn how to write an essay properly(I am 40) So, writing skills is not so common among the young generations. At least not for more than 140/280 character. To sum up this part, I believe that ChatGPT is not a miracle to solve all the problems or able to do every single homework.
+
+I also found these three relations interesting;
 
 Embodiment relation of mediation
 human + technology = world
