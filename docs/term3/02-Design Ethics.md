@@ -42,3 +42,5 @@ Cyborg relation pacemaker, deep brain stimulation
 I have heard about Peter-Paul Verbeek but, did not know about the classification of Influence Based on Intended User Experience. This chart is really interesting for me as an industrial designer. This will help me to think and critic myself when I will work on my next projects.
 
 To sum up, the lecture was really nice and helpful. Surprisingly, it was not heavy. Subjects like ethics could be so heavy sometimes. I felt so happy with the approach of this lecture. I was able to discover new people and approaches.
+
+So far, especially in my country(Turkey) we commonly define ethics as "morality unaffected by religion and capital"
