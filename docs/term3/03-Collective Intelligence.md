@@ -27,7 +27,7 @@ Third day of the session; we found out that Mar Canet sent to our wallets 2 Tezo
 ![](../images/dao2.jpg)
 ![](../images/dao3.jpg)
 ![](../images/dao4.jpg)
-![](../images/dao7.jpg)
+![](../images/dao8.jpg)
 
 During the last day of the session we saw other examples of some AI tools and digital art installions and NFT projects. And we finished the lecture by preparing or own NFT collection projects.
 
