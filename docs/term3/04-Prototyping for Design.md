@@ -27,7 +27,7 @@ In this course, we discovered a bit the concept of live coding and explored a vi
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjjHvxD4M&#x2F;view?utm_content=DAFjjHvxD4M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by caglaralkan
 
-##Blender Introduction and Integrated Arduino##
+##Blender Introduction and Blender Interface with Arduino##
 
 During the initial session, Victor introduced us to the concept of Blender, its vibrant community, and the diverse range of applications it offers. When selecting a design tool, it is crucial to choose one that not only facilitates learning but also allows for versatile application. I knew that Blender serves as a powerful tool for animation, but I also discovered its other functions on CAD, rendering, and seamlessly connects with numerous devices and interfaces. While there are many tools that promise instant gratification by making things easier, we often tend to avoid investing time in learning such tools due to their lack of intuitiveness. However, this inclination towards simplicity primarily stems from a desire for quick solutions and personal validation.
 
