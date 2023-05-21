@@ -41,7 +41,16 @@ As a group we decided to develop an interface for our tile-deco and pixel-cube  
 
 We agreed on using OPENCV shape detector. But, in order to use OPENCV we need PHYTON, ANACONDA and VISUAL STUDIO too. Firstly, we set the anaconda and PYTHON and OPENCV. Then we found a code for shape recognition-detection especially for “circle” from an image. We tested that through the anaconda and of course code had some problems and we asked from CHATGPT to fix the code. More or less the code works through the image but we needed to calibrate the parameters in order to get more accurate results.
 
+![](../images/circlerecognition code.jpg)
+![](../images/circlerecognition_4 code.jpg)
+![](../images/circlerecognition_1 code.jpg)
+![](../images/circlerecognition_2 code.jpg)
+
 During the second day we continued to work on shape detection code. After detecting the circles on the still images we tried to configure the code for squares, rectangle, triangle, semi/quarter circles. We used edge detection and tried to convert them to defined geometric shapes, but we had problems with some undefined ones as lemon shape or croissant shape. So, in order to solve this we worked on polygon contouring but it did not ended up with smooth curves. Then, Pietro joined to support us for using PYTHON libraries.
+
+![](../images/circlerecognition_6 code.jpg)
+![](../images/circlerecognition_5 code.jpg)
+![](../images/circlerecognition_3 code.jpg)
 
 After some discussions, we decided to use QR code detection in OPENCV libraries for assigned geometric shapes as we did with the fiducials on Grasshopper-firefly application model during the Challenge-No2 and we wanted to combine that with Three JS Interactive Voxel Painter project as a grid base. We spent some hours on this approach. Finally, we decided that would take months to finalize the work.
 
@@ -57,3 +66,5 @@ We used the CNC machine to cut the frame out of wood. We used the laser cutter t
 We are planing to test the kit next week and get ready for MDEF FEST.
 
 Personal note: During this challange we tried to use OpenCV and Python for the first time. Even if we couldn’t get the results that we want it was a nice experience to try these digital tools. And, as I told to Santi and Victor this time we tried to work together rather than dividing the responsibilities and by this way it was more efficient for everyone to have the chance of trying digital tools.
+
+Repository link; https://github.com/paresmarc/digitaltiles
