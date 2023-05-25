@@ -29,4 +29,6 @@ But, on the other hand, it was nice to discover new way of approaches, when they
 
 Moreover, we watched a video by Aqua_Forensic, which visualizes anthropogenic pollutants in water habitats, aiming to raise awareness of their effects.
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/288379735?h=82388ddf72" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 To sum up, the class provided valuable insights into critical thinking, the impact of fiction, power dynamics, social divisions, and the intersection of art, design, and science in addressing societal issues.
