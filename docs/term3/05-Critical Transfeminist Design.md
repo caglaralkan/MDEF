@@ -7,7 +7,7 @@ hide:
 
 **Critical Transfeminist Design**
 
-In this class, Laura tried to introduce us critical practices that blend design, art by researching and examining the intersections of fiction, philosophy and ethics. We explored the impact of fiction and how it can shape our ideas of the future, including its hyper-real consequences. Additionally, we  also lookied into colonial backgrounds, racism in system structures, and philosophical theories that have justified immoral actions.
+In this class, Laura introduced us critical practices that blend design, art by researching and examining the intersections of fiction, philosophy and ethics. We explored the impact of fiction and how it can shape our ideas of the future, including its hyper-real consequences. Additionally, we  also lookied into colonial backgrounds, racism in system structures, and philosophical theories that have justified immoral actions.
 
 The importance of critically analyzing terms, narratives, and power dynamics was emphasized. We learned about Indigenous Feminism and Radical Indigenous Survivorship as counter-narratives to colonialism. The discussion touched on systemic racism, identity denial, and the struggles faced by subaltern individuals who are marginalized by various social divisions.
 
