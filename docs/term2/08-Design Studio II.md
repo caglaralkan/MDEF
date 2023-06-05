@@ -63,7 +63,7 @@ On the other hand, as a second project and intervention group with Marc and Ahme
 
 During the second term with Ahmed and Marc we tried to develop a concept that combine the physical and digital worlds. We took the parametric design as a base and tried to create a base project which provides an environment to make the digital fabrication tools accessible and easy to understand.
 
-Collective Intervention no:4
+##Collective Intervention no:4##
 
 AAs a group, after discussing about our common interest and as we want to work on water bricks to store domestic grey water, we decided to work on something related to modularity, interchangeability, parametric design, personalization-customization of a product… We ended up with the idea of building a DIY toolkit which provides designing unique tile decorations and patterns made of those. We also took that opportunity as a first step to connect the digital and physical.
 
@@ -93,28 +93,38 @@ During our discussions in the MDEF group, we received valuable feedback on our f
 Reference Projects as Inspiration
 
 
-Intervention no:5
+##Collective Intervention no:5##
 
-We (Ahmed, Marc and Çağlar) decided to develop the tile decorating kit that we designed during the previous intervention. We mostly wanted to focus on digitalization process in order to make it as easy and meaningful as possible. Additionally, we wanted to convert it from 2D to 3D as one of the goal that we set before. In other words, it become a playground to discover 3d fabrication which is a bridge between a physical object and digital representative, more than a tile decorating kit.
+Ahmed, Marc, and I decided to develop the tile decorating kit that we had designed during the previous intervention. Our main focus was on the digitalization process, aiming to make it as easy and meaningful as possible. Additionally, we wanted to convert it from a 2D to a 3D experience, which was one of our initial goals. In other words, we wanted it to become more than just a tile decorating kit and serve as a playground to explore other digital and 3D fabrication tools as a bridge between physical objects and digital representation.
 
-We had some reference projects to help us: MIT’s interactive shape-shifting table, and Reactivision Improvisation with MIDI (Reactable). At the end we had to simplify or goals because of the time limitation.
+To help us with the project, we looked into reference projects such as MIT's interactive shape-shifting table and Reactable's Reactivision Improvisation with MIDI. However, due to time limitations, we had to simplify our goals.
 
-As it is a project connects the physical and digital, it has a lot of details that needs to be solved. This time, we took the base-grid as a playground and decided to let people to play, change, combine the cubes that attached to it and positioned by magnets in order to build their unique design on the grid rather than 2D geometric shapes. We decided to call this project Pixel Cubes.
+![](../images/ds2_21.jpg)
 
-We started with the digitalization process. We thought a lot on the process how to convert the physical items to digital representatives. We discovered a system called “fiducial id” works like QR codes(with more organic shapes drawings) through cameras. Fiducial IDs can be captured by any cameras and work with a plug-in program called “firefly” in Grasshopper-Rhinoceros. Each cube that we play-locate on the grid has a unique “Fiducial ID”on it, and this gives it a parameter on the Z axis to help to form a unique 3D design.
+Given that this project involves the connection of the physical and digital worlds, there were numerous details that needed to be addressed. This time, we decided to use the base-grid as a playground and allow people to play, change, and combine cubes attached to it using magnets, enabling them to build their unique designs on the grid rather than relying on predefined 2D geometric shapes. We named this project “Pixel Cubes”.
 
-On the other hand, as camera detects the cubes on the grid and let the user to move them freely on it, we also needed to program the Grasshopper to detect the grid made of slots(6x6) in order to frame design area and make the post-digitalization process easier. Through that process we had lots of problems: we couldn’t solve the problem of the camera detecting the fiducials repeatedly. This process creates a lot of trash on the system and at the end we decided to reset the system as a solution to that problem.
+![](../images/ds2_22.jpg)
 
-Beside the digitalization, we also worked a lot on the physical object. Firstly, we 3D printed the cubes which made of two parts and use 6 magnets in it. But, this method was not appropriate because it took 3 hours for each cube. So we ended up with the idea to build the cubes made of wood and we had to insert the magnets on surfaces.
+We started by working on the digitalization process. We put a lot of thought into how to convert the physical items into digital representations. We discovered a system called "fiducial ID" that functions similarly to QR codes but with more organic shape drawings. Fiducial IDs can be captured by cameras and work with a plug-in program called "firefly" in Grasshopper-Rhinoceros. Each cube placed on the grid has a unique fiducial ID, which provides a parameter on the Z-axis (height) to help form a unique 3D design.
 
-As we had sphere shape magnets, it was a real concern to be able to insert the magnets in the right magnetic directions. We designed a magnet insert (nest) for each magnet to eliminate that problem and we 3D printed them from raisin. Sphere shape magnets can move in the nest and find their magnetic direction easily. Furthermore, we tried to raster the fudicials on cubes with laser cutter but the camera didn’t detect it. Thus, we engraved the outlines and drew by hand at the end. We couldn’t use vinyl because vinyl does not stick on the wood properly.
-Moreover, we had more trouble to cut the cubes out of the oak block. The block was 33 mm thick and we had to carve the surface 3mm to get 30mm thickness. We did that with the help of Adai and Edu. Through that process we discovered the facing function of the RhinoCam-CNC which provides the carving function with the end-mill has 30mm diameter. The other problem was to use the material efficiently: in order to eliminate material loss in CNC Adai made me to cut the cubes ( as we needed a lot of cubes) with the manual saw which needs a lot of attention and physical job.
+On the other hand, while the camera detects the cubes on the grid and allows users to move them freely, we also needed to program Grasshopper to detect the grid made of slots (6x6) to frame the design area and simplify the post-digitalization process. Throughout this process, we encountered many issues, such as repetitive fiducial detection by the camera, resulting in system clutter. To address this problem, we decided to implement a system reset as a solution.
 
-After engraving the fiducials in laser cutter we cut the cubes with manual saw and we drilled each surfaces (again) manually in order to insert the magnets with their 3D printed nests.
+![](../images/ds2_23.jpg)
 
-Additionally, we used the CNC machine to build the grid out of plywood. We designed and laser cut acrylic in order to build a structure to hold camera above the grid. That structure was designed in order to be located in different positions on the grid to get the right frame and capture the cubes clearly. Mostly we used the grasshopper for digitalization process. But, we also added the arduino in order to use the firefly plug-in and we also added a button to arduino in order to capture the desired design and to build that with the 3D printer.
+In addition to the digitalization aspect, we put a lot of effort into the physical objects. Initially, we 3D printed the cubes using two parts and included six magnets. However, this method was not suitable as it took three hours for each cube. Eventually, we came up with the idea of using wood to build the cubes and inserted the magnets onto the surfaces.
 
-Chapter 7: Updated Vision and Identity
+Since we had spherical magnets, it was crucial to insert them in the correct magnetic directions. To solve this problem, we designed a magnet insert (nest) for each magnet, which eliminated the issue. We 3D printed the nests using resin, allowing the spherical magnets to move and align themselves with the magnetic direction easily. Furthermore, we attempted to engrave the fiducials on the cubes using a laser cutter, but the camera did not detect them. As a result, we engraved the outlines and hand-drew the fiducials. Vinyl was not suitable for use on wood as it did not stick properly.
+
+![](../images/ds2_25.jpg)
+
+Moreover, we encountered difficulties in cutting the cubes out of the oak block. The block was initially 33 mm thick, and we needed to carve it to achieve a 30 mm thickness. With the assistance of Adai and Edu, we managed to carve the surface using the facing function of RhinoCam-CNC, which provided the carving function with an end-mill of 30 mm diameter. Efficient use of the material posed another challenge. To minimize material loss in the CNC process, Adai helped me cut the cubes manually using a saw, which required great attention and physical effort.
+
+After engraving the fiducials with the laser cutter, we cut the cubes using a manual saw and manually drilled each surface to insert the magnets with their 3D printed nests.
+Additionally, we utilized the CNC machine to construct the grid using plywood. We designed and laser cut acrylic to create a structure that held the camera above the grid. This structure was designed to be positioned at different locations on the grid to capture the cubes clearly and frame the design appropriately. We primarily used Grasshopper for the digitalization process. However, we also integrated Arduino to utilize the firefly plug-in and added a button to capture the desired design and build it using the 3D printer.
+
+![](../images/ds2_24.jpg)
+
+##Chapter 7: Updated Vision and Identity##
 
 Overall, we had the chance to show, test and get feedbacks about Pixel Cubes during Design Dialogues II. Mostly, our guests found the idea quite interesting and helpful as a bridge between physical and digital worlds. As we tried to explain our main goal -which supporting the maker spaces and DIY project by making digital tools accessible and easy to use- our intervention made more sense.
 
