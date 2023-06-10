@@ -141,3 +141,5 @@ Most helpful comments and feedbacks and questions were;
 According to my fight and my vision my alternative present can be defined like this; “Citizens that interested in making and DIY projects but don’t have experience and courage on digital fabrication to develop advanced projects, now have the opportunity to discover the link between physical and digital worlds”
 
 As an updated vision and development plan we need to test our concept within some communities like “Caixa d'Eines y Feines” which supports maker space movements and provides tools and workshops to individuals.
+
+![](../images/ds2_26.jpg)
