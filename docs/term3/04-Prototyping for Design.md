@@ -14,6 +14,15 @@ Josep gave a brief introduction for robotics and acquired knowledge about roboti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ycJ9lMgZVuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlu0WF25g&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlu0WF25g&#x2F;view?utm_content=DAFlu0WF25g&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Rhino-Grasshopper + Robotic Arm</a> by caglaralkan
+
 ##Interface Class Activities##
 
 In this course, we discovered a bit the concept of live coding and explored a visualization tool called Hydra, which enabled us to manipulate and design our own real-time visuals. Through Hydra, we gained the ability to modify existing visuals, write code from scratch, incorporate our own cameras, and even control the visuals using sound inputs. As someone without a coding background, this experience proved immensely beneficial in comprehending how each command affected the visuals and their parameters. It provided valuable insights into the direct relationship between coding commands and the endless possibilities that these tools offer for creative expression. The most entertaining and interesting part was to try to work with the microphones of our computers can be used as an input to get some outcomes. It was quite nice to learn a bit the coding language again.
@@ -34,6 +43,15 @@ During the initial session, Victor introduced us to the concept of Blender, its 
 In the second session we started using Blender and learned basic functions in moving models in space and created an array. Victor showed us to use the coding interface of Blender to command the program rather than the basic interface tools. I guess this function is an advantage of Blender than the other CAD and rendering programs, Blender has a lot of ways to interact with it. Then we continued with how to connect Arduino to Blender, using a switch modeled in Blender it could control a light on Arduino. Unsurprisingly, I had a lot of problems with Arduino IDE and its libraries and could achieve to finalize the task that we wanted to achieve. But, at the end it was nice to discover a bit about Blender.
 
 ![](../images/blender_code.jpg)
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlu-pvN8w&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlu-pvN8w&#x2F;view?utm_content=DAFlu-pvN8w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Blender Intro and Interface Exercise</a> by caglaralkan
 
 ##Challange No:3##
 
