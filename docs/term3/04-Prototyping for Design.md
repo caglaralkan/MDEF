@@ -23,6 +23,10 @@ Josep gave a brief introduction for robotics and acquired knowledge about roboti
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlu0WF25g&#x2F;view?utm_content=DAFlu0WF25g&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Rhino-Grasshopper + Robotic Arm</a> by caglaralkan
 
+https://hackmd.io/ojtXMAVIQYyJJ86pPzzNpA?view
+
+https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/robots/
+
 ##Interface Class Activities##
 
 In this course, we discovered a bit the concept of live coding and explored a visualization tool called Hydra, which enabled us to manipulate and design our own real-time visuals. Through Hydra, we gained the ability to modify existing visuals, write code from scratch, incorporate our own cameras, and even control the visuals using sound inputs. As someone without a coding background, this experience proved immensely beneficial in comprehending how each command affected the visuals and their parameters. It provided valuable insights into the direct relationship between coding commands and the endless possibilities that these tools offer for creative expression. The most entertaining and interesting part was to try to work with the microphones of our computers can be used as an input to get some outcomes. It was quite nice to learn a bit the coding language again.
@@ -52,6 +56,10 @@ In the second session we started using Blender and learned basic functions in mo
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlu-pvN8w&#x2F;view?utm_content=DAFlu-pvN8w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Blender Intro and Interface Exercise</a> by caglaralkan
+
+https://hackmd.io/vIgyQbZYRsKZuxc89xQ5KA
+
+
 
 ##Challange No:3##
 
