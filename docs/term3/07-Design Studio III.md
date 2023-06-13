@@ -80,8 +80,11 @@ Once we agreed to organize the hydraulic tile making workshop for MDEF-FEST, we 
 Essentially, a single hydraulic tile consists of three layers: the top layer is made of marble powder, white cement, color pigments, and water; the middle layer consists of fine gray cement; and the bottom layer is a mixture of sand and cement. For the second trial, we obtained marble powder and white cement and made several attempts to achieve the best results. We experimented with different ratios for the top and bottom layers to optimize the production process. The main focus of the second trial was to improve the mold, as the imperfect edges of the tiles posed a challenge.
 
 ![](../images/tile_trail3.jpg)
+![](../images/ds3_5.jpg)
 
 Ultimately, we realized that we are not professional tile makers but rather designers seeking to test the PTG for various applications. Despite not achieving perfect tiles, we decided to continue our journey and explore further possibilities.
+
+![](../images/personaldesignspace3.jpg)
 
 **Chapter 9: Final Alternative Present**
 

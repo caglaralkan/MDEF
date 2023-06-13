@@ -23,8 +23,6 @@ Josep gave a brief introduction for robotics and acquired knowledge about roboti
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlu0WF25g&#x2F;view?utm_content=DAFlu0WF25g&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Rhino-Grasshopper + Robotic Arm</a> by caglaralkan
 
-https://hackmd.io/ojtXMAVIQYyJJ86pPzzNpA?view
-
 https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/robots/
 
 ##Interface Class Activities##
@@ -56,6 +54,9 @@ In the second session we started using Blender and learned basic functions in mo
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFlu-pvN8w&#x2F;view?utm_content=DAFlu-pvN8w&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Blender Intro and Interface Exercise</a> by caglaralkan
+
+https://hackmd.io/ojtXMAVIQYyJJ86pPzzNpA?view
+
 
 https://hackmd.io/vIgyQbZYRsKZuxc89xQ5KA
 
