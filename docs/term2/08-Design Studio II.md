@@ -17,9 +17,9 @@ Creating Values / Urban productivity practices
 
 So far, I have tried to focus on potential collaborations and interventions in order to come together with communities that support maker spaces and urban productivity practices. Specifically, the organization 'Caixa d'Eines y Feines' strives to contribute to and support individuals who are curious about becoming makers, not only by providing them with equipment but also by organizing workshops and facilitating gatherings to encourage sharing of experiences. In my opinion, these gatherings are the first steps in building communities.
 
-Firstly, the main idea is “democratization and accesibility of production” which can be done by hacking the monopoly on production/manufacturing. At this point it is compulsory to support DIY projects by easily accessible equipment, materials and alternatives making-production methods.
+Firstly, the main idea is “democratization and accessibility of production” which can be done by hacking the monopoly on production/manufacturing. At this point it is compulsory to support DIY projects by easily accessible equipment, materials and alternatives making-production methods.
 
-Additionally, I made some searches on the concept of transformation of the personal and collective working spaces into places to support the idea of urban productivity. Growing something -urban farming- or recycle/upcycle materials and resources (especially water) cardboard, wood, metals... And generating projects to use those resources efficiently.  
+Additionally, I made some searches on the concept of transformation of the personal and collective working spaces into places to support the idea of urban productivity. Growing something -urban farming- or recycle/up-cycle materials and resources (especially water) cardboard, wood, metals... And generating projects to use those resources efficiently.  
 
 “Social making - A collective open-ending recipe-manual concept”
 
@@ -59,13 +59,15 @@ Additionally, Jonathan encouraged us to conduct further research on lipid separa
 
 ![](../images/ds2_4.jpg)
 
-On the other hand, as a second project and intervention group with Marc and Ahmed we agreed on exploring ways to combine digital and physical tools to support DIY projects. As there is a strict boarder between digital worlds and physical representations, its quite difficult to destroy the bias of how difficult to learn, use and integrate digital tools to generate DIY projects. However they look so complicated and hard to learn and use, digitals tools give us a lot of personalization and customization opportunities to modify any project. As those two terms -personalization and customization- are two important key words for DIY projects, democratization of the digital tools is essential.
+On the other hand, as a second project and intervention group with Marc and Ahmed we agreed on exploring ways to combine digital and physical tools to support DIY projects. As there is a strict boarder between digital worlds and physical representations, it is quite difficult to destroy the bias of how difficult to learn, use and integrate digital tools to generate DIY projects. However they look so complicated and hard to learn and use, digitals tools give us a lot of personalization and customization opportunities to modify any project. As those two terms -personalization and customization- are two important key words for DIY projects, democratization of the digital tools is essential.
+
+![](../images/ds2_5.jpg)
 
 During the second term with Ahmed and Marc we tried to develop a concept that combine the physical and digital worlds. We took the parametric design as a base and tried to create a base project which provides an environment to make the digital fabrication tools accessible and easy to understand.
 
 ##Collective Intervention no:4##
 
-AAs a group, after discussing about our common interest and as we want to work on water bricks to store domestic grey water, we decided to work on something related to modularity, interchangeability, parametric design, personalization-customization of a product… We ended up with the idea of building a DIY toolkit which provides designing unique tile decorations and patterns made of those. We also took that opportunity as a first step to connect the digital and physical.
+As a group, after discussing about our common interest and as we want to work on water bricks to store domestic grey water, we decided to work on something related to modularity, interchangeability, parametric design, personalization-customization of a product… We ended up with the idea of building a DIY toolkit which provides designing unique tile decorations and patterns made of those. We also took that opportunity as a first step to connect the digital and physical.
 
 Firstly, we talked on 3D and 2D options and then we decided to focus on 2D option. For a simple tile decoration we need vinyl designs which needs to be sticked on stencil frame to transfer the ceramic ink. Instead of providing ready to use patterns, stickers, vinyls we preferred to work on a grid board and some geometric shapes which provides the user to make their own unique design.
 
@@ -135,7 +137,7 @@ Most helpful comments and feedbacks and questions were;
 - Human machine interface Which combine the physical and digital worlds
 - Focusing on loops-gaps between two worlds and let the digital fabrication processes less complicated
 - Short cuts; Can visually impaired people design by the help of this concept
-- Can we simplify and make accesible design processes for everyone
+- Can we simplify and make accessible design processes for everyone
 - It’s better to recognize the fiducials in the physical world to have the sense
 
 According to my fight and my vision my alternative present can be defined like this; “Citizens that interested in making and DIY projects but don’t have experience and courage on digital fabrication to develop advanced projects, now have the opportunity to discover the link between physical and digital worlds”
