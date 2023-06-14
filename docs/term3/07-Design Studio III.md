@@ -75,12 +75,19 @@ The next step involved preparing the color and cement mixtures for decorating th
 
 ![](../images/tile_trial2.jpg)
 
+First Trial Outcomes
+
 Once we agreed to organize the hydraulic tile making workshop for MDEF-FEST, we conducted a quick search for the tile mixture recipe. As it is an ancient craftsmanship process, finding a specific recipe proved challenging, and we even consulted Chat-GPT for assistance.
 
 Essentially, a single hydraulic tile consists of three layers: the top layer is made of marble powder, white cement, color pigments, and water; the middle layer consists of fine gray cement; and the bottom layer is a mixture of sand and cement. For the second trial, we obtained marble powder and white cement and made several attempts to achieve the best results. We experimented with different ratios for the top and bottom layers to optimize the production process. The main focus of the second trial was to improve the mold, as the imperfect edges of the tiles posed a challenge.
 
 ![](../images/tile_trail3.jpg)
+
+Second Trial Outcomes
+
 ![](../images/ds3_5.jpg)
+
+Last Trial with the New Molds and Poster of the Workshop
 
 Ultimately, we realized that we are not professional tile makers but rather designers seeking to test the PTG for various applications. Despite not achieving perfect tiles, we decided to continue our journey and explore further possibilities.
 
