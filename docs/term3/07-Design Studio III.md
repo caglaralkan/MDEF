@@ -69,11 +69,11 @@ Besides the two screen-printing interventions we conducted, we also explored dif
 
 During the third challenge of the Digital Prototyping class, we attempted to produce hydraulic tiles using the Phygital Therapy Grid. After capturing the design on the grid, we sent the file to Cura, the software for the 3D printer, and printed the design as a frame to define the tile pattern. We placed the 3D printed frame within the wooden frame we had constructed for hydraulic tile production.
 
-![](../images/tile_trail1.jpg)
+![](../images/tile_trial1.jpg)
 
 The next step involved preparing the color and cement mixtures for decorating the tiles. Normally, powdered color pigments are mixed with white cement, to which water is added. However, we used liquid color pigments typically used for fabric painting and mixed them with gray cement. To achieve the best result and avoid large particles, we sieved the gray cement. We then filled the 3D printed frame with the color pigments and cement mixtures according to the desired decoration. After removing the 3D printed frame, we added more cement by sieving it on top. In the first trial, we added a mixture of sand and cement on top and applied excessive pressure with the hydraulic press. The result was unsuccessful. For the second trial, we decided to add only cement on top, but it resulted in a dry and uneven finish. In the third and final trial, we applied thinner layers of cement, sprayed water on each layer, and applied 2 tons of pressure using the hydraulic press. The end result was quite satisfying. However, as we planned to organize a hydraulic tile workshop for MDEF-FEST, we decided to conduct further research to find the best recipe for hydraulic tiles before attempting another trial with Evan.
 
-![](../images/tile_trail2.jpg)
+![](../images/tile_trial2.jpg)
 
 Once we agreed to organize the hydraulic tile making workshop for MDEF-FEST, we conducted a quick search for the tile mixture recipe. As it is an ancient craftsmanship process, finding a specific recipe proved challenging, and we even consulted Chat-GPT for assistance.
 
