@@ -29,15 +29,22 @@ Due to a heavy and unexpected rainstorm, there were only four participants in th
 
 ![](../images/ds2_27.jpg)
 
+Introduction of the gadget and explanation of the screen-printing process
+
 We demonstrated the process of screen-printing on white sheets that Amanda J. and Samantha Piercy provided from the old clothes and fabric recycling center. Initially, we showcased mono-color printing in our demonstrations, but our participants expressed their interest in mixing colors and creating patterns by applying the same design multiple times on their own. These attempts were highly motivating and encouraging for both us and the participants, confirming that we were in the right place and collaborating with the right community.
 
 ![](../images/ds2_28.jpg)
+
+A Demonstration of Screen-print
+(transfer of the vinyl, covering the frame, usage of color, application with spatula)
 
 During the first session, we applied screen-printing on various surfaces, textures, fabrics, and clothing items such as t-shirts, shirts, and pullovers. This allowed us to explore the versatility of the technique. Additionally, we received a request from the director and participants to repeat the workshop at the second anniversary party of CdFE. Their enthusiasm and creativity made us feel proud of our work.
 
 In conclusion, despite encountering some weather-related challenges, our first intervention was highly successful and provided valuable insights for testing our approach and the gadget we developed to support makers and encourage their integration of digital tools into their work.
 
 ![](../images/ds2_29.jpg)
+
+Colorful Results
 
 **Collective Intervention No:7**
 
@@ -47,21 +54,29 @@ To begin, we provided a brief explanation of the workshop's main purpose and inf
 
 ![](../images/ds3_2.jpg)
 
+Explaining the Grid-Board, Geometric Shapes, Vinyl Cutting, Screen-Printing
+
 During the design generation process, each participant provided us with different and valuable feedback. Since the grid and geometric shapes have magnets, participants were not entirely free to place items wherever they desired, which caused some initial confusion. However, we explained that the Grasshopper detects shapes with the reference of each square, which has a magnet at its center.
 
 This clarification led us to realize the need to redesign the grid interface to be more intuitive and avoid confusion. Surprisingly, some participants expressed a desire to design rectangle-shaped patterns instead of using the square-shaped grid, which challenged our initial assumption. The most significant and useful feedback from the workshop was the need to redesign the interface of the PTG to improve clarity.
 
 ![](../images/ds3_3.jpg)
 
+Participants experienced the Phygital Therapy Grid (PTG) to generate their design
+
 Furthermore, the interactions we had during the vinyl cutting and stencil transfer process were highly valuable. After participants generated their designs on the PTG, Ahmed captured their patterns with the camera and used the Grasshopper to convert the files into .dxf format, which were then sent to us. We borrowed the vinyl cutter from IAAC and brought it to CdEF to cut the vinyl according to the participants' designs. We then transferred the stencils onto the frames using transfer tape. Throughout this process, we encouraged participants to assist us to maximize their hands-on experience. Many attendees found this process easier than anticipated and felt confident after gaining some support. Their newfound confidence was evident during the screen printing step, as they eagerly utilized the spatula to apply the ink throughout the frame to their fabric pieces.
 
 ![](../images/ds3_4.jpg)
+
+Screen-Printing Process
 
 Moreover, some participants expressed curiosity about the technology behind the PTG and sought to integrate it into their maker space. We provided a brief explanation, and one participant mentioned that their friend had designed the fiducial system we used in Grasshopper to detect shapes and reflect them on the computer screen through RhinoCeros.
 
 In conclusion, the second screen printing workshop was highly valuable in terms of interacting with a diverse group of people and receiving feedback to further develop our Phygital Therapy Grid. Personally, it provided me with valuable insights and boosted my confidence and enthusiasm for participatory design processes, which is a new experience for me after fifteen years of industrial design.
 
 ![](../images/ds3_1.jpg)
+
+Outcomes of the Workshop
 
 **Alternative Explorations**
 
@@ -70,6 +85,8 @@ Besides the two screen-printing interventions we conducted, we also explored dif
 During the third challenge of the Digital Prototyping class, we attempted to produce hydraulic tiles using the Phygital Therapy Grid. After capturing the design on the grid, we sent the file to Cura, the software for the 3D printer, and printed the design as a frame to define the tile pattern. We placed the 3D printed frame within the wooden frame we had constructed for hydraulic tile production.
 
 ![](../images/tile_trial1.jpg)
+
+3D-Printed Frame for Hydraulic Tile Decoration
 
 The next step involved preparing the color and cement mixtures for decorating the tiles. Normally, powdered color pigments are mixed with white cement, to which water is added. However, we used liquid color pigments typically used for fabric painting and mixed them with gray cement. To achieve the best result and avoid large particles, we sieved the gray cement. We then filled the 3D printed frame with the color pigments and cement mixtures according to the desired decoration. After removing the 3D printed frame, we added more cement by sieving it on top. In the first trial, we added a mixture of sand and cement on top and applied excessive pressure with the hydraulic press. The result was unsuccessful. For the second trial, we decided to add only cement on top, but it resulted in a dry and uneven finish. In the third and final trial, we applied thinner layers of cement, sprayed water on each layer, and applied 2 tons of pressure using the hydraulic press. The end result was quite satisfying. However, as we planned to organize a hydraulic tile workshop for MDEF-FEST, we decided to conduct further research to find the best recipe for hydraulic tiles before attempting another trial with Evan.
 
@@ -92,6 +109,8 @@ Last Trial with the New Molds and Poster of the Workshop
 Ultimately, we realized that we are not professional tile makers but rather designers seeking to test the PTG for various applications. Despite not achieving perfect tiles, we decided to continue our journey and explore further possibilities.
 
 ![](../images/personaldesignspace3.jpg)
+
+My personal Design Space (Term 3)
 
 **Chapter 9: Final Alternative Present**
 
