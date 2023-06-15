@@ -98,7 +98,10 @@ Last Trial with the New Molds and Poster of the Workshop
 Ultimately, we realized that we are not professional tile makers but rather designers seeking to test the PTG for various applications. Despite not achieving perfect tiles, we decided to continue our journey and explore further possibilities.
 
 ![](../images/personaldesignspace3.jpg)
-My personal Design Space (Term 3)
+My Personal Design Space (Term 3)
+
+![](../images/personaldesignspaceover.jpg)
+My Personal Design Space (overall)
 
 **Chapter 9: Final Alternative Present**
 
