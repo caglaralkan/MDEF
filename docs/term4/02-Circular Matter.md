@@ -46,21 +46,15 @@ Then, we use the 3d model of the building two present the brick walls and column
 
 TOTAL GWP FOR BUILDING:
 
-COLUMNS : 1.21 E +04
-LEFT INTERIOR WALL : 4.39 E+03
-PAINT ON LEFT INTERIOR WALL : 5.7 E+01
-INTERIOR BACK WALLS & RIGHT WALL : 1.70 E+04
+**COLUMNS:** 1.21 E +04/ **LEFT INTERIOR WALL:** 4.39 E+03/ **PAINT ON LEFT INTERIOR WALL:** 5.7 E+01/ **INTERIOR BACK WALLS & RIGHT WALL:** 1.70 E+04
 
-TOTAL : 3.36 E+04
+**TOTAL:** 3.36 E+04
 
 As a final visualization of the GWP of the Atelier Building we made the visualizations of the raw material extraction/sieving, transport of the raw material to manufacturing site, manufacturing process, transport of the bricks to construction site and construction-installation process. We also defined the GWP numbers accordingly and also in total.  
 
-Raw Material Supply :12216E
-Transport to Pro-Site:571E
-Manufacturing Process:17182E
-Transport to Const-Site:1253E
-Construction-Insta Pro:2325E
-TOTAL GWP : 33347E
+**Raw Material Supply:**12216E/ **Transport to Pro-Site:**571E/ **Manufacturing Process:**17182E/ **Transport to Const-Site:**1253E/ **Construction-Insta Pro:**2325E
+
+**TOTAL GWP:** 33347E
 
 ![](../images/visualized_materialstory.jpg)
 
