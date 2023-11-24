@@ -51,6 +51,21 @@ INTERIOR BACK WALLS & RIGHT WALL : 1.70 E+04
 
 TOTAL : 3.36 E+04
 
+As a final visualization of the GWP of the Atelier Building we made the visualizations of the raw material extraction/sieving, transport of the raw material to manufacturing site, manufacturing process, transport of the bricks to construction site and construction-installation process. We also defined the GWP numbers accordingly and also in total.  
+
+Raw Material Supply :12216E
+Transport to Pro-Site:571E
+Manufacturing Process:17182E
+Transport to Const-Site:1253E
+Construction-Insta Pro:2325E
+TOTAL GWP : 33347E
+
+![](../images/visualized_materialstory.jpg)
+
 **Task 3:**
 
-Deconstruction and reuse scenarios of the brick walls and columns of the Atelier building.
+Deconstruction and reuse scenarios(proposals) of the brick walls and columns of the Atelier building. Basically, the main idea of the 3rd part of the lecture and task is to create an alternative project to use the bricks instead of demolish the whole structure and use to landfilling. By this method, we will be able to have less environmental impact by reducing the GWP. 
+
+In order to so, we made a small research on the state of art projects and we found some creative and effective usage of brick blocks. As the brick walls need a lot of qualified labor both to build and deconstruct, it is hard to store the bricks separately from the mortar after being demolished. We proposed cutting blocks from the walls and columns and rebuild/reattach them on panels which would be used as collage brick facades.
+
+At first we define the conditions of the bricks and visualized that with color coding. We use bricks in good, bad and new conditions. Secondly, we went through the axonometric view of the walls and columns that we proposed to cut into blocks to rebuild collage brick panels. After that stage we tried to cut the walls into with the dimensions 1meterX1meter and 0,5meterX1meter and columns into blocks with the dimensions 0,6meterX1,2meter.
