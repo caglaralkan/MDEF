@@ -71,3 +71,9 @@ Deconstruction and reuse scenarios(proposals) of the brick walls and columns of 
 In order to so, we made a small research on the state of art projects and we found some creative and effective usage of brick blocks. As the brick walls need a lot of qualified labor both to build and deconstruct, it is hard to store the bricks separately from the mortar after being demolished. We proposed cutting blocks from the walls and columns and rebuild/reattach them on panels which would be used as collage brick facades.
 
 At first we define the conditions of the bricks and visualized that with color coding. We use bricks in good, bad and new conditions. Secondly, we went through the axonometric view of the walls and columns that we proposed to cut into blocks to rebuild collage brick panels. After that stage we tried to cut the walls into with the dimensions 1meterX1meter and 0,5meterX1meter and columns into blocks with the dimensions 0,6meterX1,2meter.
+
+As a visualized material story of the bricks after deconstruction process that being cut into blocks and rebuilt into collage brick panel walls, we used the 4 main stages; Deconstruction, Transportation, Storage and Reuse.
+
+![](../images/visualized_materialstory2.jpg)
+
+To sum up, during the lecture we went through the system mapping, material story of a construction and its GWP and deconstruction proposals of a certain material. The second part of the tasks were really inspiring for searching alternatives for bricks rather than demolishing a building and use the ruins in landfilling. I discovered about the GWP and how to make calculation in the building scale. Additionally, proposing alternative projects to reusing the brick walls and columnist order to have less environmental impact with construction and demolishment activities were really inspiring.  
