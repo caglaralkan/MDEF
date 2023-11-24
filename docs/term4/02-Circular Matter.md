@@ -30,6 +30,8 @@ I worked within the group of 5 to make a system mapping for the first assignment
 
 As material demand increases material transportation also increase and both result with a negative effect on the environmental sustainability. And, less sustainable environment will cause more refugees of climate change. On the other hand, housing demolition and construction as a result of the governmental policy ends up with the gentrification which causes increase in the cost of living which means more housing demand for the low income population.
 
+During the review we got feedback especially for the governmental policy and sustainable materials. As we are spending so much time at IAAC we idealize the sustainable material idea so a lot and at the end we decided to add a node of “NGOs and Academy Projects” as the environmental impact getting into consideration. This node let us to draw a loop for sustainable materials which have less impact on the environment. Also, governmental policy has an indirect effect on sustainable material node.
+
 ![](../images/system_mapping1.jpg)
 
 **Material Story**
@@ -64,7 +66,7 @@ TOTAL GWP : 33347E
 
 **Task 3:**
 
-Deconstruction and reuse scenarios(proposals) of the brick walls and columns of the Atelier building. Basically, the main idea of the 3rd part of the lecture and task is to create an alternative project to use the bricks instead of demolish the whole structure and use to landfilling. By this method, we will be able to have less environmental impact by reducing the GWP. 
+Deconstruction and reuse scenarios(proposals) of the brick walls and columns of the Atelier building. Basically, the main idea of the 3rd part of the lecture and task is to create an alternative project to use the bricks instead of demolish the whole structure and use to landfilling. By this method, we will be able to have less environmental impact by reducing the GWP.
 
 In order to so, we made a small research on the state of art projects and we found some creative and effective usage of brick blocks. As the brick walls need a lot of qualified labor both to build and deconstruct, it is hard to store the bricks separately from the mortar after being demolished. We proposed cutting blocks from the walls and columns and rebuild/reattach them on panels which would be used as collage brick facades.
 
