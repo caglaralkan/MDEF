@@ -70,4 +70,16 @@ As a visualized material story of the bricks after deconstruction process that b
 
 ![](../images/visualized_materialstory2.jpg)
 
+**Presentation Link:**
+https://docs.google.com/presentation/d/1wZoNghK-11OKKKtnszYIYMjdOUALgpphS6gEYqnC8bM/edit?usp=sharing
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF1X7wX98Y&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF1X7wX98Y&#x2F;view?utm_content=DAF1X7wX98Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by caglaralkan
+
 To sum up, during the lecture we went through the system mapping, material story of a construction and its GWP and deconstruction proposals of a certain material. The second part of the tasks were really inspiring for searching alternatives for bricks rather than demolishing a building and use the ruins in landfilling. I discovered about the GWP and how to make calculation in the building scale. Additionally, proposing alternative projects to reusing the brick walls and columnist order to have less environmental impact with construction and demolishment activities were really inspiring.  
