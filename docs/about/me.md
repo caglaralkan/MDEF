@@ -10,6 +10,12 @@ Caglar Alkan.
 
 Personally, I am keen on further developing Participative Design Processes by organizing more events, collaborating with different maker spaces, and engaging with other networks. Consulting on participative design processes will lead me down different paths and enable me to gain deeper insights into the design and production processes. Furthermore, documenting and publishing these processes can create more opportunities to establish new connections and networks. In summary, harnessing the potential of collective making, thinking, and designing is crucial in promoting participative design processes.
 
+You can reach me here;
+
+semih.caglar.alkan@students.iaac.net
+
+caglaralkan@hotmail.com
+
 **Collective Instagram Account:**
 
 https://www.instagram.com/mkr_spc/?igshid=MzRlODBiNWFlZA%3D%3D
