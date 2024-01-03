@@ -8,7 +8,7 @@ hide:
 
 **HANDBOOK FOR MAKERSPACES**
 
-##**Introduction**##
+##Introduction##
 
 After spending a year in the MDEF01, delving into the community-based design approach and proposing alternative futures with the support of existing and future technologies, I have decided to continue my journey through MDEF02, focusing on maker movements. My aim is to explore new ways and methods to support creative personal spaces and community-based participative design processes by developing projects that combines digital fabrication tools and traditional craftsman techniques and projects in the makerspaces.
 
@@ -56,9 +56,9 @@ The second chapter will predominantly cover topics such as 'Working on the Conte
 
 To sum up, in the era of post industrial revolution, maker movements become more visible since 10-15 years. Open source concepts, digital fabrication tools, and participative design processes supports the makers in the urban spaces. Through this research I will examine the structures, management methods, community engagement plans, business models and establishment processes of several makerspaces. Consequently, there will be a handbook that would be used as a guidance for makers who would like to build their own makerspaces.
 
-**Chapter 1: Literature Review and Case Study**
+##Chapter 1: Literature Review and Case Study##
 
-**1.1. What is Making?**
+##1.1. What is Making?##
 
 We are in an era where every gadget, especially electronics, often leads us to live more individualistically with the support of digital tools. This is why the phrase “Food is the new internet” has become popular in some circles, emphasizing the idea that activities like sharing food bring people together in physical spaces. In a similar vein, we could propose a new motto: “Making is the new clubbing.” Making not only fosters creativity, productivity, and cooperation but also enhances social connections and a sense of community, reinforcing our ties to the neighborhood and cultivating a stronger sense of citizenship.
 
@@ -72,7 +72,7 @@ On the other hand, it is essential to take a look on the definition of hacking w
 
 To sum up, this framework approaches making as a process of producing knowledge than focusing on an artefact. Making encompasses a wide range of activities, including creating, producing, crafting, tinkering, building, and growing. It represents an intersection of art/craft and science, incorporating traditional techniques, technology, and design. It is a comprehensive term referring to the action of creating, producing, and manufacturing objects, with a primary focus on adding value and meaning to artifacts.
 
-**1.2. Who is a Maker?**
+##1.2. Who is a Maker?##
 
 “We are born Makers” Chris Anderson
 
@@ -91,7 +91,7 @@ Certainly, these terms—hobbyist, craft, DIYer, and maker—encompass a spectru
 In essence, being a maker can encompass elements of being a hobbyist, engaging in craftsmanship, and embracing a DIY ethos, but it goes beyond these terms by emphasizing a diverse set of skills, tools, and a collaborative community. Maker is a curious person who is eager to explore new fields and experience new techniques in order to transform the interacted environment by creative and productive processes and share all those in the community that he/she collaborates with.
 
 
-**1.3. What is a makerspace?**
+##1.3. What is a makerspace?##
 
 In his book "The Great Good Place,(1989)" Ray Oldenburg contends that third spaces play a crucial role in promoting civil society, democracy, civic engagement, and cultivating a strong sense of place. The third space can foster inclusivity, supporting a sense of belonging and connecting citizens to each other, communities, and cities through specific characteristics. These include being a neutral ground, where participants are not bound financially, politically, or legally and have no obligation to come and go; acting as a leveler, with socioeconomic status playing no role in acceptance; prioritizing conversation as the main activity in a playful atmosphere, avoiding tension; ensuring accessibility and accommodation; relying on regulars to set the mood and attract newcomers; maintaining a low profile with a horizontal hierarchy and cozy environment accepting of all individuals; and offering a home away from home, providing participants with a comfortable space similar to home. Even though Oldenburg's book doesn't directly discuss them, makerspaces, as contemporary examples of third space, embody the main principles of the third space concept, especially in the context of social interaction, community building, innovation, creativity, and accessibility.
 
@@ -104,7 +104,7 @@ Furthermore, Adrian Smith approaches makerspaces from a sociological perspective
 In summary, a makerspace is a collaborative and communal workspace that provides individuals -especially non-professionals-, often referred as makers, with the tools, knowledge, some resources, and place to create, experiment, and innovate. Makerspaces are equipped with various technologies, ranging from traditional tools to digital fabrication equipments like 3D printers, laser cutters, CNC machines, and robot arms. They serve as hubs for interdisciplinary collaboration, where individuals from diverse backgrounds, such as technology, design, and craftsmanship, can come together to work on projects, share knowledge, and learn new skills. Makerspaces embody the principles of hands-on learning and community engagement, fostering a culture of creativity, innovation, and entrepreneurship.
 
 
-**1.4. The maker movement**
+##1.4. The maker movement##
 
 The Maker Movement is a social and cultural phenomenon that emphasizes the creation of physical objects as a way to empower individuals, foster innovation, and encourage a hands-on, do-it-yourself (DIY) approach to learning. It is characterized by a community of individuals who share a passion for creating things and often involves the use of technology, open-source hardware, and collaborative spaces.The Maker Movement gained momentum in the early 2000s, inspired by the ethos of hacker and DIY cultures. Influences can be traced back to earlier movements like the Homebrew Computer Club in the 1970s and the early days of personal computing.
 
@@ -121,13 +121,13 @@ Maker Magazine and Maker Faire, founded by Dale Dougherty, have had a profound i
 While Maker Faire and Maker Magazine played a crucial role in popularizing and catalyzing the Maker Movement, it's essential to note that the movement itself had early roots and influences before the inception of both. Certainly, there are some other factors, events, movements, developments that we need to consider in order to understand the maker movement better. I will provide a brief overview of the evolution of making, highlighting key movements and insights spanning from the 19th to the 21st century.
 
 
-**The Great Exhibition (1851) & Arts and Crafts Movement (Late 19th to Early 20th Century);**
+#The Great Exhibition (1851) & Arts and Crafts Movement (Late 19th to Early 20th Century);#
 
 Within the social environment of England during the early stages of industrial revolution The Great Exhibition event gave an opportunity to show to the public how everyday objects/tools were manufactured. This raised an awareness about the production and manufacturing techniques, the backstages of the shops and stories of everyday objects. The exhibition's emphasis on industrial progress sparked a reaction against mass-produced, standardized goods. Individuals began to value craftsmanship and unique, handmade items, setting the stage for a shift towards a more individualistic and artisanal approach which were the first inspirations of the DIY culture. In line with “The Great Exhibition” event, the arts and crafts movement, that was a reaction to the negative impacts of industrialisations and the comparatively low standing of the decorative arts, celebrated handmade goods and the skilled artisans who created them, emphasizing the connection between the creator and the crafted object.
 
 In summary, "The Great Exhibition" and the Arts and Crafts Movement influenced the Maker Movement by inspiring a return to craftsmanship, individual creativity, and a rejection of mass production.While the direct link between The Great Exhibition and the Maker Movement may not be overt, the exhibition's impact on industrialization, technological innovation, and changing attitudes toward craftsmanship set the stage for a renewed appreciation for hands-on creativity and a return to individualized, artisanal approaches to making. The Maker Movement, with its emphasis on DIY culture, innovation, and craftsmanship, reflects a contemporary echo of the questions and values raised during the time of The Great Exhibition.
 
-**Bauhaus school and Movement (1919-1933);**
+#Bauhaus school and Movement (1919-1933);#
 
 Bauhaus was a design school that started to operate in 1919 in Germany and continued till 1933. (based in Weimar until 1925, Dessau through 1932, and Berlin in its final months) Beyond being a design school, Bauhaus is a movement and a strong, long-lasting design principle. This is the case that occurred by the very well organized, executed and developed educational curriculum and structure which combined arts and crafts with technology.
 Walter Gropius, the founder of the Bauhaus, aimed to built an inclusive community for artists and crafts people through the education methodology in the Bauhaus School. In order to achieve this, the educational programs focused on collaborations of teachers and students with the public and industry. This cooperation philosophy helped to school to become a trend that was influenced by not only arts and crafts but also modernism and constructivism and a long-lasting design principle. Later on, these cooperations expanded to the industrialisation by working on mass production.
@@ -136,7 +136,7 @@ Workshop practices of the Bauhaus school became the core of the educational stru
 
 Walter Gropius (1883 –1969) was a German - American architect and founder of the Bauhaus School. Gropius managed the Bauhaus as its director until 1928.
 
-**Do-It-Yourself Movement (1960s);**
+#Do-It-Yourself Movement (1960s);#
 
 Do-it-Yourself(DIY) is making, building, repairing or modifying things/projects without any support from an expert or a professional. The DIY as a term and ideology appeared with the home improvement and maintenance activities during 1910s, but became more popular and turned into a movement in 1960s. The DIY projects are designed to be realized at home or small workshops. DIY projects also need the knowledge of using practical hand-tools and machines.
 
@@ -144,7 +144,7 @@ Even anti-consumerism was one of the main aim of the DIY movement, practical han
 
 The DIY (Do-It-Yourself) culture of the 1960s serves as a crucial precursor to the contemporary Maker Movement, influencing its ethos and values. Rooted in countercultural movements and emphasizing self-sufficiency, the 1960s DIY culture initially focused on hands-on practices and a rejection of mainstream consumerism. As technology became more accessible, the DIY movement evolved to incorporate electronics and emerging technologies, with enthusiasts engaging in hacking and modifications. The open-source and collaborative spirit inherent in the 1960s DIY culture became a cornerstone of the Maker Movement, where makers openly share knowledge, designs, and project details. The DIY culture's emphasis on empowerment, individual creativity, and a shift from consumerism to active creation resonates strongly in the Maker Movement, which builds upon these principles while expanding its scope to include advanced technologies and collaborative community spaces. In essence, the DIY culture laid the foundation for the Maker Movement, shaping its approach to technology, innovation, and the celebration of hands-on creativity. Both share a fundamental belief in the power of individuals to shape and create their own technological and creative destinies.
 
-**Hackerspace movement and open-source concept;**
+#Hackerspace movement and open-source concept;#
 
 Hackerspaces, also known as makerspaces or fab labs, are community-centric spaces where individuals gather to share tools, knowledge, and resources. These physical spaces provide a collaborative environment for makers to work on projects. Hackerspaces provide access to diverse tools, from traditional hand tools to digital fabrication equipment as 3D printers and CNC machines. This accessibility lowers barriers to entry and offers makers to experiment with technologies they do not have at home. Furthermore, the community-base nature of hackerspaces encourage collaboration and sharing. By peer to peer learning, makers can learn from each other, collaborate on projects, and access a diverse range of expertise within the community. Thus, experimental and free environment of hackerspaces foster innovation and iteration. Makers can explore new ideas, overcome challenges, and develope projects with the community support.
 
@@ -152,7 +152,7 @@ In agreement with hackerspace movement, open-source concepts, rooted in transpar
 
 Both the Hackerspace movement and open-source concepts boost the collaborative and community-based characteristics of the Maker Movement. Makerspaces provide physical spaces for collaboration, whereas open source promotes the sharing of recources and knowledge. Democratization of technology is the consequence of the combination of both movements that makers with diverse backgrounds can access tools, learn new skills, and play significant role in technological innovation. In essence, the hackerspace movement and open-source concepts also contributed the collaborative, accessible, and innovative culture of the Maker Movement.
 
-**Critics on makerspaces and maker movement**
+#Critics on makerspaces and maker movement#
 
 Critics of makerspaces and the Maker Movement have focused on various topics, highlighting both the potential difficulties and the societal implications of these creative environments. While Daryl Koehn offers criticism regarding the Maker Movement's lack of diversity, its origins, and its future trajectory, highlighting concerns about the maker culture's failure to adopt an inclusive stance for all individuals in his article “The Ethics of the Maker Movement: The Potentially Good and the Possibly Terrible”(2015), Minka Stoyanova (2017) mainly highlighted the demographic, social and gender imbalances in the makerspaces.
 
@@ -162,7 +162,7 @@ Despite these criticisms, there are ongoing efforts within the maker community t
 
 So far, makerspaces have made significant progress, evolving from their earlier stages as 'tools for everyone' to becoming hubs for technology literacy, accessible digital fabrication, and meaningful social production. Moving forward, in order to ensure the sustainability of both new and existing makerspaces in the era of technology and artificial intelligence, there should be some development plans. Without such a plan, like 95% of startups and small businesses, they might share the same destiny of being erased from the system.
 
-**Case Study**
+##Case Study##
 
 This case study involves analyzing five makerspaces with varying scales, contents, sustainability models, community engagements, and management plans. While makerspaces are commonly associated with digital fabrication, emergent technologies, and technological literacy, this case study also encompasses urban farming and spaces dedicated to cultivation in the urban. As various makerspaces have started to work on projects related to sustainable food production and agriculture this makes sense for the case study. These final informations were gathered through a series of interviews, with outcomes predominantly derived from active participation in events, workshops, multiple visits, volunteering, and studying within these makerspaces and projects.
 
