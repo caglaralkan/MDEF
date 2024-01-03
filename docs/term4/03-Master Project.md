@@ -6,9 +6,9 @@ hide:
 # Master Project
 
 
-**Handbook for Makerspaces**
+**HANDBOOK FOR MAKERSPACES**
 
-**Introduction**
+##**Introduction**##
 
 After spending a year in the MDEF01, delving into the community-based design approach and proposing alternative futures with the support of existing and future technologies, I have decided to continue my journey through MDEF02, focusing on maker movements. My aim is to explore new ways and methods to support creative personal spaces and community-based participative design processes by developing projects that combines digital fabrication tools and traditional craftsman techniques and projects in the makerspaces.
 
