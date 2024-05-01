@@ -30,13 +30,27 @@ To cut the circuit we used modsproject.org to prepare the file the milling machi
 
 Keeps the white cut the blacks!
 
-https://www.canva.com/design/DAGD_WZl8sg/gIy04gp8xNbBYqNdNXPFdw/edit?utm_content=DAGD_WZl8sg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGD_WZl8sg&#x2F;-XT6HwQBEiz17pCCW-cuWA&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGD_WZl8sg&#x2F;-XT6HwQBEiz17pCCW-cuWA&#x2F;view?utm_content=DAGD_WZl8sg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Necessary adjustments and parameters to use the www.modsproject.org for cutting designing the PCB</a> by caglaralkan
 
 **How to cut the coppersheet into the circuit?**
 
 For this task is designing our own PCB and solder some electronic components on it. We opted for FR-1 PCBs. They were selected because they offer several advantages: they are non-toxic, possess good mechanical strength, are flame-retardant (a desirable feature, unless you're cooking), and are cost-effective. During the milling process, the top layer of copper is removed from areas not intended for the circuit, essentially focusing on the negative or background sections of the circuit design. To ensure proper connectivity, all designated connection points are encircled by a non-conductive material, creating a barrier between the circuitry and any remaining surface metal on the board. As a result, there may be residual copper in areas not directly involved in the circuit, but these areas remain disconnected from the circuit itself.
 
-https://www.canva.com/design/DAGD_qiOMuc/lByJCoBMrPzFQg2DHJ-BNw/edit?utm_content=DAGD_qiOMuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGD_qiOMuc&#x2F;wDnfrKkBNcjxue61iyHqow&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGD_qiOMuc&#x2F;wDnfrKkBNcjxue61iyHqow&#x2F;view?utm_content=DAGD_qiOMuc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Select the end mill and install it to the Mini CNC</a> by caglaralkan
 
 
 It is essential to change and decide the speed of the end mill of Roland SRM-20
@@ -45,7 +59,14 @@ It is essential to change and decide the speed of the end mill of Roland SRM-20
 
 As I have shaky hands thanks to Adai to help me for soldering.
 
-https://www.canva.com/design/DAGD_mj8a4I/FSjCuYHQXN2r_nNDhcgiLw/edit?utm_content=DAGD_mj8a4I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGD_mj8a4I&#x2F;28JTi0bzQfsR6-qkvLHMVA&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGD_mj8a4I&#x2F;28JTi0bzQfsR6-qkvLHMVA&#x2F;view?utm_content=DAGD_mj8a4I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Set up for soldering</a> by caglaralkan
 
 Soldering Tips:
 
