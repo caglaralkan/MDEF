@@ -162,7 +162,10 @@ Despite these criticisms, there are ongoing efforts within the maker community t
 
 So far, makerspaces have made significant progress, evolving from their earlier stages as 'tools for everyone' to becoming hubs for technology literacy, accessible digital fabrication, and meaningful social production. Moving forward, in order to ensure the sustainability of both new and existing makerspaces in the era of technology and artificial intelligence, there should be some development plans. Without such a plan, like 95% of startups and small businesses, they might share the same destiny of being erased from the system.
 
-##1.5. Case Study##
+##1.5. Case Study; Mapping and Analysing the Structure of Makerspaces in Barcelona##
+
+##1.5.1 Atlas of Makerspaces/Mapping Methodology/Makerspace ID Cards##
+
 
 This case study involves analyzing five makerspaces with varying scales, contents, sustainability models, community engagements, and management plans. While makerspaces are commonly associated with digital fabrication, emergent technologies, and technological literacy, this case study also encompasses urban farming and spaces dedicated to cultivation in the urban. As various makerspaces have started to work on projects related to sustainable food production and agriculture this makes sense for the case study. These final informations were gathered through a series of interviews, with outcomes predominantly derived from active participation in events, workshops, multiple visits, volunteering, and studying within these makerspaces and projects.
 
@@ -187,7 +190,7 @@ Fab Lab BCn: A research and education center focuses on digital fabrication
 Bioma/ConnectHort: A local community garden and center of bio-construction research.
 
 
-**AKASHA Hub**
+##1.5.2 AKASHA Hub##
 
 ”We are a community that believes in continuous improvement, transparency, collaboration, and our independence as a symbol of resilience, intellectual freedom and action. That is why we prefer to generate our own economic income, in order to reinvest them in the project, in its infrastructure and in its community”
 
@@ -210,7 +213,7 @@ In sum, AKASHA Hub is a decentralized project and a self-managed community, with
 Key Words;
 Alternative, interdisciplinary, independent, self-financed, flexible membership options, self-managed, smart trust, social innovation
 
-**MakerConvent**
+##1.5.3 MakerConvent
 
 “Seeing the potential of maker movement, there is a strong popularization of "manufacturing and digital manufacturing" as a form of practical learning, entrepreneurship and the promotion of STEAM thinking. This wave of interest puts the focus on makerspaces and spaces related to digital manufacturing. Schools, cities, universities, libraries... this new model of spaces suddenly appears everywhere”
 
@@ -233,7 +236,7 @@ In order to achieve so, through several collaboration with other makerspaces in 
 Key Words;
 Critical making, playfully produce, do-share/give-learn-exchange-join in-support, digital fabrication, young individuals, tech-literacy, local social interactions, creative hub
 
-**Caixa D’Eines y Feines**
+##1.5.4 Caixa D’Eines y Feines
 
 “We are the association CERCA (Communities, Tools and Resources at Ancient District), a group of people with a community and territorial perspective, which promotes the culture of sharing, the reuse of materials and the local economy”
 
@@ -257,7 +260,7 @@ Keywords;
 
 Accesible, inclusive, advantage of direct entrance from street, against consumerism, repair-reuse-share, promote the local and small-scale economy, ecological sustainability
 
-**Fab Lab Barcelona**
+##1.5.5 Fab Lab Barcelona
 
 “Give ordinary people the right tools, and they will design and build the most extraordinary things.” -Neil Gershenfeld
 
@@ -287,7 +290,7 @@ Key words;
 
 Large scale makerspace, driving force of maker movement, digital fabrication, distributed maker communities, research and education center, sustainability, make almost anything
 
-**Bioma-ConnectHort**
+##1.5.6 Bioma-ConnectHort
 
 BIOMA project in Barcelona, which was formerly known as ConnectHort stands for "Barcelona Institute of Organic Market Gardeners" (in Catalan: "Barcelona Institut d'Oficis de la Pagesia Ecològica"), and it aims to promote sustainable agriculture, particularly organic farming, within the city. The project provides training and support for urban farmers and promotes the consumption of locally grown organic produce. It's part of Barcelona's broader efforts to promote urban sustainability and resilience through initiatives such as urban agriculture and local food production. They also host some communities that work on bio-construction and related materials workshops to contribute other communities.
 
@@ -300,3 +303,7 @@ I attended the ConnectHort community garden several times as a volunteer, helpin
 The primary challenge of urban gardens in big cities is vandalism. Since urban gardens mostly rely on volunteering, ensuring safety in crowded cities can be difficult. Even in most metropolitan cities, municipalities prefer to close central parks at night for security reasons. However, this security measure reduces the accessibility of urban gardens and diminishes community diversity. It's common for urban green space initiatives to face various challenges related to land use, zoning regulations, funding, and community engagement. As Sebastian mentioned, dealing with bureaucratic processes within the Barcelona municipality, such as obtaining permits, licenses, or approvals, can be time-consuming and complex. Moreover, maintaining open and well-maintained spaces requires ongoing effort and resources. Ensuring that the space remains sustainable and accessible to the community over the long term can be another challenge.
 
 To sum up, Bioma project in Barcelona is a fascinating initiative aimed at creating a sustainable and biodiverse urban environment. It involves the development of green spaces and ecological corridors within the city to promote biodiversity, improve air quality, and enhance the overall quality of life for residents. The project encompasses various elements such as green roofs, vertical gardens, urban parks, and tree planting initiatives, all designed to integrate nature into the urban fabric and mitigate the effects of urbanization on the environment.
+
+Key words;
+
+Urban Farming, Bio Construction, Compost, Community Engagement, Last Green Areas in Urban, Small Scale, Growing rather Buying, Sustainable Agriculture, Connection with Nature
