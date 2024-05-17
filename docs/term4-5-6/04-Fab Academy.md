@@ -121,7 +121,7 @@ Check it under on the serial monitor
 
 The I2C (Inter-Integrated Circuit) protocol facilitates communication between multiple subordinate circuits and one or more central circuits, designed for short-distance communication within a device. I2C is highly efficient as it supports multiple central and subordinate circuits without increasing the number of required wires. Furthermore, only the central circuits can actively control the data line, preventing subordinate circuits from interfering when another device is transmitting. To achieve this communication, a specialized protocol called SPI (Serial Peripheral Interface) is used. With just two wires, you can communicate with over 1,000 devices. The function Wire.begin(); indicates the central circuit if the brackets are empty, and a subordinate circuit if a number like 9 is specified within the brackets.
 
-Even if this year communication and network session with Josep is more intense than the last year with Victor, my main focus is to understand the coding language as I do not have a full understanding in this subject.
+Even if this year communication and network session with Josep is more intense than the last year with Victor, my main focus is to understand the coding language as I already have the network class with Victor. So, it was a good opportunity to learn about coding as I do not have a full understanding in this subject.
 
 Code Development and Assignment;
 
