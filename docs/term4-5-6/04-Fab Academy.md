@@ -8,7 +8,7 @@ hide:
 
 **Fab Academy**
 
-**Electronic Production**
+##Electronic Production
 
 **How to design your own PCB?**
 
@@ -77,3 +77,48 @@ From small to bigger components and inner to outer pieces.
 Class Task;
 
 https://academany.fabcloud.io/fabacademy/2024/labs/barcelona/students/group-assignment/assignments/week04/
+
+##Networking
+
+Class notes;
+
+First serial communication,
+
+Define a speed first to communicate with devices,
+
+My board says hello to my computer, so it is essiatial to enable the communication module usb cdc on boot,
+
+İt is important when you connect the Arduino tx rx and ground,
+
+Communication of 2 boards;
+
+Then I2C(Inter-integrated Circuit);
+
+Rather than master slave we use parent and children
+
+We need library include called wire
+
+Coding:
+Wire.begin() ; means parent
+Wire.begin(9) ; means child
+Define the child and parent address
+
+“A network is a group of computers connected among themselves through communication lines.”
+“A protocol is the set of rules that specify message formats and procedures that allow machines and programs to exchange information.”
+
+Depending on the needs deciding the type of the network (Nano, Ban, Pan, Lan, Can, WLan…) an also consider Power Consumption,
+Range, Bandwidth, Existing networks/Adhoc?, Mobility
+RX/TX ; the most common way of serial communication, requires only two wires except of a common ground
+
+Most important topic is the speed; the communication needs to be done after agreeing on the speed from the both ends.
+
+For Todays exercise open the Arduino, and as always it takes sometime to update the Arduino software.
+
+From Tools section select “Arduino Rons on Core 1”
+Then enable “USB CDC On Boot”
+Start with the Library and choose “Hello” and start with the “Serial.begin (115200)” define speed
+Check it under on the serial monitor
+
+The I2C (Inter-Integrated Circuit) protocol facilitates communication between multiple subordinate circuits and one or more central circuits, designed for short-distance communication within a device. I2C is highly efficient as it supports multiple central and subordinate circuits without increasing the number of required wires. Furthermore, only the central circuits can actively control the data line, preventing subordinate circuits from interfering when another device is transmitting. To achieve this communication, a specialized protocol called SPI (Serial Peripheral Interface) is used. With just two wires, you can communicate with over 1,000 devices. The function Wire.begin(); indicates the central circuit if the brackets are empty, and a subordinate circuit if a number like 9 is specified within the brackets.
+
+Even if this year communication and network session with Josep is more intense than the last year with Victor, my main focus is to understand the coding language as I do not have a full understanding in this subject.
