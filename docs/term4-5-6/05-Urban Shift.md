@@ -3,83 +3,161 @@ hide:
     - toc
 ---
 
-# Circular Matter
+# Urban Shift
 
 
-**Circular Matter**
+**Extreme Weather:** floods/ drought…
+Vs
+**Urban Mobility:** all types of transportation and related problems/demands/necessities
 
-**System Mapping**
+**Micromobility:** refers to a range of small, lightweight vehicles operating at speeds typically below 25 km/h (15 mph) and driven by users personally. Micromobility devices include bicycles, e-bikes, electric scooters, electric skateboards, shared bicycle fleets, and electric pedal assisted (pedelec) bicycles.[1][2]
 
-“Sustainability is the goal you want to achieve, circularity is the way you get there.” Ignasi Cubiña
+**Intermobility:** (usually uncountable, plural intermobilities)
+1. The capacity of things to move among each other. the intermobility of fluid particle
 
-“Reduce, repair and remanufacture” Walter R.Stahel, 1976
+Congestion Cost Strategies
+* HOT Lanes (Partial Facility Pricing)
+* Express Toll Lanes (Partial Facility Pricing)
+* Pricing on Entire Roadway Facilities.
+* Zone-Based Pricing, including Cordon and Area Pricing.
+* Regionwide Pricing.
 
-“Antropocyne”
+https://www.youtube.com/watch?v=CkLcHxmHqfI
 
-“Social interaction for sustainability” during the presentation there was a moment I heard this sentence and this reminds me the intervention that we tried to achieved during the MDEF01 and participative design process, first person perspective, designing within the communities rather than decision making by authorities or certain group of people.
+**Intermodal Hubs/Apps:**
 
-Moving from scale of individual to building, neighborhoods and cities in order to maintain the sustainability.
+What is the intermodal meaning?
 
-**How to map a system?**
+Intermodal shipping refers to moving freight by two or more modes of transportation. By loading cargo into intermodal containers, shipments can move seamlessly between trucks, trains and cargo ships. Intermodal shipments typically fall into one of two categories: international intermodal or domestic intermodal.
 
-**Task 1:**
+https://www.youtube.com/watch?v=2JcHMhtH6_s
 
-As the first assignment we worked on a system mapping for “The driver for new demolition and new construction activity in Barcelona”. System mapping based on “Nodes” and “Loops”. “Nodes” can be representatives of the factors, causes, results, problems, solutions. So, we can create “Loops” which as the symbols of systems. That’s why we are calling it System Mapping”
+**First Mile/ Last Mile Problem:**
 
-I worked within the group of 5 to make a system mapping for the first assignment. We discussed and defined the “Material Demand” as the main node which is the result of demolition and construction activity in Barcelona that led by the “Housing Demand” which is another node. Housing demand is effected by population growth and tourism. We also agreed on the immigration (especially digital nomads) and refugee crisis (because of war and climate change) factors that effect the population growth.
+Commonly referred to as the "First Mile/Last Mile Problem" or "Last Mile Problem", is a problem that faces public transit, especially in the United States. Just think of the following scenario. Would you walk over a mile to catch the bus to get to work? Or would you rather just drive your automobile to work? Well it might be easier to drive, but also for many, that might not be the case.
 
-As material demand increases material transportation also increase and both result with a negative effect on the environmental sustainability. And, less sustainable environment will cause more refugees of climate change. On the other hand, housing demolition and construction as a result of the governmental policy ends up with the gentrification which causes increase in the cost of living which means more housing demand for the low income population.
+In many American cities some public transit routes may be inefficient and infrequent. However, people still use these routes for transit needs. But not all live near a transit stop and have to get to the transit stop sometimes from more than half a mile.
 
-During the review we got feedback especially for the governmental policy and sustainable materials. As we are spending so much time at IAAC we idealize the sustainable material idea so a lot and at the end we decided to add a node of “NGOs and Academy Projects” as the environmental impact getting into consideration. This node let us to draw a loop for sustainable materials which have less impact on the environment. Also, governmental policy has an indirect effect on sustainable material node.
+This is called the first mile/last mile problem. Majority of people are comfortable walking a certain distance to a transit stop. However typically, with increased distance from the transit stop,  problems arise when a potential rider is further than a “comfortable distance” to the necessary fixed-route stop. This is what the problem is.
 
-![](../images/system_mapping1.jpg)
+So what are some solutions to this issue? Well rerouting transit stops to cater transit rider needs can be done, providing newer express transit routes is another method, implementing micromobility solutions such as ebikes, escooters to be used by riders to get to transit stops. Microtransit pooling services could be another solution. Land use solutions such as transit oriented development can be a great solution.
 
-**Material Story**
+While each solution comes with some challenges, the first/last mile issue is one that is quite prominent in many American cities. The solutions to fix this issue are present, but will require the due diligence of local governments and transportation agencies to take the lead. In doing so will lead to more people favoring alternative transportation choices away from automobiles.
 
-**Task 2:**
+**Multimodal Mobility:**
 
-Presentation / Diagram for a certain material(BRICK) in the Atelier building and search through  EPD(ENVIRONMENTAL PRODUCT DECLARATION) in order to calculate its CO2 release and effect on the GWP(Global Warming Potential).
+Multimodal mobility is characterized by a combination of different transportation modes often in a single trip. In order for multimodal transportation to work an extensive use of mobility intelligence and data needs to go into planning an appropriate infrastructure, including public transportation, e-scooter/e-bike stations, shared mobility solutions and more
 
-First of all we visited the building and defined the brick. Mainly two types of bricks were used to construct the building; Mostly red bricks (columns, back walls and right side wall) and additionally, clay hollow bricks used on the left side wall and painted. So, we made a research on ibu-epd.com to see the EPD and find out the GWP of the two types of bricks. We also considered the GWP of the paint.
+https://otonomo.io/blog/smart-cities-mobility-intelligence/
 
-Then, we use the 3d model of the building two present the brick walls and columns. We located the 3d model and added our photos that we took. We also remarked that some openings on the back wall were filled up with new (shaped egdes) red bricks. It was obvious that that addings did not applied by a qualified labor as the surface finishes and structure of the added wall. Also, we saw some other fill-ups the holes for old timber beams.
+**Burden of a Vehicle Ownership:**
 
-TOTAL GWP FOR BUILDING:
+https://www.vox.com/23753949/cars-cost-ownership-economy-repossession
 
-**COLUMNS:** 1.21 E +04/ **LEFT INTERIOR WALL:** 4.39 E+03/ **PAINT ON LEFT INTERIOR WALL:** 5.7 E+01/ **INTERIOR BACK WALLS & RIGHT WALL:** 1.70 E+04
+**Corporate Mobility:**
 
-**TOTAL:** 3.36 E+04
+In principle, corporate mobility is a mirror of public mobility in cities and municipalities, with car and bicycle transport, public transport or even ride sharing offers.
 
-As a final visualization of the GWP of the Atelier Building we made the visualizations of the raw material extraction/sieving, transport of the raw material to manufacturing site, manufacturing process, transport of the bricks to construction site and construction-installation process. We also defined the GWP numbers accordingly and also in total.  
+**MaaS:**
 
-**Raw Material Supply:**12216E/ **Transport to Pro-Site:**571E/ **Manufacturing Process:**17182E/ **Transport to Const-Site:**1253E/ **Construction-Insta Pro:**2325E
+Mobility as a Service?
+Mobility as a Service (MaaS) integrates various forms of transport and transport-related services into a single, comprehensive, and on-demand mobility service. MaaS offers end-users the added value of accessing mobility through a single application and a single payment channel (instead of multiple ticketing and payment operations). To meet a customer’s request, a MaaS operator hosts a diverse menu of transport options, including (but not limited to) public transport, active modes such as walking and cycling, ride/ car/bike-sharing, taxi, and car rental or lease, or a combination thereof. MaaS aims to be the best value proposition for users, societies, and the environment.   A successful MaaS service also brings new business models and ways to organise and operate the various transport options, with advantages for transport operators including access to improved user and demand information and new opportunities to serve an unmet need. MaaS aims to provide an alternative to using the private car that may be as convenient, more sustainable, help reduce congestion and constraints in transport capacity and be even cheaper.
 
-**TOTAL GWP:** 33347E
+https://www.youtube.com/watch?v=UMkHtaA472Y
 
-![](../images/visualized_materialstory.jpg)
+https://www.youtube.com/watch?v=_nqKb1W9-eY
 
-**Task 3:**
+**Urban Mobility;** to create liveable urban spaces/ Urban Travel Patterns
+* 		engaging cities and citizens
+* 		putting new mobility solutions into practice
+*     reclaiming public space for public use
 
-Deconstruction and reuse scenarios(proposals) of the brick walls and columns of the Atelier building. Basically, the main idea of the 3rd part of the lecture and task is to create an alternative project to use the bricks instead of demolish the whole structure and use to landfilling. By this method, we will be able to have less environmental impact by reducing the GWP.
+**Successful Projects**
+*     DHL BOXes and secondary DHL offices
+*     Snapp Iran
+*     Freight Farms Why Shipping Container Farming?
+*     Pabbler Book Your Luggage for Pabbler!
 
-In order to so, we made a small research on the state of art projects and we found some creative and effective usage of brick blocks. As the brick walls need a lot of qualified labor both to build and deconstruct, it is hard to store the bricks separately from the mortar after being demolished. We proposed cutting blocks from the walls and columns and rebuild/reattach them on panels which would be used as collage brick facades.
+https://www.wsj.com/articles/transportation-startup-via-makes-100-million-bet-on-mapping-company-11615336201
 
-At first we define the conditions of the bricks and visualized that with color coding. We use bricks in good, bad and new conditions. Secondly, we went through the axonometric view of the walls and columns that we proposed to cut into blocks to rebuild collage brick panels. After that stage we tried to cut the walls into with the dimensions 1meterX1meter and 0,5meterX1meter and columns into blocks with the dimensions 0,6meterX1,2meter.
+**Stated Problems;**
 
-As a visualized material story of the bricks after deconstruction process that being cut into blocks and rebuilt into collage brick panel walls, we used the 4 main stages; Deconstruction, Transportation, Storage and Reuse.
+*     Safety problem in public transportation vehicles because of the changing demographic structure of cities.
+*     Mobility of goods; amazon or other online shoping channels made so much in efficient delivery structure.
+*     First and Last mile mobility should be considered and integrated into public transportation systems.
 
-![](../images/visualized_materialstory2.jpg)
 
-**Presentation Link:**
-https://docs.google.com/presentation/d/1wZoNghK-11OKKKtnszYIYMjdOUALgpphS6gEYqnC8bM/edit?usp=sharing
+##What does mobility mean?
+
+Stress/Delay/Congestion?  
+Unsafety/Unhaealthy?
+Freedom/Flexibility/Accessibility?
+
+![](../images/singapore.png)
+
+
+https://youtu.be/VSArNbPL-UU?si=Q2FKUbd85m8yvDC7
+
+https://youtu.be/_HnLhmXSpUs?si=4Rvq490Gg3l6ovKY
+
+https://youtu.be/YHSu4f4fcSI?si=Gufft5clFS0m8gOM
+A new perception to reinvent the wheel and alternative ways of Urban mobility
+
+
+**Maybe we need to think on patterns of mobility;**
+5 days a week for going office
+4 days a week for gym
+5 days a week for going to school for kids
+2 days a week for supermarket
+2 days a week for socializing
+1 days a week for forest hiking or seaside visit…
+
+Distance? 1km, 3-5km, under 10km, over 10k
+
+Is there a better way to go around in the cities than driving your personal car?
+
+**What does that mean to have your own car? Independence?**
+
+https://youtu.be/rlf-bJZa2-8?si=TG6_YGKPVLryXS4d
+https://www.youtube.com/watch?v=GSQSBoHmG8s
+
+
+**Key words;**
+
+Mobility of goods! Integrating mobility (transportation) of goods to public systems
+
+Elderly integration to smart systems. Most of the new methods of mobility exclude elderly!
+
+Have you ever misses any opportunity because of traffic? A Flight, A job interview?
+
+Carpooling! Car-sharing! Why it is not as efficient as AirBnb? Including individuals to the system?
+Regulations? Safety?
+
+Burden of vehicle ownership? What does that mean to have a car now? What it used to be? Parking? Taxes? Regulations? Responsibleities? Advantages disadvantages?
+
+**Mobility of goods;**
+
+The sight of double-parked vehicles loading and unloading goods is common.
+
+Solving a problem and make money with that solution to the problem.
+
+Next-day deliveries are now a common demand, food deliveries have skyrocketed, and home-working has brought changing needs. On current trends, demand for last-mile deliveries is expected to grow by up to 78% by 2030. 
+
+43% of consumers are more likely to choose retailers that offer more sustainable delivery options.9
+
+In our model, if all customers within 1 kilometer of a fulfilment centre were to collect their deliveries on foot, 14% of London’s deliveries would have a zero- emission last mile.
+
+**Existing innovations;**
+
+Cainiao SmartLogistics Network — which is Alibaba Group’s logistics unit—is locating 30,000 new postal stations in convenient spots across 100 cities in China. The posts support easy, contactless mailing and parcel collection, have services for consumers to track their packages in real time, and use autonomous vehicles to bring parcels to the door step.
+
+##Changing the Team to Safe Biking for Seniors
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF1X7wX98Y&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGAdTzf8Zg&#x2F;sb1S8eDN_zgaei2VdEmQpQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF1X7wX98Y&#x2F;view?utm_content=DAF1X7wX98Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by caglaralkan
-
-To sum up, during the lecture we went through the system mapping, material story of a construction and its GWP and deconstruction proposals of a certain material. The second part of the tasks were really inspiring for searching alternatives for bricks rather than demolishing a building and use the ruins in landfilling. I discovered about the GWP and how to make calculation in the building scale. Additionally, proposing alternative projects to reusing the brick walls and columnist order to have less environmental impact with construction and demolishment activities were really inspiring.  
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGAdTzf8Zg&#x2F;sb1S8eDN_zgaei2VdEmQpQ&#x2F;view?utm_content=DAGAdTzf8Zg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Despite these benefits, there is still potential to increase the number and proportion of older adults cycling. According to a study, 6% of overall urban transportation globally is currently carried out by bicycle, but this percentage could be increased</a> by caglaralkan
