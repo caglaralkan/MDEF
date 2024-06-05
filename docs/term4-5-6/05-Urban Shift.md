@@ -7,8 +7,12 @@ hide:
 
 
 **Extreme Weather:** floods/ drought…
+
 Vs
+
 **Urban Mobility:** all types of transportation and related problems/demands/necessities
+
+##Urban Mobility Related Terms and Concepts
 
 **Micromobility:** refers to a range of small, lightweight vehicles operating at speeds typically below 25 km/h (15 mph) and driven by users personally. Micromobility devices include bicycles, e-bikes, electric scooters, electric skateboards, shared bicycle fleets, and electric pedal assisted (pedelec) bicycles.[1][2]
 
@@ -95,14 +99,13 @@ Freedom/Flexibility/Accessibility?
 
 ![](../images/singapore.png)
 
-
 https://youtu.be/VSArNbPL-UU?si=Q2FKUbd85m8yvDC7
 
 https://youtu.be/_HnLhmXSpUs?si=4Rvq490Gg3l6ovKY
 
 https://youtu.be/YHSu4f4fcSI?si=Gufft5clFS0m8gOM
-A new perception to reinvent the wheel and alternative ways of Urban mobility
 
+A new perception to reinvent the wheel and alternative ways of Urban mobility
 
 **Maybe we need to think on patterns of mobility;**
 5 days a week for going office
@@ -119,6 +122,7 @@ Is there a better way to go around in the cities than driving your personal car?
 **What does that mean to have your own car? Independence?**
 
 https://youtu.be/rlf-bJZa2-8?si=TG6_YGKPVLryXS4d
+
 https://www.youtube.com/watch?v=GSQSBoHmG8s
 
 
