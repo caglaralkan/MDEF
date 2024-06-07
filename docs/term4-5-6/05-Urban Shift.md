@@ -199,3 +199,9 @@ Active mobility is essential for the physical and mental health of humans and is
 EasyRide Bags is a concept that encourages seniors to continue riding bicycles confidently by supporting balance and providing assistance for grocery shopping. By combining swinging wheels with a shopping trolley, EasyRide Bags targets not only seniors but also bike riders of all ages. This design eliminates the uncomfortable feeling seniors may have when seen with additional wheels typically used by children learning to ride. Users can ride their bikes with extra comfort and conveniently detach the it to carry them during supermarket shopping as a trolley.
 
 EasyRide Bags is designed to integrate with any bicycle and can be installed by an average person. The product consists of an aluminum structure and two polyester fabric bags attached to it. There are three connectors that keep the aluminum frame and bags attached to the bicycle. Two of them function as rails, and the third one that located under the seat, locks the frame securely to the bike. It can be easily docked, locked, and detached by anyone.
+
+##Project Credits
+
+EasyRide Bags is a project of Urban Shift, developed during the Master in Advanced Architecture (MAA02) at IAAC, the Institute for Advanced Architecture of Catalonia, by students: Yashas Vishwanath(IAAC), Caglar Alkan(IAAC), Justyna Angermaier(HDM), Olivia Thieme(HDM), Darius Zewick(WU) faculty: Chiara Farinea, Fiona Demeur & the Urban Shift Project Partners.
+
+Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
