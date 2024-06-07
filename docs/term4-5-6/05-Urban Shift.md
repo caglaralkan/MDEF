@@ -191,3 +191,11 @@ I created a basic model to explain the concept to my teammates. Despite the init
 After finalizing the concept and details, Yashas and I built the prototype. With Fiona's input, we constructed the prototype using wooden sticks and 3D-printed plastic connectors. Although the unstable nature of wood affected the product's stability, it was sufficient to demonstrate the concept.
 
 For further development, the product needs to be built out of metal as initially designed and tested with the target group, particularly in Germany and Austria. Collecting feedback will allow us to review and refine the details, making the product ready for manufacturing. Additionally, some team members can present the prototype to bike retailers and gather their input for further development.
+
+##Abstract for EasyRide Bags
+
+Active mobility is essential for the physical and mental health of humans and is a key component of urban mobility. Although many people enjoy bike riding from childhood, physical limitations can make riding a bike harder and more daunting, especially in urban environments, after the age of 55, according to statistics.
+
+EasyRide Bags is a concept that encourages seniors to continue riding bicycles confidently by supporting balance and providing assistance for grocery shopping. By combining swinging wheels with a shopping trolley, EasyRide Bags targets not only seniors but also bike riders of all ages. This design eliminates the uncomfortable feeling seniors may have when seen with additional wheels typically used by children learning to ride. Users can ride their bikes with extra comfort and conveniently detach the it to carry them during supermarket shopping as a trolley.
+
+EasyRide Bags is designed to integrate with any bicycle and can be installed by an average person. The product consists of an aluminum structure and two polyester fabric bags attached to it. There are three connectors that keep the aluminum frame and bags attached to the bicycle. Two of them function as rails, and the third one that located under the seat, locks the frame securely to the bike. It can be easily docked, locked, and detached by anyone.
