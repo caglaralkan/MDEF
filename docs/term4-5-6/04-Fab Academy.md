@@ -77,6 +77,85 @@ From small to bigger components and inner to outer pieces.
 Class Task;
 
 https://academany.fabcloud.io/fabacademy/2024/labs/barcelona/students/group-assignment/assignments/week04/
+##Input Devices
+
+Input devices class is mainly about sensors, gathering data through them and convert these data into information and built systems through the sensors, computers and actuators.
+
+We discovered about;
+
+**What is a sensor?**
+**Sensor types!**
+**How to Choose a Sensor?**
+**Sensing techniques!**
+
+Why do we need sensors?
+
+We need sensors to monitoring something (generally we create systems with sensors and computers/microcontrollers and we measure and gather data by sensors and transform them into information and  through computers and microcontrollers)
+
+System — Sensor — Computer
+
+We need sensors to control something
+
+Sensor — Computer — Actuator
+
+How we gather information by sensors?
+
+By a DISTANCE SENSOR we can measure the WATER LEVEL in a water tank = TANK HEIGHT - SENSOR READING
+LIGHT SENSOR
+
+By a LIGHT SENSOR we can measure the HORIZONTAL SPEED = (PULSES/min) /4 * WHEEL _RADIUS
+
+There are static and dynamic sensors…
+
+**How sensors works?**
+
+![](../images/sensors1.jpg)
+
+**How to control environment/machines/systems by sensors!**
+
+![](../images/sensors2.jpg)
+
+-Pull-up Resistors
+-Debouncing;Pushbuttons often generate spurious open/close transitions when pressed, due to mechanical and physical issues: these transitions may be read as multiple presses in a very short time fooling the
+program.
+-Reading Pulses;Reads a pulse (either HIGH or LOW) on a pin. For example, if value is HIGH, pulseIn () waits for the pin to go from LOW to HIGH, starts timing, then waits for the pin to go LOW and stops timing. Returns the length of the pulse in microseconds or gives up and
+returns 0 if no complete pulse was received within the timeout.
+
+**Analog inputs - Digital Outputs**
+
+ADC (Analog to Digital Converter) 10 bits. The resolution of an ADC is measured in bits, a one bit resolution AC is capable of delivering 21
+different values (0 and 1). The Arduino UNO has a 10 bit integrated ADC that means it can deliver 210
+values from 0 to 1023.
+
+![](../images/sensors3.jpg)
+
+Voltage diveders are essential for the livespan of sensors.
+
+**Digital Sensors**
+
+![](../images/sensors4.jpg)
+
+Level Shifter; As digital devices get smaller and faster, once ubiquitous 5 V logic has given way to ever lower-voltage standards like 3.3 V, 2.5 V, and even 1.8 V, "leading to an ecosystem of components that need a little help talking to each other. For example, a 5 V part might fail to read a 3.3 V signal as high, and a 3.3 V part might be damaged by a 5 V signal.
+
+**Heavy Lifting**
+
+Energy consumption - who provides it?
+
+Computing power
+
+Computing power (post) and because of that, data storage
+
+![](../images/sensors5.jpg)
+
+**What are the voltage levels?**
+* Do not kill your sensor!
+* Are both voltages (in & out) the same?  Is that good?
+* Are they different? Can it be solved with a voltage divider (analog or digital input) or a level shifter (digital sensor)?
+
+**The three rules of every project**
+* Always look for existing solutions first (look for well documented sensors)
+* The simpler is the better
+* Do not forget about software - (use libraries, specially for digital sensors)
 
 ##Networking
 
