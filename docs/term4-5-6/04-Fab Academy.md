@@ -170,7 +170,7 @@ Computing power (post) and because of that, data storage
 
 I decided to build a circuit using an LDR sensor to gather data on light levels around Poblenou.
 
-After constructing the LDR sensor circuit, I adjusted the resistor to 1K ohms to obtain appropriate readings, allowing for distinct measurements of indoor and outdoor brightness. The next step was to retrieve data from the LDR sensor. Initially, I attempted to use Bluetooth to connect to my mobile phone, intending to carry the sensor to various locations. However, the process was too complicated, and I was unsuccessful. Eventually, I decided to use Wi-Fi in and around the main IAAC building.
+After constructing the LDR sensor circuit, I adjusted the resistor to 1K ohms to obtain appropriate readings, allowing for distinct measurements of indoor and outdoor brightness(the other resistor did not give me the precise result-especially for the artificial and natural light difference, so it is essential to know the right resistor to use the sensors efficiantly). The next step was to retrieve data from the LDR sensor. Initially, I attempted to use Bluetooth to connect to my mobile phone, intending to carry the sensor to various locations. However, the process was too complicated, and I was unsuccessful. Eventually, I decided to use Wi-Fi in and around the main IAAC building.
 
 To store the data, I downloaded Arduspreadsheets and logged the LDR data in a .csv file. I used If This Then That (IFTTT) to connect to Webhooks and publish the data over Wi-Fi. Afterward, I was able to connect the ESP32 to a phone hotspot, making the device portable. The LDR sensor transmitted the detected light values every six-ten seconds.
 
