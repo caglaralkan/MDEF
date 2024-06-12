@@ -202,6 +202,6 @@ EasyRide Bags is designed to integrate with any bicycle and can be installed by 
 
 ##Project Credits
 
-EasyRide Bags is a project of Urban Shift, developed during the Master in Advanced Architecture (MAA02) at IAAC, the Institute for Advanced Architecture of Catalonia, by students: Yashas Vishwanath(IAAC), Caglar Alkan(IAAC), Justyna Angermaier(HDM), Olivia Thieme(HDM), Darius Zewick(WU) faculty: Chiara Farinea, Fiona Demeur & the Urban Shift Project Partners.
+EasyRide Bags is a project of Urban Shift, developed during the Master in Advanced Architecture (MAA02) at IAAC, the Institute for Advanced Architecture of Catalonia, by students: Yashas Vishwanath(IAAC), Caglar Alkan(IAAC), Justyna Angermaier(HDM), Olivia Thieme(HDM), Darius Zwecker(WU) faculty: Chiara Farinea, Fiona Demeur & the Urban Shift Project Partners.
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
