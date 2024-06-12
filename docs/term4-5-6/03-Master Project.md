@@ -439,7 +439,7 @@ Additinally, FabCityHub project seeks to build new collaborations across differe
 
 In summary, the FabCityHub project in Barcelona aims to redefine urban production and consumption through local collaborations, sustainable practices, and the evolution of makerspaces into creative hubs. Fab Lab Barcelona and IAAC play a crucial role in this transformation, driving innovation and fostering a culture of sustainability and resilience within the city.
 
-##2.5.3 Phygital Therapy Grid (PTG) Project 
+##2.5.3 Phygital Therapy Grid (PTG) Project
 
 The Phygital Therapy Grid (PTG) project was created by three master’s students (Ahmed Yakud, Marc Pares, Caglar Alkan) within the Master in Design for Emergent Futures program during 2022-2023. The project aims to bridge the physical and digital worlds, making digital fabrication technologies easier to understand, user-friendly, and applicable to artisanal practices. So far, it has been utilized in the redesign of two traditional practices and one game concept.
 
@@ -449,4 +449,4 @@ The PTG system has already been integrated into two artisanal practices: screen 
 
 Moreover, the PTG system was also used as a game concept that supports understanding the connections between the digital and physical worlds. Mostly, cubes with various heights placed on the PTG grid were used for the game concept, and the software replicates the design simultaneously in Rhinoceros. The created design can be sent to a 3D printer and built out of filament as it is designed. This concept provides a better understanding of digital fabrication tools through rapid hands-on exercises, especially for youngsters.
 
-The Phygital Therapy Grid system was developed with the support of Fab Lab BCN and tested within the community of Caixa D’Eines y Feines. Several workshops were organized, and substantial feedback was taken into consideration to advance the project. Interactions between makers, developers, and practitioners were highly beneficial and motivated both participants and project creators. In summary, the PTG project has great potential for further development and integration into many more traditional practices. It serves as an inspiring example of redesigning artisanal practices within makerspaces.
+The Phygital Therapy Grid system was developed with the support of Fab Lab BCN and tested within the community of Caixa D’Eines y Feines. Several workshops were organized, and substantial feedback was taken into consideration to advance the project. Interactions between makers, developers, and practitioners were highly beneficial and motivated both participants and project creators. In summary, the PTG project has great potential for further development and integration into many more traditional practices. It serves as an inspiring example of redesigning artisanal practices within makerspaces that helps the maker movement gain more and more recognition.
