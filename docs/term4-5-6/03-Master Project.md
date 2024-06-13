@@ -173,13 +173,19 @@ During the literature review and advisory sessions with Santi Fuentemilla, the F
 
 At this stage, I contemplated options to involve my guests in the creation process of identity cards during interviews. The first lecture of MDEF, titled 'Atlas of Weak Signals,' aimed at helping participants build and enhance their personal design space throughout the MDEF journey. This lecture served as inspiration, prompting me to initiate the development of a set of cards named 'Atlas of Makerspaces.' These cards were intended to facilitate the construction of identity cards for each makerspace, making the interview process more engaging and meaningful compared to a basic question-and-answer session.
 
+![](../images/3maincomponentsofamakerspace.jpg)
+
 To establish a structured approach for conducting interviews, I recognized the need for a mapping system. After analyzing the components of makerspaces, I designed a connection and relation map applicable to every makerspace. This mapping divided makerspace components into three main groups: domain, physical space, and community, each with its own sub-categories. The 'domain' category, for instance, included subcategories such as impact, motivation, ideology, activities, sustainability model, challenges, scale, hierarchy, accessibility, and network. The 'physical space' category encompassed components like machines, tools and equipment, techniques, and materials. Lastly, the 'community' category comprised collaborators, participants, executers, supporters, and guests.
+
+![](../images/atlasofmakerspacesmapping.jpg)
 
 Furthermore, I expanded the set of cards to support each category based on my experiences and observations during my visits, participations, volunteerings to various makerspaces. As part of the collaborative process, during MDEF01, I encouraged collaborators to create additional cards if deemed necessary. This iterative approach allowed the card set to evolve and improve with increased use. While I have conducted only five interviews thus far, continued usage is expected to contribute to further enhancements.
 
 “The necessity of keywords and visualization to attack the attention, reach more people and get more feedbacks”
 
 While the power of words, sentences, and paragraphs is undeniable, we find ourselves in an era where time is a precious commodity, especially when contemplating complex subjects. ChatGPT widely used for summarizing every single article. The primary concept behind analyzing makerspaces through identity cards is to craft a visual representation with easily digestible keywords that capture attention at a glance. Undoubtedly, further detailed work is required to enhance the design. Nonetheless, the current approach adequately lays the groundwork for structuring the idea and mapping the connections and relations among makerspaces.
+
+![](../images/atlasofmakerspacescards.jpg)
 
 Through this case study, I selected five makerspaces with various scale, content, ideology, sustainability model, accesiblity, and community engagement plan. There makerspaces are;
 
@@ -303,6 +309,8 @@ I attended the ConnectHort community garden several times as a volunteer, helpin
 The primary challenge of urban gardens in big cities is vandalism. Since urban gardens mostly rely on volunteering, ensuring safety in crowded cities can be difficult. Even in most metropolitan cities, municipalities prefer to close central parks at night for security reasons. However, this security measure reduces the accessibility of urban gardens and diminishes community diversity. It's common for urban green space initiatives to face various challenges related to land use, zoning regulations, funding, and community engagement. As Sebastian mentioned, dealing with bureaucratic processes within the Barcelona municipality, such as obtaining permits, licenses, or approvals, can be time-consuming and complex. Moreover, maintaining open and well-maintained spaces requires ongoing effort and resources. Ensuring that the space remains sustainable and accessible to the community over the long term can be another challenge.
 
 To sum up, Bioma project in Barcelona is a fascinating initiative aimed at creating a sustainable and biodiverse urban environment. It involves the development of green spaces and ecological corridors within the city to promote biodiversity, improve air quality, and enhance the overall quality of life for residents. The project encompasses various elements such as green roofs, vertical gardens, urban parks, and tree planting initiatives, all designed to integrate nature into the urban fabric and mitigate the effects of urbanization on the environment.
+
+![](../images/biomaproject_makerid.jpg)
 
 Key words;
 
