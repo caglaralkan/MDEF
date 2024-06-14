@@ -6,9 +6,22 @@ hide:
 # Master Project
 
 
-**HANDBOOK FOR MAKERSPACES**
+**MAKERS and MAKERSPACES**
 
-##Introduction##
+A handbook for makers who want to establish their own makerspaces; Key components, development projects, community engagement plans and sustainability models for makerspaces.
+
+##Abstract
+
+After spending a year in MDEF01 and exploring the community-based design approach, and developing alternative presents with the support of existing and future technologies, the journey has been decided to continue with the maker movement for MDEF02. The main aim is to explore new ways and methods for supporting productive personal spaces by integrating digital fabrication tools into maker spaces. During the visits, workshops, meetings, gatherings with makers in their workplace, MDEF structure and methodology helped to figure out that how important to take into consideration various aspects such as location, weak signals for those locations, available resources (people, space, stakeholders, financial support, potential collaborators, and business model), and more. In the era post-industrial revolution, the monopoly of manufacturers, restrictions in supply chains, and susceptibility to digital marketing attacks have dampened the productive and creative capacity of human beings. Fortunately, there is still a chance to hack the system and rediscover our abilities to produce, make, and grow our own goods locally, leveraging traditional knowledge and today’s tools. Makerspaces serve as strong indicators, pioneers, and supporters of this movement. This research aims to provide guidance for individuals or groups interested in building their own or collective makerspaces.
+
+There are some fundamental steps that need to be defined to structure the idea of building and developing maker spaces, such as: How to build a maker space? How to integrate digital fabrication tools into maker spaces? What kind of projects can be developed to support the makers/crafts and enhance the concept of maker spaces and productive personal spaces? How can a startup model be combined with the idea of a maker space? Throughout this work, firstly, a literature review will be conducted to understand the history and evolution of the maker movement. Secondly, a case study on various makerspaces in Barcelona will help to grasp their structure. Next, methods for transitioning and developing makerspaces to support their sustainability, after the movement started almost two decades ago, will be explored. Finally, information will be provided on searching for funding and creating sustainability plans for makerspaces.
+
+**Keywords**
+
+Makers, Makerspaces, Artisans, Technology Enthusiasts, Physical workspace, Digital Fabrication Tools, Financial Structure, Business Model,  Organization of Labor, Collaborators, Cooperators, Community Building Plans, Funding, Alternative Presents,Sustainable Futures
+
+
+##Introduction
 
 After spending a year in the MDEF01, delving into the community-based design approach and proposing alternative futures with the support of existing and future technologies, I have decided to continue my journey through MDEF02, focusing on maker movements. My aim is to explore new ways and methods to support creative personal spaces and community-based participative design processes by developing projects that combines digital fabrication tools and traditional craftsman techniques and projects in the makerspaces.
 
@@ -56,9 +69,9 @@ The second chapter will predominantly cover topics such as 'Working on the Conte
 
 To sum up, in the era of post industrial revolution, maker movements become more visible since 10-15 years. Open source concepts, digital fabrication tools, and participative design processes supports the makers in the urban spaces. Through this research I will examine the structures, management methods, community engagement plans, business models and establishment processes of several makerspaces. Consequently, there will be a handbook that would be used as a guidance for makers who would like to build their own makerspaces.
 
-##Chapter 1: Literature Review and Case Study##
+##Chapter 1: Literature Review and Case Study
 
-##1.1. What is Making?##
+##1.1. What is Making?
 
 We are in an era where every gadget, especially electronics, often leads us to live more individualistically with the support of digital tools. This is why the phrase “Food is the new internet” has become popular in some circles, emphasizing the idea that activities like sharing food bring people together in physical spaces. In a similar vein, we could propose a new motto: “Making is the new clubbing.” Making not only fosters creativity, productivity, and cooperation but also enhances social connections and a sense of community, reinforcing our ties to the neighborhood and cultivating a stronger sense of citizenship.
 
@@ -72,7 +85,7 @@ On the other hand, it is essential to take a look on the definition of hacking w
 
 To sum up, this framework approaches making as a process of producing knowledge than focusing on an artefact. Making encompasses a wide range of activities, including creating, producing, crafting, tinkering, building, and growing. It represents an intersection of art/craft and science, incorporating traditional techniques, technology, and design. It is a comprehensive term referring to the action of creating, producing, and manufacturing objects, with a primary focus on adding value and meaning to artifacts.
 
-##1.2. Who is a Maker?##
+##1.2. Who is a Maker?
 
 “We are born Makers” Chris Anderson
 
@@ -91,7 +104,7 @@ Certainly, these terms—hobbyist, craft, DIYer, and maker—encompass a spectru
 In essence, being a maker can encompass elements of being a hobbyist, engaging in craftsmanship, and embracing a DIY ethos, but it goes beyond these terms by emphasizing a diverse set of skills, tools, and a collaborative community. Maker is a curious person who is eager to explore new fields and experience new techniques in order to transform the interacted environment by creative and productive processes and share all those in the community that he/she collaborates with.
 
 
-##1.3. What is a makerspace?##
+##1.3. What is a makerspace?
 
 In his book "The Great Good Place,(1989)" Ray Oldenburg contends that third spaces play a crucial role in promoting civil society, democracy, civic engagement, and cultivating a strong sense of place. The third space can foster inclusivity, supporting a sense of belonging and connecting citizens to each other, communities, and cities through specific characteristics. These include being a neutral ground, where participants are not bound financially, politically, or legally and have no obligation to come and go; acting as a leveler, with socioeconomic status playing no role in acceptance; prioritizing conversation as the main activity in a playful atmosphere, avoiding tension; ensuring accessibility and accommodation; relying on regulars to set the mood and attract newcomers; maintaining a low profile with a horizontal hierarchy and cozy environment accepting of all individuals; and offering a home away from home, providing participants with a comfortable space similar to home. Even though Oldenburg's book doesn't directly discuss them, makerspaces, as contemporary examples of third space, embody the main principles of the third space concept, especially in the context of social interaction, community building, innovation, creativity, and accessibility.
 
@@ -104,7 +117,7 @@ Furthermore, Adrian Smith approaches makerspaces from a sociological perspective
 In summary, a makerspace is a collaborative and communal workspace that provides individuals -especially non-professionals-, often referred as makers, with the tools, knowledge, some resources, and place to create, experiment, and innovate. Makerspaces are equipped with various technologies, ranging from traditional tools to digital fabrication equipments like 3D printers, laser cutters, CNC machines, and robot arms. They serve as hubs for interdisciplinary collaboration, where individuals from diverse backgrounds, such as technology, design, and craftsmanship, can come together to work on projects, share knowledge, and learn new skills. Makerspaces embody the principles of hands-on learning and community engagement, fostering a culture of creativity, innovation, and entrepreneurship.
 
 
-##1.4. The maker movement##
+##1.4. The maker movement
 
 The Maker Movement is a social and cultural phenomenon that emphasizes the creation of physical objects as a way to empower individuals, foster innovation, and encourage a hands-on, do-it-yourself (DIY) approach to learning. It is characterized by a community of individuals who share a passion for creating things and often involves the use of technology, open-source hardware, and collaborative spaces.The Maker Movement gained momentum in the early 2000s, inspired by the ethos of hacker and DIY cultures. Influences can be traced back to earlier movements like the Homebrew Computer Club in the 1970s and the early days of personal computing.
 
@@ -162,9 +175,9 @@ Despite these criticisms, there are ongoing efforts within the maker community t
 
 So far, makerspaces have made significant progress, evolving from their earlier stages as 'tools for everyone' to becoming hubs for technology literacy, accessible digital fabrication, and meaningful social production. Moving forward, in order to ensure the sustainability of both new and existing makerspaces in the era of technology and artificial intelligence, there should be some development plans. Without such a plan, like 95% of startups and small businesses, they might share the same destiny of being erased from the system.
 
-##1.5. Case Study; Mapping and Analysing the Structure of Makerspaces in Barcelona##
+##1.5. Case Study; Mapping and Analysing the Structure of Makerspaces in Barcelona
 
-##1.5.1 Atlas of Makerspaces/Mapping Methodology/Makerspace ID Cards##
+##1.5.1 Atlas of Makerspaces/Mapping Methodology/Makerspace ID Cards
 
 
 This case study involves analyzing five makerspaces with varying scales, contents, sustainability models, community engagements, and management plans. While makerspaces are commonly associated with digital fabrication, emergent technologies, and technological literacy, this case study also encompasses urban farming and spaces dedicated to cultivation in the urban. As various makerspaces have started to work on projects related to sustainable food production and agriculture this makes sense for the case study. These final informations were gathered through a series of interviews, with outcomes predominantly derived from active participation in events, workshops, multiple visits, volunteering, and studying within these makerspaces and projects.
@@ -428,6 +441,8 @@ Overall, no matter if it is a solution to a problem, a way to answer a question 
 As mentioned in the first chapter, the maker movement began with the Fab Lab model, which is based on digital fabrication tools and techniques. The main goal was to democratize these technologies, which were not accessible at the time. Fortunately, the maker movement continued by incorporating traditional practices and techniques -such as woodworking, metalworking, and even sewing- and by building and developing their own communities, the movement successfully became grassroots.
 
 The sharing culture in makerspaces—which includes sharing space, tools, knowledge, and experiences—resulted in many interactions within the communities, as most making processes require collaboration. Interactions between makers skilled in digital fabrication and practitioners knowledgeable in traditional techniques created opportunities to build hybrid platforms. As a result of these interactions, some makers and practitioners were able to redesign traditional and artisanal practices using digital fabrication tools.
+
+![](../images/transitionofcoalisions.jpg)
 
 Redesigning artisanal practices with digital fabrication tools in makerspaces is crucial for the future of the maker movement. Firstly, integrating digital fabrication tools into traditional and daily practices makes their usage more meaningful, rather than using them for abstract and superficial projects. Secondly, rediscovering traditional techniques facilitates the exchange of significant amounts of knowledge and tips among participants. Moreover, new coalitions and alliances can be built due to the collaborative nature of the maker movement. Finally, and most importantly, the communities become increasingly diverse by building these coalitions and alliances between practitioners and makers. This diversity in maker communities is essential for grassroots development and for keeping the movement relevant and updated in the real world.
 
