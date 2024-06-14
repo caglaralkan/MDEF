@@ -351,6 +351,8 @@ As a summary, if we want to make a system change towards the circular economy by
 
 Within the scope of the European Commission’s circular economy action plan, several projects were carried out. The Pop-Machina Project is an EU-funded initiative under the Horizon 2020 program aimed at promoting circular economy practices through the maker movement. The project supports the establishment of makerspaces in seven cities across Europe: Leuven (Belgium), Thessaloniki (Greece), Kaunas (Lithuania), Venlo (Netherlands), Piraeus (Greece), Santander (Spain), and Istanbul (Turkey). These makerspaces are designed to serve as hubs for innovation and community engagement, fostering sustainable practices at the local level.
 
+![](../images/popmachinareplicationmethodology.jpg)
+
 The primary goal of the Pop-Machina Project is to embed circular economy principles into local communities by leveraging the potential of makerspaces. By encouraging the reuse, repair, and recycling of materials, these spaces aim to enhance resource efficiency and reduce waste. The project also places a strong emphasis on education and awareness, offering programs that teach participants about the benefits of a circular economy and how to implement sustainable practices in their daily lives.
 
 The Pop-Machina project is significant for this framework for three main reasons. Firstly, its content is directly related to makerspace establishment. Secondly, Fab Lab BCN is one of the institutions that carried out the projects with the consortium (which includes the faculty of MDEF01 and MDEF02 and advisory of this framework). Lastly, one of the makerspaces established within the scope of the project is in Istanbul, where the author of this framework plans to establish another makerspace with the help and support of this framework and all the experiences and information gained during its preparation.
@@ -380,6 +382,8 @@ The Precious Plastic project is an innovative and influential initiative that al
 
 Precious Plastic project is a perfect example of open-source philosophy. All designs, blueprints, and instructional videos for building recycling machines are freely available online. This approach allows anyone, anywhere in the world, to set up their own recycling workspace and start turning plastic waste into new products. The project also provides detailed plans for constructing various DIY recycling machines, including shredder, extrusion machine, injection molder, and compression machine. Moreover, the project has created a global network of makers, recyclers, and innovators who share ideas, solutions, and support that fosters a sense of community and collective effort towards reducing plastic waste. On the other hand, each initiative teach participants about plastic recycling, sustainable practices, and the importance of reducing waste by workshops and educational programs. Consequently, the project not only diverts plastic from landfills but also demonstrates the value and potential of recycled materials by the creation of a wide variety of products, from simple items like bowls and tiles to more complex goods like furniture and art.
 
+![](../images/preciousplastics.jpg)
+
 The Precious Plastic project exemplifies how makerspaces can play a crucial role in promoting circular economy principles and effective waste management. By providing the tools, knowledge, and community support needed to recycle plastic locally, Precious Plastic empowers individuals and communities to take action against plastic pollution and contribute to a more sustainable world.
 
 ##2.3.2 Recycle Beirut:
@@ -387,6 +391,8 @@ The Precious Plastic project exemplifies how makerspaces can play a crucial role
 Recycle Beirut is a notable project within the scope of the circular economy and waste management, reflecting how makerspaces can drive social and environmental innovation. Founded in response to Lebanon's severe waste management crisis, Recycle Beirut exemplifies the powerful impact that grassroots initiatives can have on local communities and ecosystems. This initiative was established in 2015 and combines waste management with social entrepreneurship. It emphasizes proper sorting at the source, educating participants on how to separate their waste into different categories such as paper, plastic, glass, and metal by operating a facility where collected materials are sorted, cleaned, and processed. As a result of the process waste transformed into raw materials that can be reintroduced into the manufacturing cycle.
 
 Another aspects of Recycle Beirut is its social mission. The project employs Syrian refugees, providing them with fair wages and safe working conditions. This approach not only addresses environmental issues but also contributes to social equity and economic development within marginalized communities. In addition to this mission, project conducts workshops, campaigns, and outreach programs to raise awareness about the importance of recycling and sustainable waste management. These efforts help build a culture of sustainability and environmental responsibility within the local community. In order to so, they used social media platforms and physical posters to share practical information about recycling.
+
+![](../images/recyclebeirut.jpg)
 
 Recycle Beirut is a powerful example of how makerspaces can support and enhance circular economy and waste management efforts. By addressing both environmental and social challenges, Recycle Beirut demonstrates the multifaceted impact of grassroots initiatives.
 
@@ -433,6 +439,8 @@ The ROMI Project, in which Fab Lab Barcelona and the Institute for Advanced Arch
 
 The primary goal of the ROMI Project is to address the challenges faced by micro-farms, promoting biodiversity and reducing reliance on artificial fertilizers and pesticides by using advanced robotics and digital tools. The project has developed several key technologies, including a mechanical weeding robot, an aerial robot for crop monitoring, and a 3D scanner for plant phenotyping in both indoor and outdoor environments.
 
+![](../images/romiproject.jpg)
+
 As an important makerspace, Fab Lab Barcelona contributed significantly to the ROMI Project by leveraging its expertise in digital fabrication and robotics. The lab developed and tested these robotic tools, ensuring they meet the needs of micro-farmers. Their role involved the design and construction of the robots, as well as conducting field studies to refine and validate the technology. This practical application and testing were conducted at Valldaura Labs, one of the project's key research sites.
 
 By integrating robotics into farming practices, the ROMI Project aims to save time and reduce physical labor for farmers, making small-scale agriculture more viable and appealing. This initiative supports the broader goals of sustainability and innovation in agriculture, demonstrating how digital fabrication technologies can enhance traditional farming practices.
@@ -453,9 +461,15 @@ The Phygital Therapy Grid (PTG) project was created by three master’s students
 
 The team developed a system composed of a physical interface grid, a camera, and a Grasshopper-Rhinoceros based code that functions as the software. The grid serves as a base for pieces with various basic geometric shapes and cubes of different heights, enabling the creation of designs and patterns. Each cube and piece has a Fiducial ID, which is tracked by the camera through the software code in Grasshopper. Fiducial IDs function like quarcodes and are detected by the cameras. The system operates in both the physical and digital worlds. When a user creates a pattern or design on the grid in the real world, the camera tracks and replicates it into a digital version using the Grasshopper code in Rhinoceros.
 
+![](../images/phygitaltherapyt1.jpg)
+
 The PTG system has already been integrated into two artisanal practices: screen printing and hydraulic tile making. For screen printing, the desired pattern can be captured and transformed into a format suitable for a vinyl cutter using the software (.stl). The created design is then sent to a 3D printer inappropriate format(.stl) through Cura software for tile making. Accordingly, the vinyl cutter cuts the desired pattern for screen printing, and the 3D printer builds the necessary frame for the tile design.
 
+![](../images/phygitaltherapyt2.jpg)
+
 Moreover, the PTG system was also used as a game concept that supports understanding the connections between the digital and physical worlds. Mostly, cubes with various heights placed on the PTG grid were used for the game concept, and the software replicates the design simultaneously in Rhinoceros. The created design can be sent to a 3D printer and built out of filament as it is designed. This concept provides a better understanding of digital fabrication tools through rapid hands-on exercises, especially for youngsters.
+
+![](../images/t7.png)![](../images/t9.png)
 
 The Phygital Therapy Grid system was developed with the support of Fab Lab BCN and tested within the community of Caixa D’Eines y Feines. Several workshops were organized, and substantial feedback was taken into consideration to advance the project. Interactions between makers, developers, and practitioners were highly beneficial and motivated both participants and project creators. In summary, the PTG project has great potential for further development and integration into many more traditional practices. It serves as an inspiring example of redesigning artisanal practices within makerspace.
 
