@@ -469,7 +469,7 @@ The PTG system has already been integrated into two artisanal practices: screen 
 
 Moreover, the PTG system was also used as a game concept that supports understanding the connections between the digital and physical worlds. Mostly, cubes with various heights placed on the PTG grid were used for the game concept, and the software replicates the design simultaneously in Rhinoceros. The created design can be sent to a 3D printer and built out of filament as it is designed. This concept provides a better understanding of digital fabrication tools through rapid hands-on exercises, especially for youngsters.
 
-![](../images/t7.png,t9.png)
+![](../images/t7.png)(../images/t9.png)
 
 The Phygital Therapy Grid system was developed with the support of Fab Lab BCN and tested within the community of Caixa D’Eines y Feines. Several workshops were organized, and substantial feedback was taken into consideration to advance the project. Interactions between makers, developers, and practitioners were highly beneficial and motivated both participants and project creators. In summary, the PTG project has great potential for further development and integration into many more traditional practices. It serves as an inspiring example of redesigning artisanal practices within makerspace.
 
