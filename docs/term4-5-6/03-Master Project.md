@@ -186,7 +186,7 @@ During the literature review and advisory sessions with Santi Fuentemilla, the F
 
 At this stage, I contemplated options to involve my guests in the creation process of identity cards during interviews. The first lecture of MDEF, titled 'Atlas of Weak Signals,' aimed at helping participants build and enhance their personal design space throughout the MDEF journey. This lecture served as inspiration, prompting me to initiate the development of a set of cards named 'Atlas of Makerspaces.' These cards were intended to facilitate the construction of identity cards for each makerspace, making the interview process more engaging and meaningful compared to a basic question-and-answer session.
 
-![](../images/3maincomponentsofamakerspace.jpg)
+![](../images/3maincomponentofamakerspace.jpg)
 
 To establish a structured approach for conducting interviews, I recognized the need for a mapping system. After analyzing the components of makerspaces, I designed a connection and relation map applicable to every makerspace. This mapping divided makerspace components into three main groups: domain, physical space, and community, each with its own sub-categories. The 'domain' category, for instance, included subcategories such as impact, motivation, ideology, activities, sustainability model, challenges, scale, hierarchy, accessibility, and network. The 'physical space' category encompassed components like machines, tools and equipment, techniques, and materials. Lastly, the 'community' category comprised collaborators, participants, executers, supporters, and guests.
 
