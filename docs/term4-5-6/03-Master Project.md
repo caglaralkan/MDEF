@@ -542,3 +542,86 @@ Many EU funding programs are concerned with sustainability and environmentally f
 As part of social innovation, makerspaces and EU funds can be used to develop educational and training programs, providing workshops and skill development opportunities for members and the wider community. This can enhance the skillsets of participants, making them more confident within their communities.
 
 In conclusion, obtaining EU funds can significantly enhance the development and impact of a makerspace during settlement, providing financial stability, access to advanced resources, opportunities for innovation, wide networks for diverse community building, and sustainable practices. Beyond all these advantages, the application process for funds gives makers and founders self-discipline and opportunities to develop their skills in forecasting, feasibility, and project management, which are crucial for a sustainable makerspace project.
+
+##3.3 Institutes and organizations for Funding and Opportunities
+
+Here are some institutes and organizations that provides funds for project;
+
+**Funding and Opportunities Regional Europe**
+
+1. European Commission Funding and Tender Opportunities
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home
+2. European Innovation Council
+https://eic.ec.europa.eu/index_en
+3. EIC Accelerator
+https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en
+4. European Institute Of Innovation and technology
+https://eit.europa.eu
+5. Europe Startup Nations Alliance (ESNA) https://esnalliance.eu
+6. European Cluster Collaboration Platform
+https://clustercollaboration.eu
+
+**Funding and Opportunities Austria**
+
+1. Förderpilot - Great starting point for your search regardless of your stage of development, including grants, loans, incubators, coaching, etc.
+https://www.foerderpilot.at/home
+2. Austrian Research Promotion Agency (FFG) - wide variety of support for research, development and innovation.
+https://www.ffg.at/en
+3. Vienna Business Agency - grants, coaching, consulting, etc.
+https://viennabusinessagency.at/current-funding/ 4. Austria Wirtschaftsservice - grants, equity, loans, guarantees, etc.
+https://www.aws.at/en/
+5. waff - Innovation and Employment Grant
+https://www.waff.at/en/ 6. WKÖ - Foundation, succession & handover
+https://www.wko.at/oe/foerderungen/gruenden/gruendung-nachfolge--uebergabe
+
+**Funding and Opportunities Spain**
+
+1. Impact Hub Barcelona
+	- 6 different accelerator programmes for different sectors
+	- Online and in person workshops, mentorig, networking
+https://barcelona.impacthub.net/aceleracion-de-empresas/
+2. Impact Acelera Startup – Must be a registered company in Spain - 5 month Programme with access to funding
+https://accelerator.isdi.education/eoi-acelerastartups/
+3. Barcelona Activa - Part of the municipality. Run different programmes, trainings etc.
+https://www.barcelonactiva.cat/assessorament-formacio-networking
+4. Bithabitat – Initiatives focus in go UrbanTransformation
+https://bithabitat.barcelona/es/
+
+**Funding and Opportunities Germany**
+Accelerators:
+
+1. Promotion by the state of Baden-Württemberg: Start-up BW
+https://www.startupbw.de/beratung-qualifizierung/start-up-bw-acceleratoren-fuer-high-potential-start-ups/start-up-bw-acceleratoren-news
+2. List at "Für Gründer" 
+https://www.fuer-gruender.de/kapital/eigenkapital/accelerator/programme/
+3. The Migrant Accelerator – HdM Project
+https://themigrantaccelerator.com
+
+State subsidies 
+1. Startups from science EXIST
+https://www.exist.de/EXIST/Navigation/DE/Home/home.html
+2. Funding programme of the B-W State Ministry of Science, Research & the Arts "Junge Innovatoren" https://www.junge-innovatoren.de
+3.  Further supports: Startnext (Crowdfunding), Innovationsgutscheine BW, Start-up BW Pre-Seed, Business Angels Region Stuttgart
+https://www.foerderdatenbank.de/FDB/DE/Home/home.html
+https://www.startupbw.de/fianzierung-foerderung
+https://startupcenter.notion.site/c1a8ab8b0f2f44828e41d11a961d0874?v=81ba2c6cdfdd4ce5be3c432834025c4b
+
+**Funding and Opportunities Turkey**
+
+1. İstanbul Kalkınma Ajansı
+https://www.istka.org.tr/destekler/acik-destek-programlari/
+2. Kosgeb
+https://www.kosgeb.gov.tr
+
+**Funding and Opportunities Worldwide**
+
+1. EIT– various programmes launched at the beginning of the year
+
+EIT Entrepreneurial Educational Training
+https://eit.europa.eu/activities/eit-entrepreneurial-education-learn-leaders-european-innovation EITBusinessCreationProgramme
+https://eit.europa.eu/activities/eit-business-creation-programmes-better-way-build-your-business EITInnovationDrivenResearch-Acceleration
+https://eit.europa.eu/activities/innovation-how-our-model-drives-progress
+2. ClimateLaunchpad
+https://climatelaunchpad.org
+3. BeVisioneers
+https://bevisioneers.world
