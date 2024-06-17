@@ -557,7 +557,8 @@ https://eic.ec.europa.eu/index_en
 https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en
 4. European Institute Of Innovation and technology
 https://eit.europa.eu
-5. Europe Startup Nations Alliance (ESNA) https://esnalliance.eu
+5. Europe Startup Nations Alliance (ESNA) 
+https://esnalliance.eu
 6. European Cluster Collaboration Platform
 https://clustercollaboration.eu
 
@@ -568,10 +569,12 @@ https://www.foerderpilot.at/home
 2. Austrian Research Promotion Agency (FFG) - wide variety of support for research, development and innovation.
 https://www.ffg.at/en
 3. Vienna Business Agency - grants, coaching, consulting, etc.
-https://viennabusinessagency.at/current-funding/ 4. Austria Wirtschaftsservice - grants, equity, loans, guarantees, etc.
+https://viennabusinessagency.at/current-funding/
+ 4. Austria Wirtschaftsservice - grants, equity, loans, guarantees, etc.
 https://www.aws.at/en/
 5. waff - Innovation and Employment Grant
-https://www.waff.at/en/ 6. WKÖ - Foundation, succession & handover
+https://www.waff.at/en/ 
+6. WKÖ - Foundation, succession & handover
 https://www.wko.at/oe/foerderungen/gruenden/gruendung-nachfolge--uebergabe
 
 **Funding and Opportunities Spain**
@@ -588,20 +591,23 @@ https://www.barcelonactiva.cat/assessorament-formacio-networking
 https://bithabitat.barcelona/es/
 
 **Funding and Opportunities Germany**
+
 Accelerators:
 
 1. Promotion by the state of Baden-Württemberg: Start-up BW
 https://www.startupbw.de/beratung-qualifizierung/start-up-bw-acceleratoren-fuer-high-potential-start-ups/start-up-bw-acceleratoren-news
-2. List at "Für Gründer" 
+2. List at "Für Gründer"
 https://www.fuer-gruender.de/kapital/eigenkapital/accelerator/programme/
 3. The Migrant Accelerator – HdM Project
 https://themigrantaccelerator.com
 
 State subsidies 
+
 1. Startups from science EXIST
 https://www.exist.de/EXIST/Navigation/DE/Home/home.html
 2. Funding programme of the B-W State Ministry of Science, Research & the Arts "Junge Innovatoren" https://www.junge-innovatoren.de
 3.  Further supports: Startnext (Crowdfunding), Innovationsgutscheine BW, Start-up BW Pre-Seed, Business Angels Region Stuttgart
+
 https://www.foerderdatenbank.de/FDB/DE/Home/home.html
 https://www.startupbw.de/fianzierung-foerderung
 https://startupcenter.notion.site/c1a8ab8b0f2f44828e41d11a961d0874?v=81ba2c6cdfdd4ce5be3c432834025c4b
