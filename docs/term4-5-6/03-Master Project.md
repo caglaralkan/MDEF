@@ -625,19 +625,16 @@ https://www.kosgeb.gov.tr
 
 **Funding and Opportunities Worldwide**
 
-1. EIT– various programmes launched at the beginning of the year
+EIT – various programmes launched at the beginning of the year
 
-EIT Entrepreneurial Educational Training
-https://eit.europa.eu/activities/eit-entrepreneurial-education-learn-leaders-european-innovation 
+1. EIT Entrepreneurial Educational Training https://eit.europa.eu/activities/eit-entrepreneurial-education-learn-leaders-european-innovation 
 
-EIT Business Creation Programme
-https://eit.europa.eu/activities/eit-business-creation-programmes-better-way-build-your-business 
+2. EIT Business Creation Programme https://eit.europa.eu/activities/eit-business-creation-programmes-better-way-build-your-business 
 
-EIT Innovation Driven Research-Acceleration
-https://eit.europa.eu/activities/innovation-how-our-model-drives-progress
+3. EIT Innovation Driven Research-Acceleration https://eit.europa.eu/activities/innovation-how-our-model-drives-progress
 
-2. ClimateLaunchpad
+4. ClimateLaunchpad
 https://climatelaunchpad.org
 
-3. BeVisioneers
+5. BeVisioneers
 https://bevisioneers.world
