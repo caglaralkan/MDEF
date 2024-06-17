@@ -551,31 +551,35 @@ Here are some institutes and organizations that provides funds for project;
 
 1. European Commission Funding and Tender Opportunities
 https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home
+
 2. European Innovation Council
 https://eic.ec.europa.eu/index_en
+
 3. EIC Accelerator
 https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en
+
 4. European Institute Of Innovation and technology
 https://eit.europa.eu
+
 5. Europe Startup Nations Alliance (ESNA) 
 https://esnalliance.eu
+
 6. European Cluster Collaboration Platform
 https://clustercollaboration.eu
 
 **Funding and Opportunities Austria**
 
-1. Förderpilot - Great starting point for your search regardless of your stage of development, including grants, loans, incubators, coaching, etc.
-https://www.foerderpilot.at/home
-2. Austrian Research Promotion Agency (FFG) - wide variety of support for research, development and innovation.
-https://www.ffg.at/en
-3. Vienna Business Agency - grants, coaching, consulting, etc.
-https://viennabusinessagency.at/current-funding/
- 4. Austria Wirtschaftsservice - grants, equity, loans, guarantees, etc.
-https://www.aws.at/en/
-5. waff - Innovation and Employment Grant
-https://www.waff.at/en/ 
-6. WKÖ - Foundation, succession & handover
-https://www.wko.at/oe/foerderungen/gruenden/gruendung-nachfolge--uebergabe
+1. Förderpilot - Great starting point for your search regardless of your stage of development, including grants, loans, incubators, coaching, etc. https://www.foerderpilot.at/home
+
+2. Austrian Research Promotion Agency (FFG) - wide variety of support for research, development and innovation. https://www.ffg.at/en
+
+3. Vienna Business Agency - grants, coaching, consulting, etc. https://viennabusinessagency.at/current-funding/
+
+4. Austria Wirtschaftsservice - grants, equity, loans, guarantees, etc. https://www.aws.at/en/
+
+5. waff - Innovation and Employment Grant https://www.waff.at/en/ 
+
+6. WKÖ - Foundation, succession & handover https://www.wko.at/oe/foerderungen/gruenden/gruendung-nachfolge--uebergabe
 
 **Funding and Opportunities Spain**
 
@@ -624,10 +628,16 @@ https://www.kosgeb.gov.tr
 1. EIT– various programmes launched at the beginning of the year
 
 EIT Entrepreneurial Educational Training
-https://eit.europa.eu/activities/eit-entrepreneurial-education-learn-leaders-european-innovation EITBusinessCreationProgramme
-https://eit.europa.eu/activities/eit-business-creation-programmes-better-way-build-your-business EITInnovationDrivenResearch-Acceleration
+https://eit.europa.eu/activities/eit-entrepreneurial-education-learn-leaders-european-innovation 
+
+EIT Business Creation Programme
+https://eit.europa.eu/activities/eit-business-creation-programmes-better-way-build-your-business 
+
+EIT Innovation Driven Research-Acceleration
 https://eit.europa.eu/activities/innovation-how-our-model-drives-progress
+
 2. ClimateLaunchpad
 https://climatelaunchpad.org
+
 3. BeVisioneers
 https://bevisioneers.world
