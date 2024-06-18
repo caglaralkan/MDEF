@@ -399,7 +399,7 @@ Precious Plastic project is a perfect example of open-source philosophy. All des
 
 The Precious Plastic project exemplifies how makerspaces can play a crucial role in promoting circular economy principles and effective waste management. By providing the tools, knowledge, and community support needed to recycle plastic locally, Precious Plastic empowers individuals and communities to take action against plastic pollution and contribute to a more sustainable world.
 
-##2.3.2 Recycle Beirut:
+##2.3.2 Recycle Beirut
 
 Recycle Beirut is a notable project within the scope of the circular economy and waste management, reflecting how makerspaces can drive social and environmental innovation. Founded in response to Lebanon's severe waste management crisis, Recycle Beirut exemplifies the powerful impact that grassroots initiatives can have on local communities and ecosystems. This initiative was established in 2015 and combines waste management with social entrepreneurship. It emphasizes proper sorting at the source, educating participants on how to separate their waste into different categories such as paper, plastic, glass, and metal by operating a facility where collected materials are sorted, cleaned, and processed. As a result of the process waste transformed into raw materials that can be reintroduced into the manufacturing cycle.
 
@@ -504,7 +504,7 @@ Innovation and creativity are significantly empowered by an engaged community. D
 
 In conclusion, community building and engagement are fundamental to the success and growth of makerspaces that are the hubs of alternative presents and sustainable futures. A diverse community enhances collaboration, innovation, and sustainability, making the makerspace an energetic and dynamic environment. By fostering inclusivity and actively engaging members, makerspaces can continue to evolve and make significant contributions to the maker movement and beyond.
 
-##Chapter3: Sustainability of Makerspaces and Funding
+##Chapter3: Sustainability of Makerspaces and Funds
 
 ##3.1 Sustainability Models
 
@@ -605,7 +605,7 @@ https://www.fuer-gruender.de/kapital/eigenkapital/accelerator/programme/
 3. The Migrant Accelerator – HdM Project
 https://themigrantaccelerator.com
 
-State subsidies 
+State subsidies :
 
 1. Startups from science EXIST
 https://www.exist.de/EXIST/Navigation/DE/Home/home.html
@@ -638,3 +638,25 @@ https://climatelaunchpad.org
 
 5. BeVisioneers
 https://bevisioneers.world
+
+##Summary
+
+##Bibliography
+
+Gershenfeld, N., Fab: The Coming Revolution on Your Desktop—from Personal Computers to Personal Fabrication, Basic Books, 2005.
+
+Anderson, C., Makers: The New Industrial Revolution, Crown Business, 2012.
+
+Díez, T., Personal Fabrication: Fab Labs as Platforms for Citizen-Based Innovation, from Microcontrollers to Cities, Nexus Network Journal, 2012.
+
+Meriçliler, N. An Interdisciplinary Perspective Towards MakerSpaces: 5 Cases from London, https://tez.yok.gov.tr/UlusalTezMerkezi/giris.jsp, 2023.
+
+Dougerthy, D., Maker Magazine-www.makered.com, USA, 2005-2024.
+
+Smith, A., Social Innovation, Democracy and Makerspaces, University of SUSSEX, 2017.
+
+Horizon 2020, Pop-Machina Project, www.pop-machina.eu/, 2020.
+
+Fab City Hub., A Co-Creation Hub to Design the Future, www.bcn.fab.city/, Fab Lab Barcelona-IAAC, 2019.
+
+##References

@@ -31,8 +31,8 @@ I worked within the group of 5 to make a system mapping for the first assignment
 As material demand increases material transportation also increase and both result with a negative effect on the environmental sustainability. And, less sustainable environment will cause more refugees of climate change. On the other hand, housing demolition and construction as a result of the governmental policy ends up with the gentrification which causes increase in the cost of living which means more housing demand for the low income population.
 
 During the review we got feedback especially for the governmental policy and sustainable materials. As we are spending so much time at IAAC we idealize the sustainable material idea so a lot and at the end we decided to add a node of “NGOs and Academy Projects” as the environmental impact getting into consideration. This node let us to draw a loop for sustainable materials which have less impact on the environment. Also, governmental policy has an indirect effect on sustainable material node.
-
-![](../images/system_mapping1.jpg)
+[----][----]
+[![](../images/system_mapping1.jpg)][![](../images/system_mapping1.jpg]
 
 **Material Story**
 
