@@ -791,7 +791,7 @@ Given Istanbul's diverse population and numerous academic institutions, there is
 
 **Budget:**
 
-![](../images/budget1.jpg)
+![](../images/budget1.png)
 
 **Conclusion:**
 
