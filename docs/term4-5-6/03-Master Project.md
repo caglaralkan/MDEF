@@ -705,11 +705,23 @@ Finally, to ensure makerspaces remain relevant two decades after the maker revol
 
 To sum up, throughout this framework, essential subjects were highlighted, and important tips were mentioned as a guide for makers during establishment and for makerspaces to upgrade themselves. It is also crucial to check and consider popular trends, movements, and open project calls from European Union institutes, as mentioned in the funds and opportunities section. A detailed project proposal is helpful both to apply for funds and to realize maker projects sustainably and successfully.
 
-##Author's Note
+**Author's Note**
 
+As an industrial designer, I have always been curious about personal creative spaces and urban productivity practices. My two years of experience in the “Master in Design for Emergent Futures” program have enhanced my skills in digital fabrication and expanded my vision on making. I sought to enrich this experience by working in several makerspaces in Barcelona. The maker movement and makerspaces support the idea of being productive in urban areas by providing space, tools, equipment, and knowledge within the communities.
 
+During my time in Barcelona, I participated in various workshops and repair activities, volunteered for numerous environmental actions, and organized workshops focused on redesigning artisanal practices with digital fabrication tools. Through these experiences, I discovered the power of prototyping and the importance of community.
 
+When I decided to work on this framework for makerspaces, my main motivation was to establish my own makerspace. To achieve this, I started creating a guidebook for myself and other makers who wish to establish their own spaces individually or collectively. This process was highly efficient, allowing me to conduct a literature review that helped me explore the origins of the maker movement. With the support of makers, experts, founders, executors, and participants from these makerspaces, I was able to understand their structure. Consequently, we developed a mapping system to aid future makerspace plans.
 
+Additionally, I analyzed the transformation of makerspaces from digital fabrication workshops to creative hubs. This stage was particularly inspiring, as I realized the importance of daily subjects and practices for sustainable futures and meaningful makerspace projects. Another significant takeaway was the necessity of examining the neighborhood and city where the makerspace will be built. Identifying local problems, demands, and opportunities will improve the success of makerspace projects.
+
+Overall, I have gained extensive experience, skills, and knowledge in making within the field of digital fabrication and urban productivity practices. The next stage of the project involves writing a proposal for a makerspace in Istanbul and seeking local and EU funds to support the project in terms of finance, sustainability, and networking.
+
+Makerspaces and the maker movement are crucial for social innovation, circular cities, and sustainable futures. They help people develop materials literacy, reconnect with the origins of their material lives, and act as catalysts for cultural transformation by demonstrating changes in the way we design, make, use, and dispose of materials.
+
+Makerspaces enable people to actively participate in self-provisioning rather than being passive recipients of an often opaque supply chain with hidden environmental and social impacts scattered across the globe. They have the potential to challenge the primacy of consumption and the culture of disposability, encouraging people to see themselves as citizens, not just consumers. These cultural shifts are critical for creating sustainable futures.
+
+**Project Proposal**
 
 ##Bibliography
 
