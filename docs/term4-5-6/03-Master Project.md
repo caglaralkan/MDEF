@@ -683,7 +683,9 @@ https://climatelaunchpad.org
 5. BeVisioneers
 https://bevisioneers.world
 
-##Summary
+##Outcomes
+
+**Summary**
 
 Both makerspaces and the maker movement have been developing since the movement started almost two decades ago. However, there is still a long way to go as fabrication technologies continue to evolve, social innovation needs to progress, and urban areas must become more sustainable and circular. It is certain that further and more meaningful makerspace projects will be put into practice, and this is a necessity. This framework is designed to serve as a guide for makers who want to establish their own makerspaces and for existing makerspaces looking for opportunities to upgrade themselves for greater sustainability.
 
@@ -697,9 +699,13 @@ In the following stage, the development process of the maker movement was analyz
 
 On the other hand, these inclusive makerspaces started to support small local maker communities with fewer opportunities by collaborating and sharing resources. Product libraries, repair workshops, and community gardens were included in the maker movement by this approach. Moreover, diverse maker communities in makerspaces were able to blend urban productivity with social and environmental projects for building alternative presents and sustainable futures. Waste management, circular economy, urban self-sufficiency through local production, and alternative supply chains are important subjects that the maker movement contributes to by developing projects. Supporting important social and environmental projects with diverse maker communities and productive approaches has helped the maker movement grow, gain more recognition, and become grassroots.
 
+Furthermore, community building and engagement play a key role in the advancement of the maker movement. Activities such as making, manufacturing, and fabricating are inherently prototyping and testing based. The natural environment of makerspaces enhances these prototyping processes through the sharing of knowledge, equipment, and observations, as well as the testing of ideas and outcomes. As the community of a makerspace grows in diversity, the results of prototyping and testing ideas become more accurate and relevant for subsequent stages. Thus, the power of prototyping is not only related to the precision of the design but also to the accuracy of testing results achieved within the diverse communities of makerspaces.
+
 Finally, to ensure makerspaces remain relevant two decades after the maker revolution started, some makerspaces decided to build further coalitions and alliances by pairing up makers and practitioners. In other words, redesigning artisanal practices with digital fabrication tools has opened up a new stage for the maker movement. As a result of these alliances, while practitioners gain skills and confidence in technology and build new facilities and equipment, makers also build new capacities and extend their knowledge to improve further projects. Agriculture, crafts, and even ancient production practices have been rediscovered recently with this approach. Projects aimed at circular and urban self-sufficiency within food, energy, and materials have started to be carried out. Thus, building new coalitions by redesigning artisanal practices with digital fabrication tools empowers the maker movement by supporting both parties to build new capacities and gain skills and knowledge.
 
 To sum up, throughout this framework, essential subjects were highlighted, and important tips were mentioned as a guide for makers during establishment and for makerspaces to upgrade themselves. It is also crucial to check and consider popular trends, movements, and open project calls from European Union institutes, as mentioned in the funds and opportunities section. A detailed project proposal is helpful both to apply for funds and to realize maker projects sustainably and successfully.
+
+##Author's Note
 
 
 
