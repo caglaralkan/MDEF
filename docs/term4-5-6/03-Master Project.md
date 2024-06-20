@@ -234,6 +234,8 @@ In sum, AKASHA Hub is a decentralized project and a self-managed community, with
 
 ![](../images/Akasha_makerid.jpg)
 
+**Figure .** Maker Identity Card of AKASHA Hub, 2023.
+
 Key Words;
 Alternative, interdisciplinary, independent, self-financed, flexible membership options, self-managed, smart trust, social innovation
 
@@ -505,13 +507,19 @@ The team developed a system composed of a physical interface grid, a camera, and
 
 ![](../images/phygitaltherapyt1.jpg)
 
-The PTG system has already been integrated into two artisanal practices: screen printing and hydraulic tile making. For screen printing, the desired pattern can be captured and transformed into a format suitable for a vinyl cutter using the software (.stl). The created design is then sent to a 3D printer inappropriate format(.stl) through Cura software for tile making. Accordingly, the vinyl cutter cuts the desired pattern for screen printing, and the 3D printer builds the necessary frame for the tile design.
+**Figure 14.** Phygital Therapy Grid, 2022-2023.
+
+The PTG system has already been integrated into two artisanal practices: screen printing and hydraulic tile making. For screen printing, the desired pattern can be captured and transformed into a format suitable for a vinyl cutter using the software (.stl). The created design is then sent to a 3D printer in an appropriate format(.stl) through Cura software for tile making. Accordingly, the vinyl cutter cuts the desired pattern for screen printing, and the 3D printer builds the necessary frame for the tile design.
 
 ![](../images/phygitaltherapyt2.jpg)
+
+**Figure 15.** Rediscovering Screen Printing with PTG, 2022-2023.
 
 Moreover, the PTG system was also used as a game concept that supports understanding the connections between the digital and physical worlds. Mostly, cubes with various heights placed on the PTG grid were used for the game concept, and the software replicates the design simultaneously in Rhinoceros. The created design can be sent to a 3D printer and built out of filament as it is designed. This concept provides a better understanding of digital fabrication tools through rapid hands-on exercises, especially for youngsters.
 
 ![](../images/phygitaltherapyt3.jpg)
+
+**Figure 16.** Redesigning Hydraulic Tile Production Process with PTG, 2022-2023.
 
 The Phygital Therapy Grid system was developed with the support of Fab Lab BCN and tested within the community of Caixa D’Eines y Feines. Several workshops were organized, and substantial feedback was taken into consideration to advance the project. Interactions between makers, developers, and practitioners were highly beneficial and motivated both participants and project creators. In summary, the PTG project has great potential for further development and integration into many more traditional practices. It serves as an inspiring example of redesigning artisanal practices within makerspace.
 
@@ -543,21 +551,21 @@ One of the most common sustainability models for makerspaces is charging members
 
 Another model involves charging users based on their usage of equipment, materials, or space. This ensures that those who use more resources contribute more to the costs, which can be particularly fair in resource-intensive environments. While it can provide a balanced revenue stream, it also requires complex administration and tracking, which could discourage some participants. Akasha-Hub in Barcelona city tries to settle up a method to overcome this complexity which is called “Smart-Trust”which is a kind of self management system in order to maintain the space and organization.
 
-Securing funding from local governments, European Union projects, socially concerned organizations, or private donors is another viable option for sustainability plan of makerspaces. Grants and donations can provide significant funding without requiring immediate returns on investment and can be used for specific projects, improvements, or expansions. However, obtaining grants often requires significant effort in writing proposals and continuously reporting during the progress. It is important to be aware that such funds are usually one-time, and to maintain the space and organization, there must be alternative financial plans and methods to provide revenue. Additionally, crowdfunding, which engages the community and builds a sense of ownership, could be an option for funding specific projects or needs, but it requires a strong marketing effort to reach potential backers. This approach could work well among local communities if considered as a cooperative strategy. Funding will be explained in detail as an important topic in the next section.
+Securing funding from local governments, European Union projects, socially concerned organizations, or private donors is another viable option for the sustainability plan of makerspaces. Grants and donations can provide significant funding without requiring immediate returns on investment and can be used for specific projects, improvements, or expansions. However, obtaining grants often requires significant effort in writing proposals and continuously reporting during the progress. It is important to be aware that such funds are usually one-time, and to maintain the space and organization, there must be alternative financial plans and methods to provide revenue. Additionally, crowdfunding, which engages the community and builds a sense of ownership, would be an option for funding specific projects or needs, but it requires a strong marketing effort to reach potential backers. This approach could work well among local communities if considered as a cooperative strategy. Funding will be explained in detail as an important topic in the next section.
 
 Training programs have been the most common model for sustaining makerspaces since the inception of the maker movement. Offering paid classes, workshops, and training sessions is a way to generate revenue while fulfilling the educational missions of the maker movement and building a community of alumni around it. These programs attract new members and raise awareness of the makerspaces. However, they require knowledgeable instructors and well-developed curriculums, which might need significant organization and investment in staff, equipment, materials, and marketing. Fab Lab BCN is a perfect example of this model. The organization was supported by the Institute for Advanced Architecture of Catalonia (IAAC) during the establishment process by sharing space and equipment.
 
-Moreover, makerspaces can also generate revenue by selling products made within the space or offering services like prototyping and consulting. This model directly strengths the makerspace’s capabilities and resources, potentially providing significant revenue if there is a demand in the surrounding market. However, it requires efficient production processes and quality control which can be challenging in terms of organization and workload for the staff.
+Moreover, makerspaces can also generate revenue by selling products made within the space or offering services like prototyping and consulting. This model directly strengthens the makerspace’s capabilities and resources, potentially providing significant revenue if there is a demand in the surrounding market. However, it requires efficient production processes and quality control which can be challenging in terms of organization and workload for the staff.
 
 Renting the physical space for alternative events, meetings, or long-term projects is another way to generate additional revenue and expand the usability of the makerspace. This approach requires careful scheduling to avoid conflicts and may need extra adjustments to accommodate renters needs. The efficient use of physical spaces in urban areas is an important architectural and sociological subject, and this method could be seen as a way of developing solutions to it. A considerable number of makerspaces use this method to make extra revenue and build new collaborations.
 
-Finally, contacting with schools, colleges, and universities for collaborative programs and student projects can provide extra revenue and participants for building bigger and sustainable communities. Such partnerships enhance the makerspace’s educational and training potential but require alignment of goals and clear agreements on usage and costs, which may involve complex administrative processes according to the local regulations and laws. Numerous of educational institutes are not able to settle and execute their own makerspaces for their students because of the complication of process and the lack of labour. But, most of them and their students are looking for collaborative projects.
+Finally, contacting schools, colleges, and universities for collaborative programs and student projects can provide extra revenue and participants for building bigger and sustainable communities. Such partnerships enhance the makerspace’s educational and training potential but require alignment of goals and clear agreements on usage and costs, which may involve complex administrative processes according to the local regulations and laws. Numerous educational institutes are not able to settle and execute their own makerspaces for their students because of the complication of process and the lack of labour. But, most of them and their students are looking for collaborative projects.
 
 In summary, a sustainable makerspace often needs a combination of these financial models to create a diversified revenue stream. By balancing membership fees, grants and income from training programs, makerspaces can achieve financial stability and continue to serve their communities effectively. Diversification and alternative plans are the main keys, as relying on a single funding source could be risky and not sustainable. Engaging the community and building strong partnerships are also essential strategies for long-term success.
 
 ##3.2 Funds for Makerspace Projects
 
-Makerspace establishment requires detailed project planning, which includes motivation, vision, impact, development plan, project management, community building and engagement, and a well-structured financial plan. At first glance, makerspaces may not seem complicated, but they have sophisticated structures beneath the surface. Manufacturing through digital fabrication, experimentation and prototyping within local communities, keeping pace with the maker movement, developing projects for social innovation, and dealing with regulations, laws, and bureaucracy require immense care, time, energy, and financial resources. Securing local and especially European Union (EU) funds (as this framework relates to the regional Europe) for a makerspace project offers numerous benefits and can significantly enhance the project's development, impact, and sustainability.
+Makerspace establishment requires detailed project planning, which includes motivation, vision, impact, development plan, project management, community building and engagement, and a well-structured financial plan. At first glance, makerspaces may not seem complicated, but they have sophisticated structures beneath the surface. Manufacturing through digital fabrication, experimentation and prototyping within local communities, keeping pace with the maker movement, developing projects for social innovation, and dealing with regulations, laws, and bureaucracy require immense care, time, energy, and financial resources. Securing local and especially European Union (EU) funds (as this framework relates to regional Europe) for a makerspace project offers numerous benefits and can significantly enhance the project's development, impact, and sustainability.
 
 Funds provide considerable financial resources, which can help cover initial costs during establishment, purchase advanced equipment, and maintain operational costs. This financial support reduces reliance on membership fees and other revenue sources that can hinder gaining recognition, providing financial stability during the initial period.
 
@@ -566,7 +574,7 @@ Another advantage of applying for and receiving EU funds is networking. EU-funde
 
 Many EU funding programs are concerned with sustainability and environmentally friendly processes and practices. Makerspaces can use these funds to develop projects on the circular economy, waste management, and implement sustainable projects that positively impact urban lifestyles. Consequently, EU funds stimulate local economic activities in the region, create jobs, and promote social inclusion and innovation by supporting local makerspaces. Thus, makerspaces can be transformed into hubs of local innovation, contributing to the local economy and community well-being.
 
-As part of social innovation, makerspaces and EU funds can be used to develop educational and training programs, providing workshops and skill development opportunities for members and the wider community. This can enhance the skillsets of participants, making them more confident within their communities.
+As part of social innovation, makerspaces and EU funds can be used to develop educational and training programs, providing workshops and skill development opportunities for members and the wider community. This can enhance the skill sets of participants, making them more confident within their communities.
 
 In conclusion, obtaining EU funds can significantly enhance the development and impact of a makerspace during settlement, providing financial stability, access to advanced resources, opportunities for innovation, wide networks for diverse community building, and sustainable practices. Beyond all these advantages, the application process for funds gives makers and founders self-discipline and opportunities to develop their skills in forecasting, feasibility, and project management, which are crucial for a sustainable makerspace project.
 
@@ -596,17 +604,23 @@ https://clustercollaboration.eu
 
 **Funding and Opportunities Austria**
 
-1. Förderpilot - Great starting point for your search regardless of your stage of development, including grants, loans, incubators, coaching, etc. https://www.foerderpilot.at/home
+1. Förderpilot - Great starting point for your search regardless of your stage of development, including grants, loans, incubators, coaching, etc.
+https://www.foerderpilot.at/home
 
-2. Austrian Research Promotion Agency (FFG) - wide variety of support for research, development and innovation. https://www.ffg.at/en
+2. Austrian Research Promotion Agency (FFG) - wide variety of support for research, development and innovation.
+https://www.ffg.at/en
 
-3. Vienna Business Agency - grants, coaching, consulting, etc. https://viennabusinessagency.at/current-funding/
+3. Vienna Business Agency - grants, coaching, consulting, etc.
+https://viennabusinessagency.at/current-funding/
 
-4. Austria Wirtschaftsservice - grants, equity, loans, guarantees, etc. https://www.aws.at/en/
+4. Austria Wirtschaftsservice - grants, equity, loans, guarantees, etc.
+https://www.aws.at/en/
 
-5. waff - Innovation and Employment Grant https://www.waff.at/en/ 
+5. waff - Innovation and Employment Grant
+https://www.waff.at/en/ 
 
-6. WKÖ - Foundation, succession & handover https://www.wko.at/oe/foerderungen/gruenden/gruendung-nachfolge--uebergabe
+6. WKÖ - Foundation, succession & handover
+https://www.wko.at/oe/foerderungen/gruenden/gruendung-nachfolge--uebergabe
 
 **Funding and Opportunities Spain**
 
@@ -654,11 +668,14 @@ https://www.kosgeb.gov.tr
 
 EIT – various programmes launched at the beginning of the year
 
-1. EIT Entrepreneurial Educational Training https://eit.europa.eu/activities/eit-entrepreneurial-education-learn-leaders-european-innovation 
+1. EIT Entrepreneurial Educational Training
+https://eit.europa.eu/activities/eit-entrepreneurial-education-learn-leaders-european-innovation 
 
-2. EIT Business Creation Programme https://eit.europa.eu/activities/eit-business-creation-programmes-better-way-build-your-business 
+2. EIT Business Creation Programme
+https://eit.europa.eu/activities/eit-business-creation-programmes-better-way-build-your-business 
 
-3. EIT Innovation Driven Research-Acceleration https://eit.europa.eu/activities/innovation-how-our-model-drives-progress
+3. EIT Innovation Driven Research-Acceleration
+https://eit.europa.eu/activities/innovation-how-our-model-drives-progress
 
 4. ClimateLaunchpad
 https://climatelaunchpad.org
@@ -667,6 +684,24 @@ https://climatelaunchpad.org
 https://bevisioneers.world
 
 ##Summary
+
+Both makerspaces and the maker movement have been developing since the movement started almost two decades ago. However, there is still a long way to go as fabrication technologies continue to evolve, social innovation needs to progress, and urban areas must become more sustainable and circular. It is certain that further and more meaningful makerspace projects will be put into practice, and this is a necessity. This framework is designed to serve as a guide for makers who want to establish their own makerspaces and for existing makerspaces looking for opportunities to upgrade themselves for greater sustainability.
+
+Even though it might seem repetitive, the literature review provides an overall understanding and knowledge of making, makers, and makerspaces. Information about the history of the maker movement, previous movements that empowered making and makerspaces, the pioneers of the movement, and primary resources essential for beginners and enthusiasts were examined during the initial period of this project.
+
+Additionally, a case study was conducted as a result of year-long volunteering and participation in five makerspaces of various scales and content in the city of Barcelona. A mapping methodology called Atlas of Makerspaces was created, inspired by one of the initial courses of MDEF01, which is called Atlas of Weak Signals. During the case study, experts, makers, co-founders, executors, and participants from these makerspaces contributed to the Atlas of Makerspaces methodology by adding their own cards and keywords to the Miro Board used as a platform for contributors. After several discussions, the mapping structure was formed and a relationship network was created.
+
+The three main components of a makerspace—domain, community, and physical space—were elaborated on in terms of impact, motivation, activities, challenges, participants, collaborators, supporters, techniques, and machines. This relationship mapping was then applied to the five makerspaces, resulting in the creation of a makerspace identity card for each one. As a result, the structure of a makerspace and the importance of each component, both individually and collectively, can be clearly seen through this significant case study on makerspaces.
+
+In the following stage, the development process of the maker movement was analyzed to define and understand the transformation of makerspaces from workshops of digital fabrication to creative hubs and social innovation centers in urban areas. Several strategic decisions made by makers and makerspaces and the projects they participated in contributed to this evolution. First of all, the fab-lab model was enhanced by including traditional wood and metal workshops and sewing equipment. Each addition promoted the diversification of the community of makerspaces. Diverse communities began to develop various meaningful projects, resulting in the evolution of fab-lab based models into more sophisticated creative hubs.
+
+On the other hand, these inclusive makerspaces started to support small local maker communities with fewer opportunities by collaborating and sharing resources. Product libraries, repair workshops, and community gardens were included in the maker movement by this approach. Moreover, diverse maker communities in makerspaces were able to blend urban productivity with social and environmental projects for building alternative presents and sustainable futures. Waste management, circular economy, urban self-sufficiency through local production, and alternative supply chains are important subjects that the maker movement contributes to by developing projects. Supporting important social and environmental projects with diverse maker communities and productive approaches has helped the maker movement grow, gain more recognition, and become grassroots.
+
+Finally, to ensure makerspaces remain relevant two decades after the maker revolution started, some makerspaces decided to build further coalitions and alliances by pairing up makers and practitioners. In other words, redesigning artisanal practices with digital fabrication tools has opened up a new stage for the maker movement. As a result of these alliances, while practitioners gain skills and confidence in technology and build new facilities and equipment, makers also build new capacities and extend their knowledge to improve further projects. Agriculture, crafts, and even ancient production practices have been rediscovered recently with this approach. Projects aimed at circular and urban self-sufficiency within food, energy, and materials have started to be carried out. Thus, building new coalitions by redesigning artisanal practices with digital fabrication tools empowers the maker movement by supporting both parties to build new capacities and gain skills and knowledge.
+
+To sum up, throughout this framework, essential subjects were highlighted, and important tips were mentioned as a guide for makers during establishment and for makerspaces to upgrade themselves. It is also crucial to check and consider popular trends, movements, and open project calls from European Union institutes, as mentioned in the funds and opportunities section. A detailed project proposal is helpful both to apply for funds and to realize maker projects sustainably and successfully.
+
+
 
 
 
