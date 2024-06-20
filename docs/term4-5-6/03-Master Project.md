@@ -721,7 +721,81 @@ Makerspaces and the maker movement are crucial for social innovation, circular c
 
 Makerspaces enable people to actively participate in self-provisioning rather than being passive recipients of an often opaque supply chain with hidden environmental and social impacts scattered across the globe. They have the potential to challenge the primacy of consumption and the culture of disposability, encouraging people to see themselves as citizens, not just consumers. These cultural shifts are critical for creating sustainable futures.
 
-**Project Proposal**
+**Project Proposal Outline**
+
+**Executive Summary**
+
+Turkish citizens used to be more conscientious about consuming natural resources until the 1990s. We repaired our shoes, electronics, furniture, clothes, and more. Services for repairs were easy to find. However, as cities became more crowded, lifestyles changed, and neighborhoods transformed into shopping malls and trendy coffee shops, such as those following Starbucks' proliferation. Consequently, old hardware stores, small wood and metal workshops, and tailor shops—which once acted as small product libraries, local networks for practitioners and repairmen, and free consultants for locals—were replaced by third-wave coffee shops, especially in Istanbul.
+
+Additionally, after the mid-1980s, a culture of consumption started to be imposed, and buying new items rather than repairing, reusing, and recycling became the new norm. Small plots of land and fields used for agriculture and farming in and around urban areas were transformed into construction sites for residential and commercial use. This led citizens to become disconnected from nature, production, and sustainability, turning most into mere consumers. Few metal and wood workshops, hardware stores, tailor shops, and junk dealers struggle to survive in central neighborhoods of Istanbul. On the other hand, there are many architecture, design, and art schools in the city, offering a huge potential to connect with students and cultivate collaborative projects for the city.
+
+Istanbul is a vast city with over 25 million residents, yet it is far from being a circular city. There is no comprehensive plan for recycling and waste management. Numerous collectors dig through trash bins in neighborhoods across the city, facing troubles with the municipality despite the lack of regulation. These collectors try to classify waste into paper, metal, and plastic to sell for small amounts to recyclers, struggling to survive in the city.
+
+There are some makerspaces in Istanbul, most of which are dedicated to digital fabrication and are exclusive. One makerspace, built with the support of the Horizon 2020 EU project, is managed by the municipality. Despite its potential to accelerate the maker movement in the city, municipal bureaucracy hinders its progress, and the executors are not willing to put in the effort to overcome these difficulties. They attempt to develop projects related to recycling, reusing, and waste management, but only on a very small scale. Other makerspaces in the city are either heavily focused on commercial projects or entirely exclusive in order to survive financially.
+
+To sum up, Istanbul needs an inclusive makerspace that can accelerate the maker movement and develop projects on waste management and the circular economy, helping to create alternative supply chains. Such a makerspace has the potential to challenge the primacy of consumption and the culture of disposability, encouraging the people of Istanbul to see themselves as citizens, not just consumers. These cultural shifts are critical for creating sustainable futures.
+
+**Establishment of an Inclusive Makerspace in Istanbul Focused on Waste Management and Circular Economy**
+
+**Project Title:**
+
+Kök İstanbul/Empowering maker communities through waste management and circular economy practices
+
+**Applicants Name:**
+
+Çağlar Alkan/ındustrial Designer, Nurullah Kaya/Architect, Sedef Öksüz/Maker, Özlem Öz/Graphic Artist
+
+**Project Duration:**
+
+24 months
+
+**Project Location:**
+
+Istanbul (Kasımpaşa/Fenerbahçe), Turkey
+
+**Background and Rationale:**
+
+Turkish citizens historically practiced sustainability through repairing and reusing items until the 1990s. However, increased urbanization, lifestyle changes, and the rise of consumption culture have led to a decline in these practices. Neighborhoods transformed, replacing old hardware stores and repair shops with commercial entities like third-wave coffee shops. Consequently, traditional repair services diminished, and consumerism surged.
+Istanbul, a sprawling metropolis with over 25 million residents, faces significant waste management challenges. The absence of a comprehensive recycling plan and the marginalization of waste collectors highlight the city's need for systemic change. Despite existing makerspaces, many focus on digital fabrication and remain exclusive. The potential of these spaces to drive the maker movement is stifled by municipal bureaucracy and limited project scopes.
+Given Istanbul's diverse population and numerous academic institutions, there is a substantial opportunity to engage students and professionals in innovative sustainability projects. An inclusive makerspace dedicated to waste management and circular economy practices can serve as a catalyst for cultural and environmental change.
+
+**Project Objectives:**
+
+**Establish an Inclusive Makerspace:** Create a collaborative space accessible to all community members, fostering innovation in waste management and circular economy practices.
+
+**Promote Repair, Reuse, and Recycling:** Encourage traditional repair practices and integrate them with modern digital fabrication techniques.
+
+**Support Circular Economy Projects:** Develop projects such as Precious Plastics to transform waste into valuable resources.
+
+**Engage and Educate the Community:** Conduct workshops, seminars, and events to raise awareness and skills related to sustainability and circular economy.
+
+**Collaborate with Local Institutions:** Partner with universities, local businesses, and municipalities to support the makerspace and its initiatives.
+
+**Project Activities:** Space Setup and Equipment Procurement: Secure a location in a central neighborhood of Istanbul. Equip the makerspace with necessary tools for woodwork, metalwork, sewing, and digital fabrication.
+
+**Community Outreach and Engagement:** Organize community meetings to gather input and build support. Launch a social media campaign to promote the makerspace and its mission.
+
+**Workshops and Training Programs:** Offer regular workshops on repair, reuse, and recycling techniques. Provide training on digital fabrication tools and their integration with traditional practices.
+
+**Circular Economy Projects:** Implement the Precious Plastics project to recycle plastic waste into new products. Develop additional projects focused on transforming waste materials into usable goods.
+
+**Collaboration and Networking:** Establish partnerships with local universities, architecture, design, and art schools. Collaborate with local businesses and municipal authorities to support and expand the makerspace's initiatives.
+
+**Expected Outcomes:** Increased Community Engagement: Build a diverse and active community of makers, practitioners, and students. Foster a culture of repair, reuse, and recycling in Istanbul.
+
+**Sustainable Practices:** Reduce waste through innovative recycling and upcycling projects. Promote sustainable living practices among Istanbul residents.
+
+**Educational Impact:** Enhance skills and knowledge related to digital fabrication and traditional repair techniques. Raise awareness of the importance of the circular economy and sustainability.
+
+**Policy and Advocacy:** Influence local policies to support waste management and circular economy practices. Serve as a model for other cities seeking to implement similar initiatives.
+
+**Budget:**
+
+![](../images/budget1.jpg)
+
+**Conclusion:**
+
+The establishment of an inclusive makerspace in Istanbul, focused on waste management and circular economy practices, has the potential to transform the city's approach to sustainability. By engaging a diverse community and fostering innovation, the project will not only reduce waste but also create a more sustainable and resilient urban environment. This proposal seeks European Union funding to realize this vision and contribute to the broader goals of environmental sustainability and community empowerment.
 
 ##Bibliography
 
@@ -742,3 +816,27 @@ Horizon 2020, Pop-Machina Project, www.pop-machina.eu/, 2020.
 Fab City Hub., A Co-Creation Hub to Design the Future, www.bcn.fab.city/, Fab Lab Barcelona-IAAC, 2019.
 
 ##References
+
+Anderson, C. (2012). Makers: The New Industrial Revolution. Crown Business.
+
+Bogers, L., & Chiappini, L. (2019). Becoming a Maker: Introducing Making and Maker Culture to Teachers. In L.
+
+Bogers & L. Chiappini (Eds.), The Critical Makers Reader: (Un)learning Technology (pp. 9-21). Institute of Network Cultures.
+
+Canino-Fluit, A. (2014). Why Makerspaces Are So Important. School Library Journal. Retrieved from School Library Journal
+
+Dougherty, D. (2012). The Maker Movement. Innovations: Technology, Governance, Globalization, 7(3), 11-14.
+
+Gauntlett, D. (2011). Making is Connecting: The Social Meaning of Creativity, from DIY and Knitting to YouTube and Web 2.0. Polity Press.
+
+Gershenfeld, N. (2005). Fab: The Coming Revolution on Your Desktop-from Personal Computers to Personal Fabrication. Basic Books.
+
+Koehn, D. (2015). The Ethics of the Maker Movement: The Potentially Good and the Possibly Terrible. Technology Innovation Management Review, 5(6), 30-35.
+
+Meriçliler, N. (2023). The Meanings of Making and Identifying as a Maker: Definitions and Characteristics. International Journal of Technology and Design Education, 29, 25-42.
+
+Oldenburg, R. (1989). The Great Good Place: Cafes, Coffee Shops, Bookstores, Bars, Hair Salons, and Other Hangouts at the Heart of a Community. Marlowe & Company.
+
+Smith, A. (2017). Social Innovation, Democracy, and Makerspaces. Journal of Peer Production, 10. Retrieved from Journal of Peer Production
+
+Stoyanova, M. (2017). The Maker Movement: Hackers, Makerspaces, and DIY Culture. International Journal of Design, 11(2), 57-70. ​
